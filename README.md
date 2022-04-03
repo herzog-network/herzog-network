@@ -8,3 +8,7 @@
 <a href="https://github.com/herzog-network">
   <img align="center" width="49%" src="./achievements.svg" />
 </a>
+
+<a href="https://github.com/herzog-network">
+  <img align="center" width="99%" src="./languages.svg" />
+</a>
