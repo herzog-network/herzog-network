@@ -10,8 +10,15 @@
 </a>
 
 <a href="https://github.com/herzog-network">
-  <img align="center" width="49%" src="./languages.svg" />
+  <img align="center" width="49%" src="./featured.svg" />
 </a>
 <a href="https://github.com/herzog-network">
-  <img align="center" width="49%" src="./featured.svg" />
+  <img align="center" width="49%" src="./languages.svg" />
+</a>
+
+<a href="https://github.com/herzog-network">
+  <img align="center" width="49%" src="./ycombinator-rss.svg" />
+</a>
+<a href="https://github.com/herzog-network">
+  <img align="center" width="49%" src="./web-performance.svg" />
 </a>
