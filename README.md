@@ -10,5 +10,8 @@
 </a>
 
 <a href="https://github.com/herzog-network">
-  <img align="center" width="75%" src="./languages.svg" />
+  <img align="center" width="49%" src="./languages.svg" />
+</a>
+<a href="https://github.com/herzog-network">
+  <img align="center" width="49%" src="./featured.svg" />
 </a>
