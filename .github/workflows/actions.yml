@@ -129,5 +129,5 @@ jobs:
           base: ""
           config_timezone: Europe/Berlin
           plugin_rss: yes
-          plugin_rss_limit: 4
+          plugin_rss_limit: 7
           plugin_rss_source: https://news.ycombinator.com/rss
