@@ -3,8 +3,8 @@
 </a>
 <br/>
 <a href="https://github.com/herzog-network">
-  <img align="center" width="49%" src="./achievements.svg" />
+  <img align="center" width="49%" src="./iso-calender.svg" />
 </a>
 <a href="https://github.com/herzog-network">
-  <img align="center" width="49%" src="./iso-calender.svg" />
+  <img align="center" width="49%" src="./achievements.svg" />
 </a>
