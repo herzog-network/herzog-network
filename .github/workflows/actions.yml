@@ -113,7 +113,7 @@ jobs:
           config_timezone: Europe/Berlin
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: https://herzog.network/
 
   ycombinator-rss:
     runs-on: ubuntu-latest
