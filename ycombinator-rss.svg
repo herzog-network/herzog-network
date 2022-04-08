@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I Made a Puzzle Game in HTML5</div>
+                                <div class="title">NotepadNext: A cross-platform reimplementation of Notepad++</div>
                                 <div class="date">8 Apr 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mutagen – Cloud-based development using your local tools</div>
+                                <div class="title">A naked skydive inspired a way to keep pilots oriented in flight</div>
                                 <div class="date">8 Apr 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Measurement of the W boson mass reveals 7σ deviation from calculations</div>
+                                <div class="title">The United States Digital Corps</div>
                                 <div class="date">8 Apr 2022</div>
                             </div>
                         </div>
@@ -47,16 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scaling lessons learned at Dropbox (2012)</div>
-                                <div class="date">7 Apr 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Transformer Inference Arithmetic</div>
+                                <div class="title">Show HN: I made a puzzle game in HTML5</div>
                                 <div class="date">8 Apr 2022</div>
                             </div>
                         </div>
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">3M Cuts Output of PFAS Used in Chip Production</div>
-                                <div class="date">7 Apr 2022</div>
+                                <div class="title">List of 3.9k Twitter accounts dropping “.eth” from usernames</div>
+                                <div class="date">8 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">iFixit and Google Are Launching a Genuine Pixel Parts Program</div>
+                                <div class="title">Kable (YC W22) Is Hiring Founding Engineers</div>
+                                <div class="date">8 Apr 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Turborepo 1.2: High-performance build system for monorepos</div>
                                 <div class="date">8 Apr 2022</div>
                             </div>
                         </div>
