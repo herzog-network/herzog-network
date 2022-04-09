@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">RIP Bill Jolitz (1957 – 2022), co-author of 386BSD</div>
+                                <div class="title">Bill Jolitz has died</div>
                                 <div class="date">9 Apr 2022</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NPM package event-source-polyfill compromised by political activists</div>
-                                <div class="date">9 Apr 2022</div>
+                                <div class="title">rand() may call malloc()</div>
+                                <div class="date">7 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Drone footage of Tesla factory</div>
-                                <div class="date">8 Apr 2022</div>
+                                <div class="title">Always Tell Your Kids the Truth</div>
+                                <div class="date">9 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NotepadNext: A cross-platform reimplementation of Notepad++</div>
+                                <div class="title">Drone footage of Tesla factory</div>
                                 <div class="date">8 Apr 2022</div>
                             </div>
                         </div>
