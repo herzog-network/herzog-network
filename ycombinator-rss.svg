@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Joy of Small Projects</div>
+                                <div class="title">My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing</div>
                                 <div class="date">10 Apr 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing</div>
+                                <div class="title">The Joy of Small Projects</div>
                                 <div class="date">10 Apr 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WeekToDo – Free Minimalist Weekly Planner App</div>
+                                <div class="title">C72: A port of the earliest C compiler to x86 (2021)</div>
                                 <div class="date">10 Apr 2022</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What Is Rust's Unsafe?</div>
+                                <div class="title">WeekToDo – Free Minimalist Weekly Planner App</div>
                                 <div class="date">10 Apr 2022</div>
                             </div>
                         </div>
