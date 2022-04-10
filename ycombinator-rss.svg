@@ -56,8 +56,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Developer's confession: Why Philae crashed (2018)</div>
-                                <div class="date">8 Apr 2022</div>
+                                <div class="title">What is the Eurodollar System? (2020) [pdf]</div>
+                                <div class="date">10 Apr 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Deepnote (YC S19) is hiring a lead engineer to build a better notebook (Europe)</div>
+                                <div class="date">10 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">Ask HN: How to improve as a struggling junior swe?</div>
                                 <div class="date">10 Apr 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Huge Endeavor to Produce a Tiny Microchip</div>
-                                <div class="date">8 Apr 2022</div>
                             </div>
                         </div>
                     </section>
