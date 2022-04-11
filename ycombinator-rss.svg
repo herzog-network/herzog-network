@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Elon has decided not to join our board</div>
-                                <div class="date">11 Apr 2022</div>
+                                <div class="title">Achievement unlocked: rustc segfault</div>
+                                <div class="date">10 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Achievement unlocked: rustc segfault</div>
-                                <div class="date">10 Apr 2022</div>
+                                <div class="title">Elon has decided not to join our board</div>
+                                <div class="date">11 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Van life (cancer edition) finale</div>
+                                <div class="title">Conflict-Free Replicated Data Types (CRDT)</div>
                                 <div class="date">11 Apr 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Joy of Small Projects</div>
-                                <div class="date">10 Apr 2022</div>
+                                <div class="title">I must announce the immediate end of service of SSLPing</div>
+                                <div class="date">11 Apr 2022</div>
                             </div>
                         </div>
                     </section>
