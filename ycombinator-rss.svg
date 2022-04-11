@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Researchers home in on possible “day zero” for Antikythera mechanism</div>
+                                <div class="title">How FAANG etc. architect their recommendation systems at scale</div>
                                 <div class="date">11 Apr 2022</div>
                             </div>
                         </div>
@@ -47,6 +47,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">How and why Daily is using Rust for our WebRTC APIs</div>
+                                <div class="date">11 Apr 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">I must announce the immediate end of service of SSLPing</div>
                                 <div class="date">11 Apr 2022</div>
                             </div>
@@ -56,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tonight we’re gonna log on like it's 1979</div>
+                                <div class="title">Pachyderm Is Hiring SDET&amp;Build/Release Eng to Power the Data-Centric AI Platform</div>
                                 <div class="date">11 Apr 2022</div>
                             </div>
                         </div>
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">More Fakery</div>
-                                <div class="date">11 Apr 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">I liked the idea of carbon offsets until I tried to explain it</div>
                                 <div class="date">11 Apr 2022</div>
                             </div>
                         </div>
