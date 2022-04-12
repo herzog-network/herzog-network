@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google announced its free ACME server</div>
+                                <div class="title">Automate Public Certificates Lifecycle Management via RFC 8555 (ACME)</div>
                                 <div class="date">12 Apr 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Our World in Data (YC W19) Is Hiring an Ops Officer</div>
+                                <div class="title">Privacy-Respecting Software</div>
                                 <div class="date">12 Apr 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lagrange Pre-Release – A Gemini client that also supports Gopher and Finger</div>
-                                <div class="date">12 Apr 2022</div>
+                                <div class="title">Why the past 10 years of American life have been uniquely stupid</div>
+                                <div class="date">11 Apr 2022</div>
                             </div>
                         </div>
                     </section>
