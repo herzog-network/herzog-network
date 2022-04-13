@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Inside the longest Atlassian outage of all time</div>
+                                <div class="title">Inside the longest Atlassian outage</div>
                                 <div class="date">13 Apr 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">You’re muted – or are you? Videoconferencing apps listen even when mic is off</div>
+                                <div class="title">You’re muted – or are you? Videoconferencing apps may listen when mic is off</div>
                                 <div class="date">13 Apr 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Modern Self-Referential Weight Matrix That Learns to Modify Itself</div>
+                                <div class="title">Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers</div>
                                 <div class="date">13 Apr 2022</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Discord is switching from Go to Rust</div>
+                                <div class="title">A modern self-referential weight matrix that learns to modify itself</div>
                                 <div class="date">13 Apr 2022</div>
                             </div>
                         </div>
