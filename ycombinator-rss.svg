@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: My website, hosted on a 386 25 MHz, 4 MiB of RAM, 38400 baud internet</div>
+                                <div class="title">The 'Batman Effect': How having an alter ego empowers you</div>
                                 <div class="date">16 Apr 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The 'Batman Effect': How having an alter ego empowers you</div>
+                                <div class="title">Show HN: My website, hosted on a 386 25 MHz, 4 MiB of RAM, 38400 baud internet</div>
                                 <div class="date">16 Apr 2022</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Using SBCL Common Lisp as a Dynamic Library</div>
-                                <div class="date">16 Apr 2022</div>
+                                <div class="title">Show HN: My mate is making a tool for DnD players to quickly visualise scenarios</div>
+                                <div class="date">14 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A New Map of All the Particles and Forces (2020)</div>
+                                <div class="title">Notable items missing from English Wikipedia</div>
                                 <div class="date">16 Apr 2022</div>
                             </div>
                         </div>
