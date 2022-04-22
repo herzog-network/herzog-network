@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How Postgres Chooses Which Index to Use for a Query</div>
+                                <div class="title">How Postgres chooses which index to use for a query</div>
                                 <div class="date">21 Apr 2022</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">5G is a joke and the iPhone is the well-timed punchline</div>
-                                <div class="date">22 Apr 2022</div>
+                                <div class="title">Python’s “type hints” are a bit of a disappointment to me</div>
+                                <div class="date">21 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The U.S.S. Akron and U.S.S. Macon, America's “flying aircraft carriers”</div>
+                                <div class="title">GitHub: Private Profiles beta</div>
                                 <div class="date">21 Apr 2022</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Panic Playdate Review</div>
-                                <div class="date">19 Apr 2022</div>
+                                <div class="title">The U.S.S. Akron and U.S.S. Macon, America's “flying aircraft carriers”</div>
+                                <div class="date">21 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Listerine Mouthwash Royalties</div>
-                                <div class="date">21 Apr 2022</div>
+                                <div class="title">Panic Playdate Review</div>
+                                <div class="date">19 Apr 2022</div>
                             </div>
                         </div>
                     </section>
