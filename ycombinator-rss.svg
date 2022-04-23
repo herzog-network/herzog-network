@@ -29,6 +29,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">This AI Does Not Exist</div>
+                                <div class="date">23 Apr 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">I stopped working on black hole information loss</div>
                                 <div class="date">23 Apr 2022</div>
                             </div>
@@ -38,16 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The digital ranging system that measured the distance to the Apollo spacecraft</div>
-                                <div class="date">23 Apr 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">VeriGPU: GPU in Verilog loosely based on RISC-V ISA</div>
+                                <div class="title">The one time North Vietnam’s MiGs attacked U.S. navy warships</div>
                                 <div class="date">23 Apr 2022</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pattie Maes and the foundations of social networks</div>
-                                <div class="date">22 Apr 2022</div>
+                                <div class="title">Kable (YC W22) Is Hiring Founding Engineers (Remote)</div>
+                                <div class="date">23 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple says they're removing my game because it's more than 2 years old</div>
+                                <div class="title">The digital ranging system that measured the distance to the Apollo spacecraft</div>
                                 <div class="date">23 Apr 2022</div>
                             </div>
                         </div>
