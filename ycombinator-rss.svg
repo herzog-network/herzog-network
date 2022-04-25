@@ -38,6 +38,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">French fighter jet joy ride goes très, très wrong (2020)</div>
+                                <div class="date">24 Apr 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Show HN: I'm making a dynamic language in Rust</div>
                                 <div class="date">25 Apr 2022</div>
                             </div>
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">French fighter jet joy ride goes très, très wrong (2020)</div>
-                                <div class="date">24 Apr 2022</div>
+                                <div class="title">Shanghai video overwhelms Chinese censor, gets 400m views</div>
+                                <div class="date">25 Apr 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Generating the pseudo-random codes that measured distance to Apollo spacecraft</div>
+                                <div class="title">Crimes with Go Generics</div>
                                 <div class="date">25 Apr 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Fedora 36: A brave new (DRM/KMS only) world</div>
-                                <div class="date">24 Apr 2022</div>
                             </div>
                         </div>
                     </section>
