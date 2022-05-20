@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti</div>
+                                <div class="date">20 May 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">ACM Digital Library Archive is Open Access with 50 Years of Published Records</div>
                                 <div class="date">20 May 2022</div>
                             </div>
@@ -30,15 +39,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">9-Euro-Ticket</div>
-                                <div class="date">20 May 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Workarounds to computer access in healthcare organizations (2015) [pdf]</div>
                                 <div class="date">20 May 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mito – Excel-like interface for Pandas dataframes in Jupyter notebook</div>
+                                <div class="title">Workarounds to computer access in healthcare organizations (2015) [pdf]</div>
                                 <div class="date">20 May 2022</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tether Required Recapitalization in May 2022</div>
+                                <div class="title">Basis (YC S21) Is hiring devs to help build Figma for data</div>
                                 <div class="date">20 May 2022</div>
                             </div>
                         </div>
