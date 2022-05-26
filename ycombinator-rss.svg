@@ -38,6 +38,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Low-Cost Gel Film Can Pluck Drinking Water from Desert Air</div>
+                                <div class="date">26 May 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Broadcom to Acquire VMware for $61B</div>
                                 <div class="date">26 May 2022</div>
                             </div>
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Imagen Open Source implementation from the same developer as the one for DALL-E2</div>
-                                <div class="date">26 May 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Original Pong did not have any code or even a microprocessor</div>
                                 <div class="date">26 May 2022</div>
                             </div>
                         </div>
