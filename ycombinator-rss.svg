@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My Students Cheated... a Lot</div>
+                                <div class="title">My students cheated... a lot</div>
                                 <div class="date">29 May 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Reason You See Earthworms After Rain (2019)</div>
+                                <div class="title">Earthworms after rain (2019)</div>
                                 <div class="date">29 May 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building a Threat Intelligence Feed Using the Twitter API and a Bit of Code</div>
+                                <div class="title">In defense of coding interviews</div>
                                 <div class="date">29 May 2022</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Debugging a Mysterious Python Crash</div>
+                                <div class="title">Debugging a mysterious Python crash</div>
                                 <div class="date">29 May 2022</div>
                             </div>
                         </div>
