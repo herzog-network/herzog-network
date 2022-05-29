@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why does this code execute more slowly after strength-reducing multiplications?</div>
+                                <div class="title">Privacy first, open source home automation</div>
                                 <div class="date">29 May 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Privacy first, open source home automation</div>
+                                <div class="title">Why does this code execute more slowly after strength-reducing multiplications?</div>
                                 <div class="date">29 May 2022</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ray-optics: a web app to simulate the reflection and refraction of light</div>
-                                <div class="date">28 May 2022</div>
+                                <div class="title">Setting up a Pi Hole made my home network faster</div>
+                                <div class="date">29 May 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Setting up a Pi Hole made my home network faster</div>
-                                <div class="date">29 May 2022</div>
+                                <div class="title">Ray-optics: a web app to simulate the reflection and refraction of light</div>
+                                <div class="date">28 May 2022</div>
                             </div>
                         </div>
                     </section>
