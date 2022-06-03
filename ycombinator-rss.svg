@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GSoC 22: Adding features to Thunar file manager</div>
+                                <div class="title">C library for multiple-precision floating-point arithmetic with correct rounding</div>
                                 <div class="date">3 Jun 2022</div>
                             </div>
                         </div>
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">C library for multiple-precision floating-point arithmetic with correct rounding</div>
-                                <div class="date">3 Jun 2022</div>
+                                <div class="title">Rethink-app: DNS over HTTPS, firewall, and connection tracker for Android</div>
+                                <div class="date">30 May 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rust Is Hard, Or: The Misery of Mainstream Programming</div>
-                                <div class="date">2 Jun 2022</div>
+                                <div class="title">Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines</div>
+                                <div class="date">3 Jun 2022</div>
                             </div>
                         </div>
                     </section>
