@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">γ-Linolenic Acid Makes Old Blood New Again</div>
+                                <div class="title">Source code for 4kb demoscene production “Elevated” released (2016)</div>
                                 <div class="date">6 Jun 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Source code for 4kb demoscene production “Elevated” released (2016)</div>
+                                <div class="title">Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools</div>
                                 <div class="date">6 Jun 2022</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LeekWars, program your AI to destroy your leek enemies</div>
-                                <div class="date">5 Jun 2022</div>
+                                <div class="title">γ-Linolenic Acid Makes Old Blood New Again</div>
+                                <div class="date">6 Jun 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools</div>
-                                <div class="date">6 Jun 2022</div>
+                                <div class="title">LeekWars, program your AI to destroy your leek enemies</div>
+                                <div class="date">5 Jun 2022</div>
                             </div>
                         </div>
                     </section>
