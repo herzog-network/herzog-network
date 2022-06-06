@@ -29,15 +29,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple Unveils M2</div>
-                                <div class="date">6 Jun 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Running Intel Binaries in Linux VMs with Rosetta</div>
                                 <div class="date">6 Jun 2022</div>
                             </div>
@@ -48,6 +39,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">iPadOS 16 takes the versatility of iPad even further</div>
+                                <div class="date">6 Jun 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Run full Linux distributions on Apple Silicon</div>
                                 <div class="date">6 Jun 2022</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Graduate Student’s Side Project Proves Prime Number Conjecture</div>
+                                <div class="title">iOS 16 to support Web push notifications in 2023</div>
                                 <div class="date">6 Jun 2022</div>
                             </div>
                         </div>
