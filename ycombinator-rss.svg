@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple and Google’s mobile browser ‘stranglehold’ may face UK investigation</div>
-                                <div class="date">11 Jun 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">I turned down $500K, Pissed off my investors, and Shut down my startup (2016)</div>
                                 <div class="date">11 Jun 2022</div>
                             </div>
@@ -47,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MIT Ends Elsevier Negotiations (2020)</div>
+                                <div class="title">A Facebook crawler was making 7M requests per day to my stupid website (2020)</div>
                                 <div class="date">11 Jun 2022</div>
                             </div>
                         </div>
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips</div>
-                                <div class="date">10 Jun 2022</div>
+                                <div class="title">MIT Ends Elsevier Negotiations (2020)</div>
+                                <div class="date">11 Jun 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple M2 Die Shot and Architecture Analysis – Big Cost Increase and A15 Based IP</div>
+                                <div class="title">Tara AI Is Hiring for a growth lead to handle inbound and SEO</div>
+                                <div class="date">11 Jun 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips</div>
                                 <div class="date">10 Jun 2022</div>
                             </div>
                         </div>
