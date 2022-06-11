@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">DNS Toys</div>
+                                <div class="date">11 Jun 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">A Trail Tale</div>
                                 <div class="date">11 Jun 2022</div>
                             </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trump’s Truth Social Is Banning Users Who Post About Jan. 6 Hearings</div>
+                                <div class="title">I don't want to go to Chel-C</div>
                                 <div class="date">11 Jun 2022</div>
                             </div>
                         </div>
@@ -47,15 +56,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips</div>
-                                <div class="date">10 Jun 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Transparent stairs: what happens when no-one on the design team wears skirts</div>
                                 <div class="date">11 Jun 2022</div>
                             </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Is “acceptably non-dystopian” self-sovereign identity even possible?</div>
-                                <div class="date">11 Jun 2022</div>
+                                <div class="title">MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips</div>
+                                <div class="date">10 Jun 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple M2 Die Shot and Architecture Analysis – Big Cost Increase and A15 Based IP</div>
-                                <div class="date">10 Jun 2022</div>
+                                <div class="title">Learn ML through live team competitions, not lectures</div>
+                                <div class="date">11 Jun 2022</div>
                             </div>
                         </div>
                     </section>
