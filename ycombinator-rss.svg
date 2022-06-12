@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata</div>
+                                <div class="title">Challenge: Pixel perfect design</div>
                                 <div class="date">12 Jun 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Reselling Software: Don’t Start a SaaS – White Label Someone Else’s Instead</div>
+                                <div class="title">ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years</div>
                                 <div class="date">12 Jun 2022</div>
                             </div>
                         </div>
@@ -56,7 +56,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Budget Culture and the Dave Ramseyfication of Money</div>
+                                <div class="title">A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata</div>
+                                <div class="date">12 Jun 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">How far behind a plane is its noise?</div>
                                 <div class="date">12 Jun 2022</div>
                             </div>
                         </div>
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Shortsightedness has become an epidemic</div>
-                                <div class="date">12 Jun 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Stuxnet is embarrassing, not amazing (2011)</div>
                                 <div class="date">12 Jun 2022</div>
                             </div>
                         </div>
