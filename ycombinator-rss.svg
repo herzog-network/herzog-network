@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ADHD Medication increases risk of Depression in Kids (Study) (2022)</div>
+                                <div class="title">Clarus Returns Home in macOS Ventura</div>
                                 <div class="date">14 Jun 2022</div>
                             </div>
                         </div>
@@ -38,16 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Quake on the Game Boy Advance</div>
-                                <div class="date">13 Jun 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Japan asteroid probe finds 23 amino acids, researchers confirm</div>
+                                <div class="title">Apple and MLS to present all MLS matches for 10 years, beginning in 2023</div>
                                 <div class="date">14 Jun 2022</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fork() without exec() is dangerous in large programs (2016)</div>
+                                <div class="title">Launch HN: Mintlify (YC W22) – Maintainable documentation for software teams</div>
                                 <div class="date">14 Jun 2022</div>
                             </div>
                         </div>
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Digibarn Devices: Xerox Star Keyboard</div>
+                                <div class="title">You Have Only So Much Time. Are You Using It Right?</div>
                                 <div class="date">14 Jun 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Quake on the Game Boy Advance</div>
+                                <div class="date">13 Jun 2022</div>
                             </div>
                         </div>
                     </section>
