@@ -38,15 +38,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Glucosamine significantly reduces risk of lung cancer and lung cancer mortality</div>
-                                <div class="date">15 Jun 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">PC Engine / TurboGrafx-16 Architecture</div>
                                 <div class="date">15 Jun 2022</div>
                             </div>
@@ -56,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The hunt for a cluster-killer Erlang bug</div>
-                                <div class="date">14 Jun 2022</div>
+                                <div class="title">Glucosamine significantly reduces risk of lung cancer and lung cancer mortality</div>
+                                <div class="date">15 Jun 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Clarus returns home in macOS Ventura</div>
-                                <div class="date">14 Jun 2022</div>
+                                <div class="title">Palm OS developer releases source to classic games, 20 years after release</div>
+                                <div class="date">15 Jun 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Everything Is Broken: Shipping Rust-Minidump at Mozilla</div>
+                                <div class="title">Air quality worsens as drought forces California growers to burn abandoned crops</div>
+                                <div class="date">15 Jun 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Write documentation first, then build</div>
                                 <div class="date">14 Jun 2022</div>
                             </div>
                         </div>
