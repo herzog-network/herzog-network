@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bolt has a cool web interface and they really don't want you to use it</div>
-                                <div class="date">19 Jun 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">How to Not Get Hit by Cars</div>
+                                <div class="title">Bunny fonts – privacy respecting drop-in replacement for Google Fonts</div>
                                 <div class="date">19 Jun 2022</div>
                             </div>
                         </div>
@@ -47,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bunny fonts – privacy respecting drop-in replacement for Google Fonts</div>
+                                <div class="title">Why does science news suck so much?</div>
                                 <div class="date">19 Jun 2022</div>
                             </div>
                         </div>
@@ -56,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why does science news suck so much?</div>
-                                <div class="date">19 Jun 2022</div>
+                                <div class="title">Harming the ‘Outgroup’ Linked to Elevated Activity in the Brain Reward Circuitry</div>
+                                <div class="date">17 Jun 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -76,6 +67,15 @@
                             <div class="infos">
                                 <div class="title">How we wound up with Linux's kernel mode setting ('KMS')</div>
                                 <div class="date">19 Jun 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Intel’s Netburst: Failure Is a Foundation for Success</div>
+                                <div class="date">18 Jun 2022</div>
                             </div>
                         </div>
                     </section>
