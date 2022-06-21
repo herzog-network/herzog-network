@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Psychology of not wanting to know [pdf]</div>
+                                <div class="title">How we made data aggregation on PostgreSQL better and faster</div>
                                 <div class="date">21 Jun 2022</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Timing Attacks</div>
+                                <div class="title">The Psychology of not wanting to know [pdf]</div>
                                 <div class="date">21 Jun 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A look at search engines with their own indexes (2021)</div>
+                                <div class="title">Timing Attacks</div>
                                 <div class="date">21 Jun 2022</div>
                             </div>
                         </div>
