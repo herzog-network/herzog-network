@@ -47,15 +47,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AT&amp;T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry</div>
-                                <div class="date">25 Jun 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Doom on a chip from a IKEA LED smart lamp</div>
                                 <div class="date">25 Jun 2022</div>
                             </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon</div>
+                                <div class="title">AT&amp;T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry</div>
                                 <div class="date">25 Jun 2022</div>
                             </div>
                         </div>
@@ -76,6 +67,15 @@
                             <div class="infos">
                                 <div class="title">Cycling: Why Tunnels are Better than Bridges (2014)</div>
                                 <div class="date">26 Jun 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon</div>
+                                <div class="date">25 Jun 2022</div>
                             </div>
                         </div>
                     </section>
