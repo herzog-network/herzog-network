@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Virgil: A fast and lightweight programming language that compiles to WASM</div>
+                                <div class="title">Notes on structured concurrency, or: Go statement considered harmful (2018)</div>
                                 <div class="date">2 Jul 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DiscoArt: Create compelling Disco Diffusion artworks in one line</div>
-                                <div class="date">1 Jul 2022</div>
+                                <div class="title">Virgil: A fast and lightweight programming language that compiles to WASM</div>
+                                <div class="date">2 Jul 2022</div>
                             </div>
                         </div>
                     </section>
