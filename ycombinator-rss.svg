@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple WeatherKit</div>
+                                <div class="title">WeatherKit</div>
                                 <div class="date">3 Jul 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to build a Chess Engine, an interactive guide</div>
+                                <div class="title">How to build a chess engine</div>
                                 <div class="date">3 Jul 2022</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">IPL: Intuitionistic Programming Language</div>
+                                <div class="title">IPL: Intuitionistic Programming Language (2013)</div>
                                 <div class="date">3 Jul 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Yahoo admits mangling e-mail (2002)</div>
-                                <div class="date">2 Jul 2022</div>
+                                <div class="title">Wordalle – Guess the prompt used to generate a set of images from DalleMini</div>
+                                <div class="date">1 Jul 2022</div>
                             </div>
                         </div>
                     </section>
