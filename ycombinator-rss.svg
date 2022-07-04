@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">macOS: App Sandboxing via Sandbox-Exec</div>
+                                <div class="title">macOS: App sandboxing via sandbox-exec</div>
                                 <div class="date">4 Jul 2022</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why nobody ever wins the car at the mall (2018)</div>
+                                <div class="title">Goodbye Medium, hello Ghost</div>
                                 <div class="date">4 Jul 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Goodbye Medium, hello Ghost</div>
+                                <div class="title">Why nobody ever wins the car at the mall (2018)</div>
                                 <div class="date">4 Jul 2022</div>
                             </div>
                         </div>
