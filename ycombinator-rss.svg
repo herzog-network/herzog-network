@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">India's largest stock broker has 30 devs</div>
+                                <div class="title">India's largest stock broker has 30 devs (2020)</div>
                                 <div class="date">6 Jul 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)</div>
+                                <div class="title">Historical weather data API for machine learning, free for non-commercial</div>
                                 <div class="date">5 Jul 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme</div>
+                                <div class="title">An Ubuntu kernel bug causes container crashes</div>
                                 <div class="date">6 Jul 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I don't care how you web dev; I just need more better web apps</div>
-                                <div class="date">5 Jul 2022</div>
+                                <div class="title">Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme</div>
+                                <div class="date">6 Jul 2022</div>
                             </div>
                         </div>
                     </section>
