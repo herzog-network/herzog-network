@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tell HN: I have the perfect job, why is it not enough?</div>
+                                <div class="title">Your compliance obligations under the UK’s Online Safety Bill</div>
                                 <div class="date">11 Jul 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Welcome to hell; or UK online safety bill compliance obligations</div>
+                                <div class="title">U.S. News pulls Columbia University from its 2022 rankings</div>
+                                <div class="date">9 Jul 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Postgres Full-Text Search: A Search Engine in a Database</div>
                                 <div class="date">11 Jul 2022</div>
                             </div>
                         </div>
@@ -38,16 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Meet the man keeping Blockbuster alive</div>
-                                <div class="date">10 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Lockheed Martin Prepar 3D</div>
+                                <div class="title">Universal Influenza B Vaccine Induces Broad, Sustained Protection</div>
                                 <div class="date">11 Jul 2022</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Working in the software industry, circa 1989</div>
-                                <div class="date">11 Jul 2022</div>
+                                <div class="title">Plano man keeping Blockbuster alive</div>
+                                <div class="date">10 Jul 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning</div>
+                                <div class="title">Lockheed Martin Prepar 3D</div>
                                 <div class="date">11 Jul 2022</div>
                             </div>
                         </div>
