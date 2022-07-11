@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Your compliance obligations under the UK’s Online Safety Bill</div>
+                                <div class="title">1.0 Euro is now worth $1.0 USD</div>
                                 <div class="date">11 Jul 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Postgres Full-Text Search: A Search Engine in a Database</div>
+                                <div class="title">Your compliance obligations under the UK’s Online Safety Bill</div>
                                 <div class="date">11 Jul 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Universal Influenza B Vaccine Induces Broad, Sustained Protection</div>
+                                <div class="title">Postgres full-text search: A search engine in a database (2021)</div>
+                                <div class="date">11 Jul 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">DeepMind AI learns simple physics like a baby</div>
                                 <div class="date">11 Jul 2022</div>
                             </div>
                         </div>
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">Plano man keeping Blockbuster alive</div>
                                 <div class="date">10 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Lockheed Martin Prepar 3D</div>
-                                <div class="date">11 Jul 2022</div>
                             </div>
                         </div>
                     </section>
