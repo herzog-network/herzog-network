@@ -47,15 +47,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tell HN: We are trying to get tail calls into the WebAssembly standard</div>
-                                <div class="date">12 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Retbleed: New speculative execution attack sends Intel and AMD scrambling</div>
                                 <div class="date">12 Jul 2022</div>
                             </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A/B testing gets misused to juice metrics in the short term</div>
+                                <div class="title">Tell HN: We are trying to get tail calls into the WebAssembly standard</div>
                                 <div class="date">12 Jul 2022</div>
                             </div>
                         </div>
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">James Webb first images – complete set of high resolution shots now live</div>
-                                <div class="date">12 Jul 2022</div>
+                                <div class="title">Ask HN: Has anyone here worked on the Windows kernel?</div>
+                                <div class="date">13 Jul 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">SL(1): Cure your bad habit of mistyping</div>
+                                <div class="date">11 Jul 2022</div>
                             </div>
                         </div>
                     </section>
