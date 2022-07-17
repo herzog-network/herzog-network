@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A systems model of anxiety-driven procrastination</div>
+                                <div class="title">I've started using Mozilla Firefox and now I can never go back to Google Chrome</div>
                                 <div class="date">17 Jul 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I've started using Mozilla Firefox and now I can never go back to Google Chrome</div>
+                                <div class="title">A systems model of anxiety-driven procrastination</div>
                                 <div class="date">17 Jul 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An interactive mechanical contraption in pure CSS</div>
+                                <div class="title">Pleasant Debugging with GDB and DDD</div>
                                 <div class="date">17 Jul 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Okay, Google: To protect women, collect less data about everyone</div>
-                                <div class="date">17 Jul 2022</div>
+                                <div class="title">Integer Math in JavaScript</div>
+                                <div class="date">15 Jul 2022</div>
                             </div>
                         </div>
                     </section>
