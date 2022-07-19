@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens</div>
+                                <div class="title">Show HN: My new free note taking tool</div>
                                 <div class="date">19 Jul 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Carbon Language: An experimental successor to C++</div>
+                                <div class="title">Show HN: I built a self hosted recommendation feed to escape Google's algorithm</div>
                                 <div class="date">19 Jul 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,25 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I made some ambient music generators that run in your browser</div>
+                                <div class="title">Carbon Language: An experimental successor to C++</div>
+                                <div class="date">19 Jul 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Does Bionic Reading work? Results from our reading speed experiment</div>
+                                <div class="date">19 Jul 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Runway melts at London Luton airport as temperatures in UK near 40°C</div>
                                 <div class="date">19 Jul 2022</div>
                             </div>
                         </div>
@@ -57,24 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Glassdoor not so anonymous</div>
-                                <div class="date">19 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Analyzing Indie Hacker Products with Verified Revenue</div>
-                                <div class="date">19 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Show HN: I made CSS Scan 3.0 – The fastest and easiest way to check and copy CSS</div>
                                 <div class="date">19 Jul 2022</div>
                             </div>
                         </div>
