@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cooling related failure (in Google London DC)</div>
+                                <div class="title">Bluetooth remains an 'unusually painful' technology after two decades</div>
+                                <div class="date">20 Jul 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Chessguessr – Wordle for Chess Games</div>
                                 <div class="date">20 Jul 2022</div>
                             </div>
                         </div>
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Introduction to TCP and Sockets</div>
+                                <div class="title">“No convincing evidence” that depression is caused by low serotonin levels</div>
                                 <div class="date">20 Jul 2022</div>
                             </div>
                         </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">“No convincing evidence” that depression is caused by low serotonin levels</div>
+                                <div class="title">Introduction to TCP and Sockets (2001)</div>
                                 <div class="date">20 Jul 2022</div>
                             </div>
                         </div>
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The little book about OS development (2015) [pdf]</div>
-                                <div class="date">19 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Amazon memo: Here’s why we should acquire Ring (2017)</div>
+                                <div class="title">Little book about OS development (2015) [pdf]</div>
                                 <div class="date">19 Jul 2022</div>
                             </div>
                         </div>
