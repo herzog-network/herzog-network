@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Yes, the 8086 wanted to be mechanically translatable from the 8080, but</div>
+                                <div class="date">25 Jul 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Two weeks in, the Webb Space Telescope is reshaping astronomy</div>
                                 <div class="date">25 Jul 2022</div>
                             </div>
@@ -38,15 +47,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What I Learned at Clubhouse</div>
-                                <div class="date">25 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Metal corrosion costs 3% of global GDP, according to corrosion engineers (2016)</div>
                                 <div class="date">25 Jul 2022</div>
                             </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FCC fines Charter, LTD Broadband more than $3M for RDOF defaults</div>
+                                <div class="title">Show HN: PickCode – An educational coding environment for students after Scratch</div>
                                 <div class="date">25 Jul 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems</div>
+                                <div class="title">Clerky is hiring senior software engineers – Full Stack · Ruby on Rails · Remote</div>
                                 <div class="date">25 Jul 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Yes, the 8086 wanted to be mechanically translatable from the 8080, but</div>
-                                <div class="date">25 Jul 2022</div>
+                                <div class="title">Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid</div>
+                                <div class="date">24 Jul 2022</div>
                             </div>
                         </div>
                     </section>
