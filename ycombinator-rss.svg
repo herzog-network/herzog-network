@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid</div>
-                                <div class="date">24 Jul 2022</div>
+                                <div class="title">Emoji Kitchen</div>
+                                <div class="date">26 Jul 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,26 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Emoji Kitchen: Mix and Match Emojis</div>
+                                <div class="title">VRchat bans mods, embraces EAC</div>
                                 <div class="date">26 Jul 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Treadmill garbage collector by H. Baker</div>
+                                <div class="date">26 Jul 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid</div>
+                                <div class="date">24 Jul 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Yes, the 8086 wanted to be mechanically translatable from the 8080, but</div>
-                                <div class="date">25 Jul 2022</div>
+                                <div class="title">Shamelessness as a Strategy</div>
+                                <div class="date">26 Jul 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,25 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">‘Solar Tower’ System Produces Jet Fuel from CO2, Water, and Sunlight</div>
-                                <div class="date">25 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">It’s time to leave the leap second in the past</div>
-                                <div class="date">25 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">I bought a cheap electric pickup truck from Alibaba. Here’s what showed up (2021)</div>
+                                <div class="title">‘Solar tower’ system produces jet fuel from CO2, water, and sunlight</div>
                                 <div class="date">25 Jul 2022</div>
                             </div>
                         </div>
