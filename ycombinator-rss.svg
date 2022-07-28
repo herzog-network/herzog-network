@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rust Is Actually Portable</div>
+                                <div class="title">AlphaFold reveals the structure of the protein universe</div>
                                 <div class="date">28 Jul 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tell HN: Collection of the some top HN Posts</div>
+                                <div class="title">Rust Is Actually Portable</div>
                                 <div class="date">28 Jul 2022</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">HypeScript: Simplified TypeScript type system in TypeScript's own type system</div>
+                                <div class="title">TIFU by using Stripe as a payment processor for my small business</div>
                                 <div class="date">28 Jul 2022</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Poor ROI of Autonomous Trucks (2020)</div>
-                                <div class="date">27 Jul 2022</div>
+                                <div class="title">How to create a Python package in 2022</div>
+                                <div class="date">28 Jul 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to create a Python package in 2022</div>
+                                <div class="title">PolicyFly (YC W22) Is Hiring a Director of Engineering</div>
                                 <div class="date">28 Jul 2022</div>
                             </div>
                         </div>
