@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Mormon housewife turned a fake diary into an enormous best-seller</div>
+                                <div class="title">Differentiable programming from scratch</div>
                                 <div class="date">1 Aug 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Differentiable Programming from Scratch</div>
+                                <div class="title">Meshtastic: A Review</div>
                                 <div class="date">1 Aug 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Meshtastic: A Review</div>
-                                <div class="date">1 Aug 2022</div>
+                                <div class="title">Lyra: Fast, in-memory, typo-tolerant, full-text search engine in TypeScript</div>
+                                <div class="date">30 Jul 2022</div>
                             </div>
                         </div>
                     </section>
