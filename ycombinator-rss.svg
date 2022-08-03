@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku</div>
+                                <div class="title">GlobalFoundries joins Google’s open source silicon initiative</div>
                                 <div class="date">3 Aug 2022</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GlobalFoundries joins Google’s open source silicon initiative</div>
+                                <div class="title">Things I've learned building a modern TUI framework</div>
                                 <div class="date">3 Aug 2022</div>
                             </div>
                         </div>
