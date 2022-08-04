@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Productivity porn</div>
-                                <div class="date">3 Aug 2022</div>
+                                <div class="title">Why scientists are turning to Rust</div>
+                                <div class="date">4 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sending spammers to password purgatory</div>
-                                <div class="date">4 Aug 2022</div>
+                                <div class="title">Productivity porn</div>
+                                <div class="date">3 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My lab went from 4000 kg to 130 kg of waste a year</div>
+                                <div class="title">Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers</div>
                                 <div class="date">4 Aug 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Alpine Linux is reducing dependencies on Busybox</div>
-                                <div class="date">3 Aug 2022</div>
+                                <div class="title">Sending spammers to password purgatory</div>
+                                <div class="date">4 Aug 2022</div>
                             </div>
                         </div>
                     </section>
