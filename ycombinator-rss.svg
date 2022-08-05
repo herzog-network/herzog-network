@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">All about QBasic and QuickBasic</div>
+                                <div class="title">Documenting Software Architectures with arc42</div>
                                 <div class="date">5 Aug 2022</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Clojure Scripting on Node.js</div>
-                                <div class="date">4 Aug 2022</div>
+                                <div class="title">UK's largest tunnel cutting head lowered into its London shaft</div>
+                                <div class="date">5 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Using grape harvest dates to estimate summer temperature over 650 years</div>
-                                <div class="date">4 Aug 2022</div>
+                                <div class="title">All about QBasic and QuickBasic</div>
+                                <div class="date">5 Aug 2022</div>
                             </div>
                         </div>
                     </section>
