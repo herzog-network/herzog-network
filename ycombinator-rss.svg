@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">All about QBasic and QuickBasic</div>
+                                <div class="title">Keeping a Project Bisectable</div>
                                 <div class="date">5 Aug 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Keeping a Project Bisectable</div>
+                                <div class="title">All about QBasic and QuickBasic</div>
                                 <div class="date">5 Aug 2022</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The OG Social Network: Other People’s Websites</div>
+                                <div class="title">Clojure Scripting on Node.js</div>
                                 <div class="date">4 Aug 2022</div>
                             </div>
                         </div>
