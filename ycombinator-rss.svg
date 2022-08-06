@@ -29,6 +29,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Counterfeits, fraud, and theft: Why Silca changed its return policy</div>
+                                <div class="date">5 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">StemRoller – Isolate vocals, drums, bass, and other stems from any song</div>
                                 <div class="date">5 Aug 2022</div>
                             </div>
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Counterfeits, fraud, and theft: Why Silca changed its return policy</div>
-                                <div class="date">5 Aug 2022</div>
+                                <div class="title">400-year-old Ecuadoran beer resurrected from yeast</div>
+                                <div class="date">4 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Analysis of energy consumption of Bluetooth Low Energy versus Bluetooth Classic</div>
-                                <div class="date">5 Aug 2022</div>
+                                <div class="title">Hot Reloading Rust – For Fun and Faster Feedback Cycles</div>
+                                <div class="date">6 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Some notes on DynamoDB 2022 paper</div>
-                                <div class="date">5 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">AllegroServe, a web server written in Common Lisp</div>
+                                <div class="title">Asus Zenbook 17 Fold OLED</div>
                                 <div class="date">5 Aug 2022</div>
                             </div>
                         </div>
