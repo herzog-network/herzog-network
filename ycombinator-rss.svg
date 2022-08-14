@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Muxfs – a mirroring, checksumming, self-healing filesystem layer</div>
+                                <div class="title">Muxfs – a mirroring, checksumming, and self-healing filesystem layer for OpenBSD</div>
                                 <div class="date">14 Aug 2022</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hollywood’s Visual Effects Crisis</div>
+                                <div class="title">Hollywood’s visual effects crisis</div>
                                 <div class="date">11 Aug 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Observations on tragedy in a digital age</div>
-                                <div class="date">14 Aug 2022</div>
+                                <div class="title">Multiple sclerosis has a common viral culprit, opening doors to new approaches</div>
+                                <div class="date">11 Aug 2022</div>
                             </div>
                         </div>
                     </section>
