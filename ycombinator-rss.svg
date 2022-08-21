@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Turning SQLite into a Distributed Database</div>
+                                <div class="title">LibGen's Bloat Problem</div>
                                 <div class="date">21 Aug 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LibGen's Bloat Problem</div>
+                                <div class="title">Religion Is an Ego Modulator</div>
                                 <div class="date">21 Aug 2022</div>
                             </div>
                         </div>
@@ -47,15 +47,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New chip ramps up AI computing efficiency</div>
-                                <div class="date">21 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Apple is building an ad empire as its iPhone privacy crackdown weakens rivals</div>
                                 <div class="date">21 Aug 2022</div>
                             </div>
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A golden age of consumer convenience is passing</div>
-                                <div class="date">17 Aug 2022</div>
+                                <div class="title">Turning SQLite into a Distributed Database</div>
+                                <div class="date">21 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Excellent Schemer</div>
+                                <div class="title">Uacme: ACMEv2 client written in plain C with minimal dependencies</div>
+                                <div class="date">21 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">New chip ramps up AI computing efficiency</div>
                                 <div class="date">21 Aug 2022</div>
                             </div>
                         </div>
