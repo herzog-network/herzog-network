@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EPB Launches America’s First Community-Wide 25 Gig Internet Service</div>
+                                <div class="title">Patent Trolls Inbound: Our First Lawsuit</div>
+                                <div class="date">25 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">EPB launches America’s first community-wide 25 gig internet service</div>
                                 <div class="date">24 Aug 2022</div>
                             </div>
                         </div>
@@ -29,16 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">search.marginalia.nu: A Theoretical Justification</div>
-                                <div class="date">24 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Debian's Chromium changes default search engine to DDG</div>
+                                <div class="title">A Theoretical Justification (2021)</div>
                                 <div class="date">24 Aug 2022</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tether will not freeze Tornado Cash addresses</div>
-                                <div class="date">24 Aug 2022</div>
+                                <div class="title">OpenArt: “Pinterest” for Dalle-2 images and prompts</div>
+                                <div class="date">25 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Psilocybin-Assisted Psychotherapy vs. Placebo in Treatment of Alcohol Disorder</div>
+                                <div class="title">Psilocybin-assisted psychotherapy vs. placebo in treatment of alcohol disorder</div>
                                 <div class="date">24 Aug 2022</div>
                             </div>
                         </div>
