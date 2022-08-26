@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why No Roman Industrial Revolution?</div>
-                                <div class="date">26 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Americans Will Soon Be Able to Renew Passports Online</div>
+                                <div class="title">Why no Roman industrial revolution?</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
@@ -47,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Poll: Contractors, what is your hourly rate</div>
+                                <div class="title">Engineer distributes resume via IPv6 traceroute</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
@@ -56,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Reducing methane is the fastest strategy available to reduce warming</div>
+                                <div class="title">Amid chip shortages, companies bet on RISC-V</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hooking Go from Rust – Hitchhiker’s Guide to the Go-Laxy</div>
+                                <div class="title">Oberon (2009)</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Amid Chip Shortages, Companies Bet on RISC-V</div>
+                                <div class="title">The culture of rejection in computer science publications</div>
+                                <div class="date">26 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The slow death of the traditional business card</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
