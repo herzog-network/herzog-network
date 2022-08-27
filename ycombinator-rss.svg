@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The UNIX Programming Environment</div>
+                                <div class="title">The UNIX Programming Environment (1984)</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
@@ -38,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chrome's Manifest v3 is lacking features</div>
+                                <div class="title">Home Heating Cost Comparison</div>
                                 <div class="date">27 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Penguin Random House trial</div>
+                                <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The MKULTRA Evolutions</div>
-                                <div class="date">27 Aug 2022</div>
+                                <div class="title">Old Problem About Mathematical Curves Falls to Young Couple</div>
+                                <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Programming Language Database</div>
-                                <div class="date">27 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Volkswriter Deluxe – One of the first word processors for the IBM PC</div>
-                                <div class="date">27 Aug 2022</div>
+                                <div class="title">Heroku to discontinue free product plans and delete inactive accounts</div>
+                                <div class="date">28 Aug 2022</div>
                             </div>
                         </div>
                     </section>
