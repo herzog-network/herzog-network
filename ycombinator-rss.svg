@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The History of FoxPro: Interview with Wayne Ratliff</div>
-                                <div class="date">3 Sept 2022</div>
+                                <div class="title">The Forty-Year Programmer</div>
+                                <div class="date">2 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lost islands cited in Welsh folklore and poetry are plausible</div>
+                                <div class="title">Less Is More Agile</div>
+                                <div class="date">4 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The History of FoxPro: Interview with Wayne Ratliff</div>
                                 <div class="date">3 Sept 2022</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Hormone May Boost Cognition in Down Syndrome</div>
-                                <div class="date">2 Sept 2022</div>
+                                <div class="title">Lost islands cited in Welsh folklore and poetry are plausible</div>
+                                <div class="date">3 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Forty-Year Programmer</div>
-                                <div class="date">2 Sept 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Roaring bitmaps: what they are and how they work</div>
+                                <div class="title">A hormone may boost cognition in Down syndrome</div>
                                 <div class="date">2 Sept 2022</div>
                             </div>
                         </div>
