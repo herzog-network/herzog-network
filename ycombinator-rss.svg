@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="290" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="288" class="">
     <defs>
         <style/>
     </defs>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Difftastic, the Fantastic Diff: How it works</div>
+                                <div class="title">Difftastic, the fantastic diff</div>
                                 <div class="date">7 Sept 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Peter Eckersley, tech activist and founder of Let's Encrypt, dies at 43</div>
+                                <div class="title">Speculoos-2c: A new potentially habitable earth</div>
                                 <div class="date">7 Sept 2022</div>
                             </div>
                         </div>
@@ -47,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hydrogen Production from the Air</div>
+                                <div class="title">Open source, modular, wood based, zero carbon housing</div>
                                 <div class="date">7 Sept 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Polite Form ます (Masu) in Japanese</div>
-                                <div class="date">6 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -76,6 +67,15 @@
                             <div class="infos">
                                 <div class="title">How Radical Was Rachmaninoff?</div>
                                 <div class="date">6 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">What makes a good REPL? (2017)</div>
+                                <div class="date">7 Sept 2022</div>
                             </div>
                         </div>
                     </section>
