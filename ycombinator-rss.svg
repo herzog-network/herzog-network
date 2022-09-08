@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Excuse me but why are you eating so many frogs</div>
+                                <div class="date">7 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Kamby – A programming language based on Lisp that doesn't seems like Lisp</div>
                                 <div class="date">8 Sept 2022</div>
                             </div>
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I Got Banned for Life from Airbnb (2018)</div>
+                                <div class="title">I tracked everything I read on the internet for a year</div>
                                 <div class="date">8 Sept 2022</div>
                             </div>
                         </div>
@@ -47,16 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I Tracked Everything I Read on the Internet for a Year</div>
-                                <div class="date">8 Sept 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Show HN: TattoosAI – AI-powered tattoo artist, using Stable Diffusion</div>
+                                <div class="title">What to read to understand central banking</div>
                                 <div class="date">8 Sept 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What to read to understand central banking</div>
-                                <div class="date">8 Sept 2022</div>
+                                <div class="title">Blech: A language for developing reactive, real-time critical embedded software</div>
+                                <div class="date">7 Sept 2022</div>
                             </div>
                         </div>
                     </section>
