@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Framework Laptop 2.5Gbit/S Ethernet Expansion Card</div>
+                                <div class="title">Framework Laptop 2.5Gbps Ethernet Expansion Card</div>
                                 <div class="date">12 Sept 2022</div>
                             </div>
                         </div>
@@ -30,15 +30,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Ladybird: A new cross-platform browser project</div>
-                                <div class="date">12 Sept 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Benefits of ‘looping’ kids with teachers for multiple years</div>
                                 <div class="date">12 Sept 2022</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Protobuf Language Specification</div>
+                                <div class="title">Benefits of ‘looping’ kids with teachers for multiple years</div>
                                 <div class="date">12 Sept 2022</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EDI vs. API</div>
+                                <div class="title">Coffee with Brian Kernighan [video]</div>
+                                <div class="date">11 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Protobuf Language Specification</div>
                                 <div class="date">12 Sept 2022</div>
                             </div>
                         </div>
