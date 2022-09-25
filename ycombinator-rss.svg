@@ -20,6 +20,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">New Insignia for Air Domain Intelligence Has a UFO</div>
+                                <div class="date">25 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">This page is a truly naked, brutalist HTML quine</div>
+                                <div class="date">25 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">webЯcade – WASM based retro emulation on any device</div>
                                 <div class="date">24 Sept 2022</div>
                             </div>
@@ -38,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gadgetbridge is an Android application for your smart watch and other devices</div>
-                                <div class="date">24 Sept 2022</div>
+                                <div class="title">GCP, AWS, and Azure ARM-based server performance comparison</div>
+                                <div class="date">25 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Free Book: Linux IP Stacks Commentary</div>
-                                <div class="date">24 Sept 2022</div>
+                                <div class="title">I Fooled Millions into Thinking Chocolate Helps Weight Loss</div>
+                                <div class="date">25 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,25 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet</div>
-                                <div class="date">24 Sept 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Double Entry Counting Method (2016)</div>
-                                <div class="date">23 Sept 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">What Modern Humans Can Learn from Ancient Software</div>
+                                <div class="title">Apple Big Pink #3 (1990) [pdf]</div>
                                 <div class="date">23 Sept 2022</div>
                             </div>
                         </div>
