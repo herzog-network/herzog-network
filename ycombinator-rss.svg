@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris</div>
+                                <div class="title">Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus</div>
                                 <div class="date">7 Oct 2022</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Startup Builds Houses by Pumping Concrete into Inflatable Forms</div>
+                                <div class="title">WebVM: WASM virtual machine in browser with networking via Tailscale</div>
                                 <div class="date">7 Oct 2022</div>
                             </div>
                         </div>
