@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Staff Engineer Archetypes (2020)</div>
-                                <div class="date">6 Oct 2022</div>
+                                <div class="title">Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus</div>
+                                <div class="date">7 Oct 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Study links omega-3s to improved brain structure, cognition at midlife</div>
+                                <div class="date">7 Oct 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +56,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BYU profs create new nuclear reactor to produce nuclear energy more safely</div>
+                                <div class="title">Staff Engineer Archetypes (2020)</div>
                                 <div class="date">6 Oct 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Why doesn't Bash's `set -e` do what I expected?</div>
+                                <div class="date">7 Oct 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -58,24 +76,6 @@
                             <div class="infos">
                                 <div class="title">Dormant spores decide to wake-up by counting in their sleep using electricity</div>
                                 <div class="date">7 Oct 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus</div>
-                                <div class="date">7 Oct 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">A Universal Cancer Treatment?</div>
-                                <div class="date">6 Oct 2022</div>
                             </div>
                         </div>
                     </section>
