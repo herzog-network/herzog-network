@@ -38,15 +38,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My next Mac might be the last</div>
-                                <div class="date">24 Oct 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Forgetting the Asbestos – how we lose knowledge and technologies</div>
                                 <div class="date">24 Oct 2022</div>
                             </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">macOS Ventura is now available</div>
+                                <div class="title">The Docker+WASM Technical Preview</div>
                                 <div class="date">24 Oct 2022</div>
                             </div>
                         </div>
@@ -76,6 +67,15 @@
                             <div class="infos">
                                 <div class="title">Immortal by Default: A brief history of humans and the ginkgo tree</div>
                                 <div class="date">23 Oct 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Every Door – OpenStreetMap editor for POIs and entrances</div>
+                                <div class="date">24 Oct 2022</div>
                             </div>
                         </div>
                     </section>
