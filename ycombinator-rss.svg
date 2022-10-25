@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Photopea: The Free Photoshop Alternative Making Millions</div>
+                                <div class="title">Turbopack, the successor to Webpack</div>
                                 <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Turbopack, the successor to Webpack</div>
+                                <div class="title">Stable Diffusion to 3D/WebVR, in the cloud, available now</div>
                                 <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GPT-3 can create both sides of an Interactive Fiction transcript</div>
-                                <div class="date">24 Oct 2022</div>
+                                <div class="title">Vasa's sister ship Äpplet found</div>
+                                <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
                     </section>
