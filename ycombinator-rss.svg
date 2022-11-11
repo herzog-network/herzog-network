@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What it’s like to dissect a cadaver</div>
-                                <div class="date">10 Nov 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Resolving the Great Undo-Redo Quandary</div>
                                 <div class="date">11 Nov 2022</div>
                             </div>
@@ -47,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A cost model for Nim</div>
+                                <div class="title">The Sad, Sad Story of Laika, the Space Dog, and Her One-Way Trip into Orbit</div>
                                 <div class="date">11 Nov 2022</div>
                             </div>
                         </div>
@@ -56,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Queen’s Coup</div>
+                                <div class="title">Zuo: A Tiny Racket for Scripting</div>
                                 <div class="date">11 Nov 2022</div>
                             </div>
                         </div>
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">YouTube confirms that it has removed the “sort by oldest/newest” option</div>
-                                <div class="date">11 Nov 2022</div>
+                                <div class="title">What it’s like to dissect a cadaver</div>
+                                <div class="date">10 Nov 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Voting from Antarctica</div>
+                                <div class="title">Arduino Unveils the Opta, Its First “Micro PLC” for Industrial IoT</div>
                                 <div class="date">9 Nov 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook</div>
+                                <div class="date">11 Nov 2022</div>
                             </div>
                         </div>
                     </section>
