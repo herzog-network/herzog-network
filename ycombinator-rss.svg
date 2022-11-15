@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lisp-stick on a Python</div>
+                                <div class="title">Chess, but moves are simultaneous</div>
                                 <div class="date">14 Nov 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chess, but neither player moves first</div>
+                                <div class="title">Lisp-stick on a Python</div>
                                 <div class="date">14 Nov 2022</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Topology, a Categorical Approach</div>
-                                <div class="date">14 Nov 2022</div>
+                                <div class="title">Stupid Mistakes Companies Make with Their Online Communities (2008)</div>
+                                <div class="date">13 Nov 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Optimizations can have unexpectedly large effects when combined with caches</div>
-                                <div class="date">14 Nov 2022</div>
+                                <div class="title">What ever happened to webrings? (2015)</div>
+                                <div class="date">13 Nov 2022</div>
                             </div>
                         </div>
                     </section>
