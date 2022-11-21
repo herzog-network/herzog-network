@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">France bans Office 365 and Google Docs from schools and public administration</div>
-                                <div class="date">21 Nov 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Kite is saying farewell and open-sourcing its code</div>
                                 <div class="date">20 Nov 2022</div>
                             </div>
@@ -47,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chest CT Findings in Marijuana Smokers: more damage than tobacco smokers</div>
+                                <div class="title">Briar: Peer-to-Peer Encrypted Messaging</div>
+                                <div class="date">20 Nov 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Criticizing Computers</div>
                                 <div class="date">21 Nov 2022</div>
                             </div>
                         </div>
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Briar: Peer-to-Peer Encrypted Messaging</div>
-                                <div class="date">20 Nov 2022</div>
+                                <div class="title">OpenZFS on OS X</div>
+                                <div class="date">21 Nov 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cigars, Booze, Money: How a Lobbying Blitz Made Sports Betting Ubiquitous</div>
-                                <div class="date">20 Nov 2022</div>
+                                <div class="title">Username cannot contain 'clyde'</div>
+                                <div class="date">21 Nov 2022</div>
                             </div>
                         </div>
                     </section>
