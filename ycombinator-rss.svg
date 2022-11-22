@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Deus Ex: Human Revolution in (up to) gigapixel panoramas</div>
+                                <div class="title">Why Twitter didn’t go down: From a real Twitter SRE</div>
                                 <div class="date">22 Nov 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Basics of Concrete Barriers (2000)</div>
+                                <div class="title">AP fires reporter behind retracted ‘Russian missiles’ story</div>
+                                <div class="date">22 Nov 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Deus Ex: Human Revolution in (up to) gigapixel panoramas</div>
                                 <div class="date">22 Nov 2022</div>
                             </div>
                         </div>
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: A color picker for named web colors</div>
-                                <div class="date">21 Nov 2022</div>
+                                <div class="title">Basics of Concrete Barriers (2000)</div>
+                                <div class="date">22 Nov 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Moving Away from UUIDs</div>
+                                <div class="title">Little languages are the future of programming</div>
                                 <div class="date">21 Nov 2022</div>
                             </div>
                         </div>
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">How can you not be romantic about programming?</div>
                                 <div class="date">19 Nov 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Kubeshark: The API Traffic Viewer for Kubernetes</div>
-                                <div class="date">21 Nov 2022</div>
                             </div>
                         </div>
                     </section>
