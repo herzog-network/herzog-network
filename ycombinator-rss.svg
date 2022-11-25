@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why is Japanese web design different to the rest of the world?</div>
-                                <div class="date">25 Nov 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Coding Curves</div>
                                 <div class="date">25 Nov 2022</div>
                             </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jqjq: Jq Implementation of Jq</div>
+                                <div class="title">A meta-analysis of the effects of trigger warnings and content notes</div>
                                 <div class="date">25 Nov 2022</div>
                             </div>
                         </div>
@@ -47,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rice’s Theorem: An interactive tutorial</div>
+                                <div class="title">Cloudflare servers don't own IPs anymore so how do they connect to the internet?</div>
                                 <div class="date">25 Nov 2022</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">KDE runs on the Apple M2 with full GPU acceleration</div>
+                                <div class="title">Rice’s Theorem: An interactive tutorial</div>
                                 <div class="date">25 Nov 2022</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A meta-analysis of the effects of trigger warnings and content notes</div>
+                                <div class="title">Jqjq: Jq Implementation of Jq</div>
+                                <div class="date">25 Nov 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Hurl: Run and test HTTP requests with plain text</div>
                                 <div class="date">25 Nov 2022</div>
                             </div>
                         </div>
