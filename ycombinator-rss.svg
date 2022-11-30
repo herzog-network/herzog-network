@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Quarter-Scale Retrocomputing</div>
+                                <div class="title">I've fuzzed parts of the GitHub API. Here are my findings</div>
                                 <div class="date">30 Nov 2022</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Author warns about 'epidemic of self-censorship'</div>
+                                <div class="title">Lago (YC S21) Is Hiring</div>
                                 <div class="date">30 Nov 2022</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: Is Google becoming useless as a search engine, or is it just me?</div>
+                                <div class="title">Why your REPL experience sucks</div>
                                 <div class="date">30 Nov 2022</div>
                             </div>
                         </div>
