@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Individuals prefer to harm their own group rather than help an opposing group</div>
+                                <div class="title">The Book of CP-System [pdf]</div>
                                 <div class="date">2 Dec 2022</div>
                             </div>
                         </div>
@@ -38,16 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">If PHP Were British (2011)</div>
-                                <div class="date">2 Dec 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">BloomTech, previously Lambda School, cuts half of staff</div>
+                                <div class="title">Smartphones wiped out 97% of the compact camera market</div>
                                 <div class="date">2 Dec 2022</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Smartphones wiped out 97% of the compact camera market</div>
+                                <div class="title">Andreessen Horowitz Tech Site Future.com Shuts Down, Staff Leave</div>
                                 <div class="date">2 Dec 2022</div>
                             </div>
                         </div>
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Blitsort: A fast, in-place stable hybrid merge/quick sort</div>
-                                <div class="date">1 Dec 2022</div>
+                                <div class="title">'Nobody Wants to Work Anymore' Meme Cites Real Newspaper Articles</div>
+                                <div class="date">2 Dec 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">BloomTech, previously Lambda School, cuts half of staff</div>
+                                <div class="date">2 Dec 2022</div>
                             </div>
                         </div>
                     </section>
