@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">South Dakota first to ban TikTok on state-owned devices</div>
+                                <div class="date">2 Dec 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">People tricking ChatGPT “like watching an Asimov novel come to life”</div>
                                 <div class="date">2 Dec 2022</div>
                             </div>
@@ -56,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Roman Egypt Was Such a Strange Province</div>
+                                <div class="title">Upcoming pricing changes (increases) for Cloud Storage</div>
                                 <div class="date">2 Dec 2022</div>
                             </div>
                         </div>
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">FCC Partially Grants SpaceX Gen2 Broadband Satellite Application</div>
-                                <div class="date">2 Dec 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">South Dakota first to ban TikTok on state-owned devices</div>
                                 <div class="date">2 Dec 2022</div>
                             </div>
                         </div>
