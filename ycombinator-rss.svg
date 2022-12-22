@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pixelmator Pro gets a magical, AI‑powered Deband feature</div>
-                                <div class="date">21 Dec 2022</div>
+                                <div class="title">Avoid exception throwing in performance-sensitive code</div>
+                                <div class="date">22 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Avoid exception throwing in performance-sensitive code</div>
+                                <div class="title">Pixelmator Pro gets a magical, AI‑powered Deband feature</div>
+                                <div class="date">21 Dec 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Pocket Guide to Debugging</div>
                                 <div class="date">22 Dec 2022</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Swing Ratio</div>
-                                <div class="date">21 Dec 2022</div>
+                                <div class="title">Enzymes That Could Make It Cheaper to Recycle Than Make Them from Petroleum</div>
+                                <div class="date">22 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Checked C</div>
-                                <div class="date">21 Dec 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The End of Programming</div>
+                                <div class="title">Interview with Martin Hellman of Diffie-Hellman Fame (2004)</div>
                                 <div class="date">21 Dec 2022</div>
                             </div>
                         </div>
