@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Investors conclude that Tesla is a carmaker, not a tech firm</div>
+                                <div class="title">FTC Proposes Banning Noncompete Clauses for Workers</div>
                                 <div class="date">5 Jan 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Meta Ireland fined €390M for GDPR infringement</div>
+                                <div class="title">Scott Aaronson weighs in on purported quantum factoring breakthrough</div>
                                 <div class="date">5 Jan 2023</div>
                             </div>
                         </div>
@@ -56,17 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Iranian attack drone found to contain parts from more than a dozen US companies</div>
+                                <div class="title">U.S. Moves to Bar Noncompete Agreements in Labor Contracts</div>
                                 <div class="date">5 Jan 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Lnav – An advanced log file viewer for the small-scale</div>
-                                <div class="date">4 Jan 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -75,6 +66,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">The (Almost) Definitive 486DX/50 Article</div>
+                                <div class="date">5 Jan 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">We’ve made the difficult decision to shut down Revue</div>
                                 <div class="date">5 Jan 2023</div>
                             </div>
                         </div>
