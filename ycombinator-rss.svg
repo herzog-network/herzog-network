@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We're wasting money by only supporting gzip for raw DNA files</div>
-                                <div class="date">9 Jan 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Ask HN: What are the foundational texts for learning about AI/ML/NN?</div>
+                                <div class="title">An Open Letter on the Open Gaming License, to Wizards of the Coast</div>
                                 <div class="date">9 Jan 2023</div>
                             </div>
                         </div>
@@ -56,8 +47,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Japan, US to step up cooperation in developing next-generation nuclear reactors</div>
+                                <div class="title">Raspberry Pi's Camera Module 3 adds autofocus and new Sony sensor</div>
                                 <div class="date">9 Jan 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Rio de Janeiro Botanical Garden (2018)</div>
+                                <div class="date">8 Jan 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tetris is capable of universal computation</div>
+                                <div class="title">Values and Objects in Programming Languages (1982) [pdf]</div>
                                 <div class="date">9 Jan 2023</div>
                             </div>
                         </div>
