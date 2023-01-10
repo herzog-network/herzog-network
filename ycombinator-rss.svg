@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Health Services as Credence Goods: a Field Experiment (2020)</div>
+                                <div class="title">Coinbase cuts staff by a further 25%</div>
                                 <div class="date">10 Jan 2023</div>
                             </div>
                         </div>
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Crisis over The Atlantic: The near crash of Air Transat flight 236</div>
-                                <div class="date">10 Jan 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">We asked ChatGPT to write a Sherlock Holmes mystery</div>
+                                <div class="title">Show HN: Python framework is faster than Golang Fiber</div>
                                 <div class="date">10 Jan 2023</div>
                             </div>
                         </div>
@@ -56,6 +47,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Faster PostgresSQL to BigQuery Tranfers</div>
+                                <div class="date">10 Jan 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Show HN: Ecode – A minimalist and fast open-source code editor</div>
                                 <div class="date">10 Jan 2023</div>
                             </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Just: A Command Runner</div>
-                                <div class="date">9 Jan 2023</div>
+                                <div class="title">PolicyFly (YC W22) Is Hiring an EM to Lead Our Solutions Team</div>
+                                <div class="date">10 Jan 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Galmon – Galileo/GPS/GLONASS/BeiDou open source monitoring</div>
+                                <div class="title">Names should be cute, not descriptive</div>
                                 <div class="date">10 Jan 2023</div>
                             </div>
                         </div>
