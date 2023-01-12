@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Verily (an Alphabet/Google Bet) eliminates 15% of its staff</div>
-                                <div class="date">12 Jan 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">NYC Slice</div>
                                 <div class="date">11 Jan 2023</div>
                             </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How many AMD RX 7900 XTX's are defective?</div>
-                                <div class="date">11 Jan 2023</div>
+                                <div class="title">The energy crisis and Europe’s astonishing luck</div>
+                                <div class="date">12 Jan 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Conc: Better Structured Concurrency for Go</div>
+                                <div class="title">HoloKit relaunched, $129 AR Headset accessory for iPhone</div>
                                 <div class="date">11 Jan 2023</div>
                             </div>
                         </div>
@@ -65,7 +56,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An online IDE for visual programming in Prolog</div>
+                                <div class="title">New Video of Tesla Crash Demonstrates the Problem of Semi-Automated Driving</div>
+                                <div class="date">12 Jan 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Conc: Better Structured Concurrency for Go</div>
                                 <div class="date">11 Jan 2023</div>
                             </div>
                         </div>
