@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: YoBulk – Open Source GPT powered CSV importer[Flatfile.com alternative]</div>
+                                <div class="title">Show HN: YoBulk – Open Source GPT powered CSV importer</div>
+                                <div class="date">21 Feb 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Testing Without Mocks</div>
                                 <div class="date">21 Feb 2023</div>
                             </div>
                         </div>
@@ -47,17 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Certainly: Fastly’s Own TLS Certification Authority</div>
-                                <div class="date">21 Feb 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">‘It took over my life ’ How one man made his dream 90s video game on his own</div>
-                                <div class="date">21 Feb 2023</div>
+                                <div class="title">NP-Complete isn&amp;#x27;t (always) Hard</div>
+                                <div class="date">20 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ChatGPT for Robotics</div>
+                                <div class="title">‘Every Parent’s Nightmare’: TikTok Is a Venue for Child Sexual Exploitation</div>
                                 <div class="date">21 Feb 2023</div>
                             </div>
                         </div>
