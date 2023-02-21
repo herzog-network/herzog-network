@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A pilot scheme to trail the four-day workweek in Britain deemed a success (2022)</div>
+                                <div class="title">On Replacing My MacBook Air M1 with a ThinkPad T480</div>
+                                <div class="date">21 Feb 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Unbearable Sameness of the Modern Web</div>
                                 <div class="date">21 Feb 2023</div>
                             </div>
                         </div>
@@ -47,15 +56,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Early morning university classes linked to poor sleep and academic performance</div>
-                                <div class="date">21 Feb 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">A pharaoh with 100 children bungled his succession</div>
                                 <div class="date">20 Feb 2023</div>
                             </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Four ways to build web apps</div>
-                                <div class="date">20 Feb 2023</div>
+                                <div class="title">Early morning university classes linked to poor sleep and academic performance</div>
+                                <div class="date">21 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PhotoRoom (YC S20) Is Hiring in Paris</div>
-                                <div class="date">21 Feb 2023</div>
+                                <div class="title">Elitism as the Mid-Career Growth Engine</div>
+                                <div class="date">20 Feb 2023</div>
                             </div>
                         </div>
                     </section>
