@@ -29,6 +29,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Show HN: The largest collection of ChatGPT jailbreaks on the internet</div>
+                                <div class="date">28 Feb 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">The E-Ink Badge</div>
                                 <div class="date">28 Feb 2023</div>
                             </div>
@@ -38,16 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Scribble Diffusion – Turn your sketch into a refined image using AI</div>
-                                <div class="date">28 Feb 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Rosenpass – formally verified post-quantum WireGuard</div>
+                                <div class="title">Generic dynamic array in 60 lines of C</div>
                                 <div class="date">28 Feb 2023</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Beating OpenAI CLIP with 100x less data and compute</div>
+                                <div class="title">A Spellchecker Used to Be a Major Feat of Software Engineering (2008)</div>
                                 <div class="date">28 Feb 2023</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Pyq (YC W23) – Simple APIs to Popular AI Models</div>
+                                <div class="title">Show HN: Scribble Diffusion – Turn your sketch into a refined image using AI</div>
                                 <div class="date">28 Feb 2023</div>
                             </div>
                         </div>
