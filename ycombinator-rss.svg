@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Italian city-states as a distant mirror</div>
+                                <div class="title">Phoenix Dev Blog – Streams</div>
                                 <div class="date">4 Mar 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Phoenix Dev Blog – Streams</div>
+                                <div class="title">Finding Java Thread Leaks with JDK Flight Recorder and a Bit of SQL</div>
                                 <div class="date">4 Mar 2023</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Prompt to bypass the restrictions of Bing Chat or to restore the old “Sydney”</div>
+                                <div class="title">Secret Service, ICE,and fake cell tower spying</div>
                                 <div class="date">4 Mar 2023</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Could we make the web more immersive using a simple optical illusion?</div>
-                                <div class="date">4 Mar 2023</div>
+                                <div class="title">The overfitted brain: Dreams evolved to assist generalization</div>
+                                <div class="date">3 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Oxidizing bmap-tools: rewriting a Python project in Rust</div>
+                                <div class="title">Be Careful Using Tmux and Environment Variables</div>
                                 <div class="date">4 Mar 2023</div>
                             </div>
                         </div>
