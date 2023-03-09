@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The False Promise of Chomskyism</div>
-                                <div class="date">9 Mar 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Battery-free Game Boy (2020)</div>
                                 <div class="date">9 Mar 2023</div>
                             </div>
@@ -38,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lisp-powered laptop with a battery life measured in years</div>
-                                <div class="date">8 Mar 2023</div>
+                                <div class="title">Writing a Kubernetes Operator</div>
+                                <div class="date">9 Mar 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Getting Past “Ampersand-Driven Development” in Rust</div>
+                                <div class="date">9 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: BBC “In Our Time”, categorised by Dewey Decimal, heavy lifting by GPT</div>
-                                <div class="date">8 Mar 2023</div>
+                                <div class="title">Letter to Pixar President Ed Catmull [pdf] (2004)</div>
+                                <div class="date">9 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Letter to Pixar President Ed Catmull [pdf] (2004)</div>
-                                <div class="date">9 Mar 2023</div>
+                                <div class="title">The “heat death” hypothesis might not hold</div>
+                                <div class="date">8 Mar 2023</div>
                             </div>
                         </div>
                     </section>
