@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building a Second Income Stream by Writing a Book</div>
+                                <div class="title">Building a second income stream by writing a book</div>
                                 <div class="date">14 Mar 2023</div>
                             </div>
                         </div>
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LNER Peppercorn Class A1 60163 Tornado</div>
-                                <div class="date">13 Mar 2023</div>
+                                <div class="title">High-Throughput Generative Inference of Large Language Models with a Single GPU</div>
+                                <div class="date">14 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Switching from C++ to Rust</div>
+                                <div class="title">LNER Peppercorn Class A1 60163 Tornado</div>
                                 <div class="date">13 Mar 2023</div>
                             </div>
                         </div>
