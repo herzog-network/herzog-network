@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DevOps uses a capability model, not a maturity model</div>
+                                <div class="title">JSON vs. XML with Douglas Crockford</div>
                                 <div class="date">6 Apr 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Curiosity of the Day</div>
+                                <div class="title">Show HN: Generate startup ideas based on HN comments</div>
                                 <div class="date">6 Apr 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Family Matters: Everyday Life in the Neo-Assyrian Empire</div>
+                                <div class="title">Haiku Depot Server Technology Modernisation</div>
                                 <div class="date">6 Apr 2023</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Grid World</div>
-                                <div class="date">5 Apr 2023</div>
+                                <div class="title">Simply explained: How does GPT work?</div>
+                                <div class="date">6 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Remembering Bob Lee</div>
-                                <div class="date">5 Apr 2023</div>
+                                <div class="title">C Strings and my slow descent to madness</div>
+                                <div class="date">6 Apr 2023</div>
                             </div>
                         </div>
                     </section>
