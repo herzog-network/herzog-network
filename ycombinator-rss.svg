@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Teaching Large Language Models to Self-Debug</div>
+                                <div class="title">Use io_uring for network I&amp;#x2F;O</div>
                                 <div class="date">12 Apr 2023</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Experimenting with LLMs to Research, Reflect, and Plan</div>
+                                <div class="title">FerretDB: open-source MongoDB alternative</div>
                                 <div class="date">12 Apr 2023</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OneSignal (YC S11) Is Hiring Engineers</div>
+                                <div class="title">Even when we know they’re “fake,” placebos can tame our emotional distress</div>
                                 <div class="date">12 Apr 2023</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Firefox rolls out Total Cookie Protection by default to more users worldwide</div>
-                                <div class="date">12 Apr 2023</div>
+                                <div class="title">Steve Roberts: Computing Across America</div>
+                                <div class="date">11 Apr 2023</div>
                             </div>
                         </div>
                     </section>
