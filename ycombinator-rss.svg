@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A novel the CIA spent a fortune to suppress</div>
-                                <div class="date">24 May 2023</div>
+                                <div class="title">A Chicago newspaper that bought a bar</div>
+                                <div class="date">22 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Instant flood fill with HTML Canvas</div>
+                                <div class="title">What&amp;#x27;s up with this new memory_order_consume memory order?</div>
                                 <div class="date">23 May 2023</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Chicago newspaper that bought a bar</div>
-                                <div class="date">22 May 2023</div>
+                                <div class="title">50 years in filesystems: towards 2004 – LFS</div>
+                                <div class="date">24 May 2023</div>
                             </div>
                         </div>
                     </section>
