@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Millions of dollars in time wasted making papers fit journal guidelines</div>
-                                <div class="date">8 Jun 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Bye Bye Ubuntu, Hello Manjaro. How Did We Get Here?</div>
+                                <div class="title">Understanding GPT Tokenizers</div>
                                 <div class="date">8 Jun 2023</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Atoms Is Hiring Marketng Lead</div>
+                                <div class="title">AI browser extensions are a security nightmare</div>
                                 <div class="date">8 Jun 2023</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Desmos uses Pratt Parsers (2018)</div>
+                                <div class="title">Cost of ‘reformatting’ prompts a call for journals to change their requirements</div>
+                                <div class="date">8 Jun 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Reddit’s CEO edited comments that criticized him (2016)</div>
                                 <div class="date">8 Jun 2023</div>
                             </div>
                         </div>
