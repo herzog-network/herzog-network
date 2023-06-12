@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Intel is all-in on backside power delivery</div>
+                                <div class="title">Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it</div>
                                 <div class="date">12 Jun 2023</div>
                             </div>
                         </div>
@@ -38,17 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Upgrading my Chumby 8 kernel part 5: graphics</div>
+                                <div class="title">Intel is all-in on backside power delivery</div>
                                 <div class="date">12 Jun 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">MIDI 2.0 driver support coming with Linux 6.5</div>
-                                <div class="date">9 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">El Paquete Semanal</div>
+                                <div class="title">Temperature-dependent RNA editing in octopus recodes the neural proteome</div>
                                 <div class="date">11 Jun 2023</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Did Reddit just destroy mobile browser access?</div>
+                                <div class="title">MIDI 2.0 driver support coming with Linux 6.5</div>
+                                <div class="date">9 Jun 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Upgrading my Chumby 8 kernel part 5: graphics</div>
                                 <div class="date">12 Jun 2023</div>
                             </div>
                         </div>
