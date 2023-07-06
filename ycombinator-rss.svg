@@ -47,6 +47,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Tell HN: Nearly all of Evernote’s remaining staff has been laid off</div>
+                                <div class="date">6 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Ask HN: Any hardware startups here?</div>
                                 <div class="date">4 Jul 2023</div>
                             </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rejected GitHub profile achievements</div>
-                                <div class="date">5 Jul 2023</div>
+                                <div class="title">Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself</div>
+                                <div class="date">6 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fast</div>
-                                <div class="date">5 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Starting design work in a spreadsheet</div>
-                                <div class="date">5 Jul 2023</div>
+                                <div class="title">Ban on recording without consent is unconstitutional, US court rules</div>
+                                <div class="date">6 Jul 2023</div>
                             </div>
                         </div>
                     </section>
