@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Small banks don’t like high rates</div>
-                                <div class="date">6 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Excellence is a habit, but so is failure</div>
+                                <div class="title">Meta releases Intermediate Graphics Library</div>
                                 <div class="date">7 Jul 2023</div>
                             </div>
                         </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Windows Update Restored: Fix Windows Update on Windows 95. 98, Me, 2000, and XP</div>
+                                <div class="title">Windows Update Restored: Fix Windows update on Windows 95, 98, ME, 2000, and XP</div>
                                 <div class="date">7 Jul 2023</div>
                             </div>
                         </div>
@@ -56,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenWorm – A computational model of C. elegans worm</div>
-                                <div class="date">7 Jul 2023</div>
+                                <div class="title">Show HN: Blogs.hn – tiny blog directory</div>
+                                <div class="date">6 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Type (YC W23) is hiring a founding engineer</div>
+                                <div class="title">Closure, from why the lucky stiff (2013)</div>
                                 <div class="date">7 Jul 2023</div>
                             </div>
                         </div>
@@ -75,6 +66,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">The underground economy of Glassdoor reviews</div>
+                                <div class="date">7 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">OpenWorm – A computational model of C. elegans worm</div>
                                 <div class="date">7 Jul 2023</div>
                             </div>
                         </div>
