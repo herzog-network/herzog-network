@@ -20,6 +20,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work</div>
+                                <div class="date">22 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Important Coding Habits</div>
+                                <div class="date">22 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">A brief history of computers</div>
                                 <div class="date">22 Jul 2023</div>
                             </div>
@@ -29,8 +47,26 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Most Important Coding Habits</div>
+                                <div class="title">How we see ourselves and how we see others (2008) [pdf]</div>
+                                <div class="date">21 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Shopify employee breaks NDA to reveal firm replacing laid off workers with AI</div>
                                 <div class="date">22 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Consumer software is expected to be next fast-growing segment (1994)</div>
+                                <div class="date">21 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -39,42 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Resilience in Complex Systems (2021)</div>
-                                <div class="date">22 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Why Adaptive Rate Limiting Is a Game-Changer</div>
-                                <div class="date">22 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">How We See Ourselves and How We See Others (2008) [pdf]</div>
-                                <div class="date">21 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">BP: Formal Proofs, the Fine Print and Side Effects [pdf]</div>
-                                <div class="date">21 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Embrace Complexity; Tighten Your Feedback Loops</div>
                                 <div class="date">22 Jul 2023</div>
                             </div>
                         </div>
