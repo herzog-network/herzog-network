@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Debian riscv64</div>
+                                <div class="title">The “three things” exercise for getting things out of talks (2011)</div>
                                 <div class="date">24 Jul 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The “three things” exercise for getting things out of talks (2011)</div>
+                                <div class="title">Debian riscv64</div>
                                 <div class="date">24 Jul 2023</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Thoughts on the fading away of the age of IE</div>
+                                <div class="title">C89 compiler produces printable executables from C code [pdf]</div>
                                 <div class="date">22 Jul 2023</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ldd arbitrary code execution (2009)</div>
-                                <div class="date">23 Jul 2023</div>
+                                <div class="title">HP 45 (and 35 and 80) Calculator Emulator</div>
+                                <div class="date">24 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">HP 45 (and 35 and 80) Calculator Emulator</div>
+                                <div class="title">Ask HN: Looking for a Firefox compatible extension for voice controlled actions</div>
                                 <div class="date">24 Jul 2023</div>
                             </div>
                         </div>
