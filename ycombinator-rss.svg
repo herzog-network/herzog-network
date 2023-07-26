@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google engineers want to make ad-blocking (near) impossible</div>
+                                <div class="title">Show HN: Django Admin Site Customization Tutorial</div>
+                                <div class="date">26 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">How MOS 6502 Illegal Opcodes work</div>
                                 <div class="date">26 Jul 2023</div>
                             </div>
                         </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">20 Years of Programming</div>
+                                <div class="title">20 Years of Programming (2020)</div>
                                 <div class="date">25 Jul 2023</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Treemaps are awesome</div>
-                                <div class="date">25 Jul 2023</div>
+                                <div class="title">Lago (YC S21) – Open-Source Stripe Billing and Chargebee Alternative Is Hiring</div>
+                                <div class="date">26 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">Expo – open-source platform for making universal apps for Android, iOS, and web</div>
                                 <div class="date">26 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Way ahead of its time: The Remote Lounge NYC</div>
-                                <div class="date">25 Jul 2023</div>
                             </div>
                         </div>
                     </section>
