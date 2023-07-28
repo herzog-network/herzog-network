@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Faster Filesystem Access with Directfs</div>
+                                <div class="title">Faster filesystem access with Directfs</div>
                                 <div class="date">28 Jul 2023</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Modern Tourism Makes It Difficult to Appreciate the Sistine Chapel</div>
-                                <div class="date">27 Jul 2023</div>
+                                <div class="title">Making 'The Blue Flash': How I reconstructed a fatal atomic accident</div>
+                                <div class="date">26 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making 'The Blue Flash': How I reconstructed a fatal atomic accident</div>
-                                <div class="date">26 Jul 2023</div>
+                                <div class="title">How the Cheesecake Factory defied the restaurant industry’s rules of success</div>
+                                <div class="date">27 Jul 2023</div>
                             </div>
                         </div>
                     </section>
