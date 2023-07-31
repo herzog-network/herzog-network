@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Screwed-O-Meter</div>
-                                <div class="date">31 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Conduit: Simple, fast and reliable chat server powered by matrix</div>
                                 <div class="date">31 Jul 2023</div>
                             </div>
@@ -40,6 +31,15 @@
                             <div class="infos">
                                 <div class="title">Show HN: San Francisco Compute – 512 H100s at &lt;$2/hr for research and startups</div>
                                 <div class="date">30 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Mac Mouse Fix: Do the things you do on a trackpad. Without a trackpad</div>
+                                <div class="date">31 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CloudFlares last Warrant Canary was published over a year ago</div>
+                                <div class="title">A Year in Review of 0-days Exploited In-the-Wild in 2022</div>
                                 <div class="date">31 Jul 2023</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mac Mouse Fix: Do the things you do on a trackpad. Without a trackpad</div>
-                                <div class="date">31 Jul 2023</div>
+                                <div class="title">I feel hopeless, rejected, and a burden – One week of empathy training (2019)</div>
+                                <div class="date">30 Jul 2023</div>
                             </div>
                         </div>
                     </section>
