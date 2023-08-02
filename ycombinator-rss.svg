@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? (2019)</div>
+                                <div class="date">2 Aug 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Why Edge Detection Doesn’t Explain Line Drawing</div>
                                 <div class="date">2 Aug 2023</div>
                             </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library</div>
+                                <div class="title">Why Rust helps even if you have to use a lot of `unsafe`</div>
                                 <div class="date">2 Aug 2023</div>
                             </div>
                         </div>
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Beetle That Heads for the ‘Back Door’ When Eaten by a Frog (2020)</div>
-                                <div class="date">2 Aug 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Patterns for building LLM-based systems and products</div>
+                                <div class="title">VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library</div>
                                 <div class="date">2 Aug 2023</div>
                             </div>
                         </div>
