@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI-generated books create a dumpster fire on Amazon and Goodreads</div>
+                                <div class="title">Malignant melanoma deploys elegant molecular mechanism to evade immune responses</div>
+                                <div class="date">8 Aug 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Absence of superconductivity in LK-99 at ambient conditions</div>
                                 <div class="date">8 Aug 2023</div>
                             </div>
                         </div>
@@ -38,25 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cancer’s Cloaking Device Revealed</div>
-                                <div class="date">8 Aug 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Grammarly AI Training: The only way to opt out is to pay for 500 accounts</div>
-                                <div class="date">8 Aug 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">True shape of lithium revealed for the first time</div>
+                                <div class="title">Lithium morphology discovery could lead to safer lithium-metal batteries</div>
                                 <div class="date">7 Aug 2023</div>
                             </div>
                         </div>
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Overworked and Underpaid, VFX Workers Vote to Unionize at Marvel</div>
-                                <div class="date">7 Aug 2023</div>
+                                <div class="title">I would rather see my books get pirated than this</div>
+                                <div class="date">8 Aug 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -75,6 +66,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way</div>
+                                <div class="date">7 Aug 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">How Zoom’s terms of service and practices apply to AI features</div>
                                 <div class="date">7 Aug 2023</div>
                             </div>
                         </div>
