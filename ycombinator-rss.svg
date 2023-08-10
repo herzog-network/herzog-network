@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Vim Boss</div>
+                                <div class="date">10 Aug 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Do Machine Learning Models Memorize or Generalize?</div>
                                 <div class="date">10 Aug 2023</div>
                             </div>
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</div>
+                                <div class="title">Rhino Linux is a rolling release Ubuntu-based distribution</div>
                                 <div class="date">10 Aug 2023</div>
                             </div>
                         </div>
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Exoplanets Could Help Us Learn How Planets Make Magnetism</div>
-                                <div class="date">8 Aug 2023</div>
+                                <div class="title">MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</div>
+                                <div class="date">10 Aug 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Memfault (YC W19) Is Hiring a Data/Back End Engineer</div>
-                                <div class="date">10 Aug 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Students’ insight proves that the local-global conjecture doesn’t hold</div>
-                                <div class="date">10 Aug 2023</div>
+                                <div class="title">Exoplanets Could Help Us Learn How Planets Make Magnetism</div>
+                                <div class="date">8 Aug 2023</div>
                             </div>
                         </div>
                     </section>
