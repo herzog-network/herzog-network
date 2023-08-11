@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">git-appraise – Distributed Code Review for Git</div>
+                                <div class="title">Git-appraise – Distributed Code Review for Git</div>
                                 <div class="date">11 Aug 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Reverse Engineering the Apple Multipeer Connectivity Framework</div>
+                                <div class="title">Firefox desktop extensions coming soon for the upcoming Android release</div>
+                                <div class="date">11 Aug 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Reverse Engineering the Apple Multipeer Connectivity Framework (2022)</div>
                                 <div class="date">8 Aug 2023</div>
                             </div>
                         </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Firefox desktop extensions coming soon for the upcoming Android release</div>
+                                <div class="title">Show HN: Tetris, but the blocks are ARM instructions that execute in the browser</div>
                                 <div class="date">11 Aug 2023</div>
                             </div>
                         </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">eSignature for Google Docs and Google Drive (Beta)</div>
+                                <div class="title">eSignature Beta for Google Docs and Google Drive</div>
                                 <div class="date">10 Aug 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Show HN: Tetris, but the blocks are ARM instructions that execute in the browser</div>
-                                <div class="date">11 Aug 2023</div>
                             </div>
                         </div>
                     </section>
