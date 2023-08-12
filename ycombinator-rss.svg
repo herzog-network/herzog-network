@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Carrot Problem</div>
+                                <div class="title">Deep Learning Systems (CMU Course)</div>
                                 <div class="date">12 Aug 2023</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Deep Learning Systems (CMU Course)</div>
+                                <div class="title">The Carrot Problem</div>
                                 <div class="date">12 Aug 2023</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer</div>
-                                <div class="date">12 Aug 2023</div>
+                                <div class="title">Every phone should be able to run personal website</div>
+                                <div class="date">11 Aug 2023</div>
                             </div>
                         </div>
                     </section>
