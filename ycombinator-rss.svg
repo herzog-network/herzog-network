@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Learn GNU Awk with hundreds of examples and exercises</div>
+                                <div class="title">CLI text processing with GNU awk</div>
                                 <div class="date">28 Aug 2023</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">‘Homer and His Iliad’ by Robin Lane Fox Review</div>
+                                <div class="title">111,111.1 meters is reliably 1 degree of latitude</div>
                                 <div class="date">27 Aug 2023</div>
                             </div>
                         </div>
