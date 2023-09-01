@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CT scans of coffee-making equipment</div>
-                                <div class="date">31 Aug 2023</div>
+                                <div class="title">Learning For Mastery (1968) [pdf]</div>
+                                <div class="date">1 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +56,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Benjamin S. Bloom: Learning For Mastery (1968) [pdf]</div>
+                                <div class="title">Apple Clarifies Why It Abandoned Plan to Detect CSAM in iCloud Photos</div>
+                                <div class="date">1 Sept 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">From Art Nouveau to Bauhaus: How Home Interiors Looked in Popular Art Movements</div>
                                 <div class="date">1 Sept 2023</div>
                             </div>
                         </div>
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Things I wish I knew before moving 50K lines of code to React Server Components</div>
-                                <div class="date">1 Sept 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Writing a bare-metal RISC-V application in D</div>
                                 <div class="date">1 Sept 2023</div>
                             </div>
                         </div>
