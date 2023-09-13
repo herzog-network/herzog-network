@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Any sufficiently advanced uninstaller is indistinguishable from malware</div>
+                                <div class="title">LÖVE: a framework to make 2D games in Lua</div>
                                 <div class="date">13 Sept 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">There are now two types of PayPal dollars, and one is better than the other</div>
+                                <div class="title">Any sufficiently advanced uninstaller is indistinguishable from malware</div>
                                 <div class="date">13 Sept 2023</div>
                             </div>
                         </div>
@@ -47,15 +47,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Credit card debt collection</div>
-                                <div class="date">13 Sept 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Openmoji</div>
                                 <div class="date">13 Sept 2023</div>
                             </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">iPhone 12 withdrawn from French market for non-compliance with EU regulation</div>
+                                <div class="title">Credit card debt collection</div>
                                 <div class="date">13 Sept 2023</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Interactive Map of Linux Kernel</div>
+                                <div class="title">A CD Spectrometer</div>
+                                <div class="date">13 Sept 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">iPhone 12 withdrawn from French market for non-compliance with EU regulation</div>
                                 <div class="date">13 Sept 2023</div>
                             </div>
                         </div>
