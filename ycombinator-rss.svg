@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Full Resolution Photo Archive</div>
+                                <div class="title">Text editing on mobile: the invisible problem</div>
                                 <div class="date">24 Sept 2023</div>
                             </div>
                         </div>
@@ -29,25 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Text editing on mobile is an invisible problem no one appreciates</div>
-                                <div class="date">24 Sept 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">CoRF: Colorizing Radiance Fields Using Knowledge Distillation</div>
-                                <div class="date">24 Sept 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">In 1873, speculation and overinvestment in railroads sparked a financial crisis</div>
+                                <div class="title">One robber baron’s gamble on railroads</div>
                                 <div class="date">24 Sept 2023</div>
                             </div>
                         </div>
@@ -65,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A man who figured out how to turn Americans’ private information into a business</div>
+                                <div class="title">Hank Asher turned Americans’ private information into a business</div>
                                 <div class="date">22 Sept 2023</div>
                             </div>
                         </div>
@@ -75,6 +57,24 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Reverse-engineering the classic MK4116 16-kilobit DRAM chip</div>
+                                <div class="date">24 Sept 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Hidden ocean the source of carbon dioxide on Jupiter moon</div>
+                                <div class="date">22 Sept 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Two photographers captured the same millisecond in time (2018)</div>
                                 <div class="date">24 Sept 2023</div>
                             </div>
                         </div>
