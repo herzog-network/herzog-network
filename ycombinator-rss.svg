@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why did the Motorola 68000 processor family fall out of use in PCs?</div>
+                                <div class="title">AMD may get across the CUDA moat</div>
                                 <div class="date">6 Oct 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AMD may get across the CUDA moat</div>
+                                <div class="title">Why did the Motorola 68000 processor family fall out of use in PCs?</div>
                                 <div class="date">6 Oct 2023</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Java 21 VirtualThreads vs. Clojure Lazy Seqs</div>
-                                <div class="date">6 Oct 2023</div>
+                                <div class="title">Show HN: What to read after? Personalised AI book recommendations</div>
+                                <div class="date">7 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Exploratory data analysis for humanities data</div>
+                                <div class="title">SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization</div>
                                 <div class="date">6 Oct 2023</div>
                             </div>
                         </div>
