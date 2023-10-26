@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: PG's 'Do Things That Don't Scale' manual examples?</div>
+                                <div class="title">Show HN: OpenAPI DevTools – Chrome extension that generates an API spec</div>
                                 <div class="date">25 Oct 2023</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: OpenAPI DevTools – Chrome extension that generates an API spec</div>
+                                <div class="title">Ask HN: PG's 'Do Things That Don't Scale' manual examples?</div>
                                 <div class="date">25 Oct 2023</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Debugging Compilers in Clojure</div>
-                                <div class="date">23 Oct 2023</div>
+                                <div class="title">Safety benefits of roundabouts</div>
+                                <div class="date">25 Oct 2023</div>
                             </div>
                         </div>
                     </section>
