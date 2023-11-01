@@ -29,6 +29,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Norwegian ban on Meta behavioral advertising extended to entire EU</div>
+                                <div class="date">1 Nov 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Copying Angry Birds with nothing but AI</div>
                                 <div class="date">31 Oct 2023</div>
                             </div>
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Ten Rules of Schema Growth</div>
-                                <div class="date">31 Oct 2023</div>
+                                <div class="title">M51: A Feast for the Eyes</div>
+                                <div class="date">1 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,17 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context</div>
-                                <div class="date">31 Oct 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Upstream Linux support available for Qualcomm Snapdragon 8 Gen 3 Mobile Platform</div>
-                                <div class="date">31 Oct 2023</div>
+                                <div class="title">Show HN: Halloween game to show off my new Terminal</div>
+                                <div class="date">1 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
