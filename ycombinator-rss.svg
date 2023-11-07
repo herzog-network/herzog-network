@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">44% of US job postings have salary info in them</div>
+                                <div class="title">A four year plan for async Rust</div>
                                 <div class="date">7 Nov 2023</div>
                             </div>
                         </div>
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Maine's Constitution Has Unprintable Sections</div>
-                                <div class="date">7 Nov 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Videos of Godotcon 2023</div>
+                                <div class="title">Transformers struggle with generalizing tasks beyond pre-training data</div>
                                 <div class="date">7 Nov 2023</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Whole Earth Catalog (1968) [pdf]</div>
+                                <div class="title">The OpenAI Keynote</div>
                                 <div class="date">7 Nov 2023</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LAPD considering stronger body camera policy in light of recent scandals</div>
+                                <div class="title">Bun (YC S19) Is Hiring Systems Engineers (C/C++ or Zig)</div>
+                                <div class="date">7 Nov 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Verizon, AT&amp;T Customers Sue to Undo T-Mobile Merger, Saying It Raised All Prices</div>
                                 <div class="date">7 Nov 2023</div>
                             </div>
                         </div>
