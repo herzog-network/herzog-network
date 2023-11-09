@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SciPy builds for Python 3.12 on Windows are a minor miracle</div>
-                                <div class="date">8 Nov 2023</div>
+                                <div class="title">Researchers uncover the fastest semiconductor yet</div>
+                                <div class="date">9 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Interesting Bugs Caught by ESLint's no-constant-binary-expression</div>
+                                <div class="title">SciPy builds for Python 3.12 on Windows are a minor miracle</div>
                                 <div class="date">8 Nov 2023</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Design Guidelines for Domain Specific Languages</div>
+                                <div class="title">Tested: Black 4.0, the "blackest black" is a lot blacker. 0f1012 vs. 272928</div>
                                 <div class="date">9 Nov 2023</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sony announces a9 III: first full-frame global shutter camera</div>
-                                <div class="date">9 Nov 2023</div>
+                                <div class="title">Interesting Bugs Caught by ESLint's no-constant-binary-expression</div>
+                                <div class="date">8 Nov 2023</div>
                             </div>
                         </div>
                     </section>
