@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">$20k bounty was claimed</div>
-                                <div class="date">27 Nov 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">My toddler loves planes, so I built her a radar</div>
                                 <div class="date">27 Nov 2023</div>
                             </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GitHub is investigating an incident with Pull Requests, Issues and Webhooks</div>
+                                <div class="title">Cheaper microscope could bring protein mapping technique to the masses</div>
                                 <div class="date">27 Nov 2023</div>
                             </div>
                         </div>
@@ -56,7 +47,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Broadcom lays off many VMware employees after closing acquisition</div>
+                                <div class="title">The largest number representable in 64 bits</div>
+                                <div class="date">25 Nov 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Strange Metals: Where electricity may flow without electrons</div>
                                 <div class="date">27 Nov 2023</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Learnings from fine-tuning LLM on my Telegram messages</div>
+                                <div class="title">God Help Us, Let's Try to Understand AI Monosemanticity</div>
                                 <div class="date">27 Nov 2023</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Metals: Where Electricity May Flow Without Electrons</div>
+                                <div class="title">$20k bounty was claimed</div>
                                 <div class="date">27 Nov 2023</div>
                             </div>
                         </div>
