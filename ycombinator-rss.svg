@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)</div>
+                                <div class="title">Show HN: Taipy – Turns Data and AI algorithms into full web applications</div>
                                 <div class="date">30 Nov 2023</div>
                             </div>
                         </div>
@@ -38,15 +38,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study</div>
-                                <div class="date">30 Nov 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Q-Transformer</div>
                                 <div class="date">30 Nov 2023</div>
                             </div>
@@ -56,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Edmunds EV Charging Test: How fast does each EV charge?</div>
+                                <div class="title">Can generalist foundation models beat special-purpose tuning?</div>
                                 <div class="date">30 Nov 2023</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CSAR: European Parliament rejects mass scanning of private messages</div>
+                                <div class="title">Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)</div>
                                 <div class="date">30 Nov 2023</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Kolibri OS: fits on a floppy disk, programmed using interrupts</div>
+                                <div class="title">'Weird Al' Roasts Spotify's Artist Payout System in Year-End Wrapped Video</div>
+                                <div class="date">30 Nov 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Edbrowse, a Command Line Editor Browser</div>
                                 <div class="date">30 Nov 2023</div>
                             </div>
                         </div>
