@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Adfree Cities: for happier, healthier cities</div>
+                                <div class="title">Cortex A57, Nintendo Switch's CPU</div>
                                 <div class="date">13 Dec 2023</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bash One-Liners for LLMs</div>
-                                <div class="date">13 Dec 2023</div>
+                                <div class="title">Dungeons and Directories, an exploration game in your file explorer</div>
+                                <div class="date">12 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Gemini Pro API Available Through AI Studio</div>
+                                <div class="title">How to Beat Silicon Valley Competitors (2018)</div>
+                                <div class="date">12 Dec 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Linux Scheduler: A Decade of Wasted Cores (2016) [pdf]</div>
                                 <div class="date">13 Dec 2023</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cortex A57, Nintendo Switch's CPU</div>
-                                <div class="date">13 Dec 2023</div>
+                                <div class="title">Screenwriters' Lecture: Charlie Kaufman (2011)</div>
+                                <div class="date">12 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">All the Carcinogens We Cannot See</div>
-                                <div class="date">13 Dec 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Google Promises Unlimited Storage; Cancels; Tells Journalist Life's Work Deleted</div>
+                                <div class="title">Q&amp;A With Bill Mensch, co-creator of the 6502</div>
                                 <div class="date">13 Dec 2023</div>
                             </div>
                         </div>
