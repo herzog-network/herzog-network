@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft releases Windows AI studio to run and fine tune models locally</div>
+                                <div class="title">Google's response to Reptar CPU vulnerability</div>
                                 <div class="date">14 Dec 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google's response to Reptar CPU vulnerability</div>
-                                <div class="date">14 Dec 2023</div>
+                                <div class="title">Concept sliders: LoRA adaptors for precise control in diffusion models</div>
+                                <div class="date">12 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Concept sliders: LoRA adaptors for precise control in diffusion models</div>
-                                <div class="date">12 Dec 2023</div>
+                                <div class="title">Windows AI Studio Preview</div>
+                                <div class="date">14 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Biscuit authorization</div>
-                                <div class="date">14 Dec 2023</div>
+                                <div class="title">Donkey Kong: A Record of Struggle</div>
+                                <div class="date">12 Dec 2023</div>
                             </div>
                         </div>
                     </section>
