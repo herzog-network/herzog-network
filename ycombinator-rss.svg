@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fluorite lenses: Corrective capabilities beyond ordinary optical glass</div>
-                                <div class="date">16 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">From Vexing Uncertainty to Intellectual Humility</div>
+                                <div class="title">Flowblade: Open-Source Video Editor</div>
                                 <div class="date">17 Jan 2024</div>
                             </div>
                         </div>
@@ -56,7 +47,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ALOHA robot learns from humans to cook, clean, do laundry</div>
+                                <div class="title">Fluorite lenses: Corrective capabilities beyond ordinary optical glass</div>
+                                <div class="date">16 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">BBC BASIC raytracer in 432 characters</div>
                                 <div class="date">17 Jan 2024</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stable Code 3B: Coding on the Edge</div>
-                                <div class="date">16 Jan 2024</div>
+                                <div class="title">MixRank (YC S11) Is Hiring Global Remote Software Engineers</div>
+                                <div class="date">17 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Post-mortem for last week's incident at Kagi</div>
-                                <div class="date">16 Jan 2024</div>
+                                <div class="title">From Vexing Uncertainty to Intellectual Humility</div>
+                                <div class="date">17 Jan 2024</div>
                             </div>
                         </div>
                     </section>
