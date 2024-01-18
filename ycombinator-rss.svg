@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Which word begins with "y" and looks like an axe in this picture? (2017)</div>
-                                <div class="date">17 Jan 2024</div>
+                                <div class="title">A Million Ways to Die on the Web</div>
+                                <div class="date">18 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Million Ways to Die on the Web</div>
-                                <div class="date">18 Jan 2024</div>
+                                <div class="title">Which word begins with "y" and looks like an axe in this picture? (2017)</div>
+                                <div class="date">17 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Automatic class sorting with Prettier</div>
+                                <div class="title">Automatic class sorting with Prettier (2022)</div>
                                 <div class="date">18 Jan 2024</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Solving the Dining Philosophers Problem with Systemd – Part 3</div>
-                                <div class="date">17 Jan 2024</div>
+                                <div class="title">Polymorphic Types in C [pdf]</div>
+                                <div class="date">15 Jan 2024</div>
                             </div>
                         </div>
                     </section>
