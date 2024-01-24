@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Waterway Map</div>
-                                <div class="date">23 Jan 2024</div>
+                                <div class="title">Lumiere: A Space-Time Diffusion Model for Realistic Video Generation</div>
+                                <div class="date">24 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lumiere: A Space-Time Diffusion Model for Realistic Video Generation</div>
-                                <div class="date">24 Jan 2024</div>
+                                <div class="title">Waterway Map</div>
+                                <div class="date">23 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why is machine learning 'hard'? (2016)</div>
-                                <div class="date">23 Jan 2024</div>
+                                <div class="title">Jamsocket (YC W22) is hiring a senior Rust systems engineer (NYC/remote)</div>
+                                <div class="date">24 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making Rust binaries smaller by default</div>
+                                <div class="title">Show HN: I wished for a site with a growing list of math problems, I built it</div>
                                 <div class="date">24 Jan 2024</div>
                             </div>
                         </div>
