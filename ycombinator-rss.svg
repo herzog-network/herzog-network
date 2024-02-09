@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What's new in the Postgres 16 query planner (a.k.a. optimizer)</div>
+                                <div class="title">What's new in the Postgres 16 query planner</div>
                                 <div class="date">9 Feb 2024</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Walter Shawlee, the Sovereign of Slide Rules, Is Dead at 73</div>
+                                <div class="title">Rust wont save us, but its ideas will</div>
                                 <div class="date">9 Feb 2024</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool</div>
-                                <div class="date">8 Feb 2024</div>
+                                <div class="title">Walter Shawlee, the sovereign of slide rules, has died</div>
+                                <div class="date">9 Feb 2024</div>
                             </div>
                         </div>
                     </section>
