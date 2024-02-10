@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">In 2023 operations for the .GOV TLD transitioned from Verisign to Cloudflare</div>
+                                <div class="title">Memray – A Memory Profiler for Python</div>
                                 <div class="date">10 Feb 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Almost every infrastructure decision I endorse or regret</div>
+                                <div class="title">Why it's impossible to agree on what's allowed</div>
                                 <div class="date">9 Feb 2024</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Unscrambling the Hidden Secrets of Superpermutations</div>
+                                <div class="title">Is the Media Prepared for an Extinction-Level Event?</div>
                                 <div class="date">10 Feb 2024</div>
                             </div>
                         </div>
@@ -65,17 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BirdLingo: A birdsong learning game</div>
-                                <div class="date">10 Feb 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Power of small optimizations</div>
+                                <div class="title">Accidentally making windows vanish in my old-fashioned Unix X environment</div>
                                 <div class="date">9 Feb 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">In 2023 operations for the .GOV TLD transitioned from Verisign to Cloudflare</div>
+                                <div class="date">10 Feb 2024</div>
                             </div>
                         </div>
                     </section>
