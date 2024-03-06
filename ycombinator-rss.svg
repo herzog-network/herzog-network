@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FreeBSD 13.3-Release Announcement</div>
-                                <div class="date">5 Mar 2024</div>
+                                <div class="title">Propagation of Error in Geometry Constructions</div>
+                                <div class="date">6 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -49,6 +49,15 @@
                             <div class="infos">
                                 <div class="title">Nerdy internals of an Apple text editor</div>
                                 <div class="date">5 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Health</div>
+                                <div class="date">6 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">JEDEC publishes GDDR7 graphics memory standard</div>
-                                <div class="date">5 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Ace of Aces: or, why you should Do Maths as a game designer</div>
                                 <div class="date">5 Mar 2024</div>
                             </div>
                         </div>
