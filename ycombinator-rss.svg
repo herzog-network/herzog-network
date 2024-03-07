@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Arctic will be ice-free within a decade</div>
+                                <div class="title">Bob_cassette_rewinder: Renew and Refill Bob Cassettes for 98% Cost Saving</div>
                                 <div class="date">7 Mar 2024</div>
                             </div>
                         </div>
@@ -56,8 +56,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Elodin – A better framework for physics simulation</div>
-                                <div class="date">6 Mar 2024</div>
+                                <div class="title">Signs you're about to be acquired (2020)</div>
+                                <div class="date">7 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Interactive SQLite Documentation: Experiment with Queries in Real-Time</div>
+                                <div class="date">5 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Show HN: dockerc – Docker image to static executable "compiler"</div>
-                                <div class="date">6 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9</div>
                                 <div class="date">6 Mar 2024</div>
                             </div>
                         </div>
