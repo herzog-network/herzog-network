@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vision Pro: What we got wrong at Oculus that Apple got right</div>
+                                <div class="title">Sunlight, a Certificate Transparency log implementation</div>
                                 <div class="date">15 Mar 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sunlight, a Certificate Transparency log implementation</div>
+                                <div class="title">Vision Pro: What we got wrong at Oculus that Apple got right</div>
                                 <div class="date">15 Mar 2024</div>
                             </div>
                         </div>
@@ -56,16 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Structured Generation Improves LLM Performance: GSM8K Benchmark</div>
-                                <div class="date">15 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Miss Julie</div>
+                                <div class="title">The Montreal Problem: Why Programming Languages Need a Style Czar</div>
                                 <div class="date">15 Mar 2024</div>
                             </div>
                         </div>
@@ -75,6 +66,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Britain's decade of Art Deco densification</div>
+                                <div class="date">15 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">TextSnatcher: Copy text from images, for the Linux Desktop</div>
                                 <div class="date">15 Mar 2024</div>
                             </div>
                         </div>
