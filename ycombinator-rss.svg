@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AWS Makes Cloud Formation Stack Creation Up to 40% Faster</div>
+                                <div class="title">Show HN: Let's Build AI</div>
                                 <div class="date">18 Mar 2024</div>
                             </div>
                         </div>
@@ -47,16 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">2600.network Dialup Service</div>
-                                <div class="date">17 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Experience with an Uncommon Lisp (1986) [pdf]</div>
+                                <div class="title">Transpile Any SQL to PostgreSQL Dialect</div>
                                 <div class="date">18 Mar 2024</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">macOS Sonoma 14.4 might break Java on your machine</div>
+                                <div class="title">Don't upgrade to macOS Sonoma 14.4 yet: plug-in compatibility issues</div>
                                 <div class="date">18 Mar 2024</div>
                             </div>
                         </div>
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Mathematician on Creativity, Art, Logic and Language</div>
-                                <div class="date">15 Mar 2024</div>
+                                <div class="title">Hypothesis That Universe Has No Dark Matter and Is 27B Years Old</div>
+                                <div class="date">18 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Microsoft again bothers Chrome users with Bing popup ads in Windows</div>
+                                <div class="date">18 Mar 2024</div>
                             </div>
                         </div>
                     </section>
