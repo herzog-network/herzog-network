@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">The baffling intelligence of a single cell: The story of E. coli chemotaxis</div>
+                                <div class="date">21 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler</div>
                                 <div class="date">21 Mar 2024</div>
                             </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vernor Vinge (1944-2024)</div>
+                                <div class="title">Ludic: New framework for Python with seamless Htmx support</div>
                                 <div class="date">21 Mar 2024</div>
                             </div>
                         </div>
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">JITX – The Fastest Way to Design Circuit Boards</div>
+                                <div class="title">Sequential and parallel execution of long-running shell commands</div>
                                 <div class="date">20 Mar 2024</div>
                             </div>
                         </div>
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Flightradar24's new GPS jamming map</div>
-                                <div class="date">20 Mar 2024</div>
+                                <div class="title">Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling</div>
+                                <div class="date">21 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jim Ward has died</div>
-                                <div class="date">20 Mar 2024</div>
+                                <div class="title">Trayd (YC S23) Is Growing Hiring Solutions Engineer</div>
+                                <div class="date">21 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: CamelQA (YC W24) – AI that tests mobile apps</div>
-                                <div class="date">20 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Ludic: New framework for Python with seamless Htmx support</div>
+                                <div class="title">Google: Angular and Wiz Are Merging</div>
                                 <div class="date">21 Mar 2024</div>
                             </div>
                         </div>
