@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vision Transformers Are Overrated</div>
-                                <div class="date">2 Apr 2024</div>
+                                <div class="title">Ask HN: Who is hiring? (April 2024)</div>
+                                <div class="date">1 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: Who is hiring? (April 2024)</div>
-                                <div class="date">1 Apr 2024</div>
+                                <div class="title">WireGuard client that exposes itself as a HTTP/SOCKS5 proxy</div>
+                                <div class="date">2 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WireGuard client that exposes itself as a HTTP/SOCKS5 proxy</div>
+                                <div class="title">Building GCC 1.27 (first GCC with x86 support) (2019)</div>
                                 <div class="date">2 Apr 2024</div>
                             </div>
                         </div>
