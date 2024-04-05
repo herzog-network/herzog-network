@@ -29,6 +29,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">The Rise and Fall of Silicon Graphics</div>
+                                <div class="date">5 Apr 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">So you wanna de-bog yourself</div>
                                 <div class="date">5 Apr 2024</div>
                             </div>
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Lego Model of Financial Capitalism</div>
+                                <div class="title">Fortran on WebAssembly</div>
                                 <div class="date">5 Apr 2024</div>
                             </div>
                         </div>
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mario meets Pareto</div>
-                                <div class="date">4 Apr 2024</div>
+                                <div class="title">Show HN: Kyoo self hosted media browser (jellyfin/plex alternative)</div>
+                                <div class="date">5 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bringing Back the Somali Shilling</div>
-                                <div class="date">4 Apr 2024</div>
+                                <div class="title">Continue (YC S23) is hiring a founding engineer in San Francisco</div>
+                                <div class="date">5 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Understanding Linear Feedback Shift Registers in FPGAs</div>
-                                <div class="date">3 Apr 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Big Tech's underground race to buy AI training data</div>
+                                <div class="title">Jedi Knight (Plus, Notes on an Expanded Universe)</div>
                                 <div class="date">5 Apr 2024</div>
                             </div>
                         </div>
