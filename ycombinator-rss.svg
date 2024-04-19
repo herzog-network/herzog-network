@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Meta Llama 3</div>
-                                <div class="date">18 Apr 2024</div>
+                                <div class="title">Supabase Storage: now supports the S3 protocol</div>
+                                <div class="date">19 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A former slave who became a cowboy, a rancher, and a Texas legend</div>
+                                <div class="title">VoRS: Vo(IP) Simple Alternative to Mumble</div>
                                 <div class="date">19 Apr 2024</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG</div>
-                                <div class="date">17 Apr 2024</div>
+                                <div class="title">Routine (YC W21) Is Hiring OCaml Software Engineers: On Site (Paris) or Remote</div>
+                                <div class="date">19 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Rust calling convention we deserve</div>
-                                <div class="date">19 Apr 2024</div>
+                                <div class="title">Meta Llama 3</div>
+                                <div class="date">18 Apr 2024</div>
                             </div>
                         </div>
                     </section>
