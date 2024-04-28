@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The unstallable plane that stalled</div>
-                                <div class="date">28 Apr 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Zilog Z80 CPU – Modern, free and open source silicon clone</div>
                                 <div class="date">28 Apr 2024</div>
                             </div>
@@ -47,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Did we lose our way in making efficient software? – ~30 MB doc file vs. browser</div>
+                                <div class="title">Zed Decoded: Rope and SumTree</div>
                                 <div class="date">28 Apr 2024</div>
                             </div>
                         </div>
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Patterns (YC S21) is hiring to replace dashboards with AI agents</div>
-                                <div class="date">28 Apr 2024</div>
+                                <div class="title">PySheets – Spreadsheet UI for Python</div>
+                                <div class="date">27 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zed Decoded: Rope and SumTree</div>
-                                <div class="date">28 Apr 2024</div>
+                                <div class="title">Fragmented thinking is a bigger threat to flow state than interruptions</div>
+                                <div class="date">25 Apr 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Watch cars evolve using genetic algorithm</div>
+                                <div class="date">27 Apr 2024</div>
                             </div>
                         </div>
                     </section>
