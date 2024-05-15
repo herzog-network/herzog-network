@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PaliGemma: Open-Source Multimodal Model by Google</div>
+                                <div class="title">New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy</div>
                                 <div class="date">15 May 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Haiku Activity and Contract Report, April 2024</div>
+                                <div class="title">Making a Postgres query 1k times faster</div>
                                 <div class="date">15 May 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy</div>
+                                <div class="title">In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy? (1986)</div>
                                 <div class="date">15 May 2024</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy?</div>
+                                <div class="title">Jepsen: Datomic Pro 1.0.7075</div>
                                 <div class="date">15 May 2024</div>
                             </div>
                         </div>
