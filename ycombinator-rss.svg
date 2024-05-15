@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Adobe Photoshop Source Code (2013)</div>
+                                <div class="title">Making a Postgres query 1k times faster</div>
                                 <div class="date">15 May 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making a Postgres query 1k times faster</div>
+                                <div class="title">Plane, open-source Jira alternative, got to 100K+ Docker and 44K+ K8s deploys</div>
+                                <div class="date">15 May 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Adobe Photoshop Source Code (2013)</div>
                                 <div class="date">15 May 2024</div>
                             </div>
                         </div>
@@ -57,15 +66,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Project Gameface Launches on Android</div>
-                                <div class="date">15 May 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">A 'plague' comes before the fall: lessons from Roman history</div>
                                 <div class="date">15 May 2024</div>
                             </div>
                         </div>
