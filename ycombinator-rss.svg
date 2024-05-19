@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stanford CS231n: Convolutional Neural Networks for Visual Recognition</div>
+                                <div class="title">Operation CHARM: Car repair manuals for everyone</div>
                                 <div class="date">19 May 2024</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI doppelgänger experiment – Part 1: The training</div>
+                                <div class="title">Meteor Just Seen in Portugal</div>
                                 <div class="date">19 May 2024</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances</div>
-                                <div class="date">19 May 2024</div>
+                                <div class="title">Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident</div>
+                                <div class="date">20 May 2024</div>
                             </div>
                         </div>
                     </section>
