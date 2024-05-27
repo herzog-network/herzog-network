@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Instead of “auth”, we should say “permissions” and “login”</div>
+                                <div class="title">Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero</div>
                                 <div class="date">27 May 2024</div>
                             </div>
                         </div>
@@ -38,16 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Helix-gpui: helix gpui front end</div>
-                                <div class="date">27 May 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Testing quantised inertia on Proxima Centauri</div>
+                                <div class="title">Should I use JWTs for authentication tokens?</div>
                                 <div class="date">27 May 2024</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An adjustable filter that can prevent interference in the range 600 MHz to 6 GHz</div>
+                                <div class="title">Helix-gpui: A simple GUI for the Helix editor</div>
                                 <div class="date">27 May 2024</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Controlling the Taylor Swift Eras Tour Wristbands with Flipper Zero</div>
+                                <div class="title">Surveilling the masses with wi-fi-based positioning systems</div>
+                                <div class="date">27 May 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Instead of “auth”, we should say “permissions” and “login”</div>
                                 <div class="date">27 May 2024</div>
                             </div>
                         </div>
