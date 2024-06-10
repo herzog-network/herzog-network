@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WebKit fix: Quirk news.ycombinator to skip TextAutoSizing</div>
+                                <div class="title">The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?</div>
                                 <div class="date">10 Jun 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Robot Programming: Stop Designing Software for Non-Roboticists</div>
+                                <div class="title">WebKit fix: Quirk news.ycombinator to skip TextAutoSizing</div>
                                 <div class="date">10 Jun 2024</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Libtree: Ldd as a tree saying why a library is found or not</div>
-                                <div class="date">9 Jun 2024</div>
+                                <div class="title">Passenger tracks missing luggage to home of airport store worker</div>
+                                <div class="date">10 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An Introduction to ARM64 Assembly on Apple Silicon Macs</div>
-                                <div class="date">8 Jun 2024</div>
+                                <div class="title">Libtree: Ldd as a tree saying why a library is found or not</div>
+                                <div class="date">9 Jun 2024</div>
                             </div>
                         </div>
                     </section>
