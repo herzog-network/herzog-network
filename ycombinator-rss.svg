@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">The GJK Algorithm: A weird and beautiful way to do a simple thing</div>
+                                <div class="date">12 Jun 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk</div>
                                 <div class="date">12 Jun 2024</div>
                             </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building a faster, smarter, Chromebook experience with the best of Google</div>
+                                <div class="title">Designing the avocado of uncertainty visualization</div>
                                 <div class="date">12 Jun 2024</div>
                             </div>
                         </div>
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Swift compiler is slow due to how types are inferred</div>
+                                <div class="title">A beginners guide to fine tuning LLM using LoRA</div>
                                 <div class="date">12 Jun 2024</div>
                             </div>
                         </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Silicon Valley's best kept secret: Founder liquidity</div>
+                                <div class="title">Cheapest source of fossil fuel generation is double the cost of solar</div>
                                 <div class="date">12 Jun 2024</div>
                             </div>
                         </div>
@@ -56,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Semantic clusters and embeddings for 500k Hacker News comments</div>
+                                <div class="title">Etleap (YC W13) Is Hiring Customer Success Manager (SF)</div>
                                 <div class="date">12 Jun 2024</div>
                             </div>
                         </div>
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lexbor – An open source HTML Renderer library</div>
-                                <div class="date">11 Jun 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Faxes from the Far Side of the Moon (2018)</div>
+                                <div class="title">Diffractive Chocolate</div>
                                 <div class="date">12 Jun 2024</div>
                             </div>
                         </div>
