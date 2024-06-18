@@ -38,15 +38,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Translate Datadog Metrics into OTLP</div>
-                                <div class="date">18 Jun 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Sharing new research, models, and datasets from Meta FAIR</div>
                                 <div class="date">18 Jun 2024</div>
                             </div>
@@ -56,7 +47,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Booking.com ignores twofactor, lets everyone email-login without a password</div>
+                                <div class="title">Enhancing Code Completion for Rust in Cody</div>
+                                <div class="date">13 Jun 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Sculpting the moon in R: Subdivision surfaces and displacement mapping</div>
                                 <div class="date">18 Jun 2024</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Electricity prices in France turn negative as renewable energy floods the grid</div>
+                                <div class="title">Nature retracts paper that claimed adult stem cell could become any type of cell</div>
                                 <div class="date">18 Jun 2024</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">In Praise of 5-Over-1 Buildings</div>
-                                <div class="date">14 Jun 2024</div>
+                                <div class="title">Cyber Scarecrow</div>
+                                <div class="date">18 Jun 2024</div>
                             </div>
                         </div>
                     </section>
