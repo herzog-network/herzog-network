@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tetris Font</div>
+                                <div class="title">Fuzz Map</div>
                                 <div class="date">20 Jun 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fuzz Map</div>
+                                <div class="title">Tetris Font</div>
                                 <div class="date">20 Jun 2024</div>
                             </div>
                         </div>
@@ -56,16 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Notes on Tajikistan</div>
-                                <div class="date">20 Jun 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Promoted.ai (YC W21) Is Hiring a Sales Engineer</div>
+                                <div class="title">Gilead shot prevents all HIV cases in trial</div>
                                 <div class="date">20 Jun 2024</div>
                             </div>
                         </div>
@@ -75,6 +66,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">More Disabled Americans Are Employed, Thanks to Remote Work</div>
+                                <div class="date">20 Jun 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Wc2: Investigates optimizing 'wc', the Unix word count program</div>
                                 <div class="date">20 Jun 2024</div>
                             </div>
                         </div>
