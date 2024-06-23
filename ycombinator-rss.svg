@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I am using AI to drop hats outside my window onto New Yorkers</div>
+                                <div class="title">I am using AI to drop hats outside my window onto New Yorkers</div>
                                 <div class="date">23 Jun 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography</div>
+                                <div class="title">Picolisp a Railroad Simulation</div>
                                 <div class="date">23 Jun 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Picolisp a Railroad Simulation</div>
+                                <div class="title">Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography</div>
                                 <div class="date">23 Jun 2024</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Napoleon: An Extraordinary Rendition (2010)</div>
-                                <div class="date">19 Jun 2024</div>
+                                <div class="title">EasyPost (YC S13) Is Hiring</div>
+                                <div class="date">23 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tonight with the Impressionists</div>
-                                <div class="date">21 Jun 2024</div>
+                                <div class="title">Infinitone Microtonal Saxophone</div>
+                                <div class="date">23 Jun 2024</div>
                             </div>
                         </div>
                     </section>
