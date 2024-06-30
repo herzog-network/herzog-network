@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws</div>
-                                <div class="date">29 Jun 2024</div>
+                                <div class="title">Inside a $1 radar motion sensor</div>
+                                <div class="date">30 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Meta Large Language Model Compiler</div>
-                                <div class="date">28 Jun 2024</div>
+                                <div class="title">Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser</div>
+                                <div class="date">30 Jun 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws</div>
+                                <div class="date">29 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,15 +56,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Operational Wargame Series: The best game not in stores now (2021)</div>
-                                <div class="date">29 Jun 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Python toolkit for quantitative finance</div>
                                 <div class="date">29 Jun 2024</div>
                             </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Imhex: A hex editor for reverse engineers</div>
+                                <div class="title">Show HN: I am building an open-source Confluence and Notion alternative</div>
                                 <div class="date">29 Jun 2024</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I am building an open-source Confluence and Notion alternative</div>
+                                <div class="title">Imhex: A hex editor for reverse engineers</div>
                                 <div class="date">29 Jun 2024</div>
                             </div>
                         </div>
