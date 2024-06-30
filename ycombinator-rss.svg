@@ -20,7 +20,25 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Writing GUI apps for Windows is painful</div>
+                                <div class="date">30 Jun 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Show HN: Drop-In SQS Replacement Based on SQLite</div>
+                                <div class="date">30 Jun 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">A simplified Python simulation of diffusion</div>
                                 <div class="date">30 Jun 2024</div>
                             </div>
                         </div>
@@ -38,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Below MI – IBM i for hackers</div>
+                                <div class="title">Postzegelcode</div>
                                 <div class="date">30 Jun 2024</div>
                             </div>
                         </div>
@@ -47,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A buried ancient Egyptian port reveals connections between distant civilizations</div>
-                                <div class="date">27 Jun 2024</div>
+                                <div class="title">Combine multiple RSS feeds into a single feed, as a service</div>
+                                <div class="date">30 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -57,24 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">The super effectiveness of Pokémon embeddings using only raw JSON and images</div>
-                                <div class="date">29 Jun 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Butterflies flew 2,600 miles across the Atlantic without stopping</div>
-                                <div class="date">28 Jun 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">LosslessCut: The Swiss army knife of lossless video/audio editing</div>
                                 <div class="date">29 Jun 2024</div>
                             </div>
                         </div>
