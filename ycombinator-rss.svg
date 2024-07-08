@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How we tamed Node.js event loop lag: a deepdive</div>
-                                <div class="date">8 Jul 2024</div>
+                                <div class="title">Don't Use Booleans</div>
+                                <div class="date">3 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I turned seemingly 'failed' experiments into a successful PhD</div>
-                                <div class="date">5 Jul 2024</div>
+                                <div class="title">DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)</div>
+                                <div class="date">8 Jul 2024</div>
                             </div>
                         </div>
                     </section>
