@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rye: A Hassle-Free Python Experience</div>
+                                <div class="title">Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon</div>
                                 <div class="date">9 Jul 2024</div>
                             </div>
                         </div>
@@ -38,16 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Reverse engineering Ticketmaster's rotating barcodes</div>
-                                <div class="date">8 Jul 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">LightRAG: The PyTorch Library for Large Language Model Applications</div>
+                                <div class="title">Rye: A Hassle-Free Python Experience</div>
                                 <div class="date">9 Jul 2024</div>
                             </div>
                         </div>
@@ -56,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)</div>
+                                <div class="title">Reverse engineering Ticketmaster's rotating barcodes</div>
                                 <div class="date">8 Jul 2024</div>
                             </div>
                         </div>
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ointment containing DNA molecules can combat allergic contact dermatitis</div>
-                                <div class="date">6 Jul 2024</div>
+                                <div class="title">DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)</div>
+                                <div class="date">8 Jul 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">LightRAG: The PyTorch Library for Large Language Model Applications</div>
+                                <div class="date">9 Jul 2024</div>
                             </div>
                         </div>
                     </section>
