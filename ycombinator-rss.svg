@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Writing a BIOS bootloader for 64-bit mode from scratch</div>
+                                <div class="title">Building and scaling Notion's data lake</div>
                                 <div class="date">14 Jul 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building and scaling Notion's data lake</div>
+                                <div class="title">Musical Notation for Modular Synthesizers</div>
+                                <div class="date">13 Jul 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Writing a BIOS bootloader for 64-bit mode from scratch</div>
                                 <div class="date">14 Jul 2024</div>
                             </div>
                         </div>
@@ -56,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Economy of Spam (2022)</div>
+                                <div class="title">Show HN: Pour Decision – Alcohol Tracker and Mindful Drinking Companion</div>
                                 <div class="date">14 Jul 2024</div>
                             </div>
                         </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Firmware update hides a device’s Bluetooth fingerprint</div>
+                                <div class="title">Building the Bell System</div>
                                 <div class="date">14 Jul 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Mazeppa: A modern supercompiler for call-by-value functional languages</div>
-                                <div class="date">12 Jul 2024</div>
                             </div>
                         </div>
                     </section>
