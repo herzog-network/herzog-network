@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Illustrated AlphaFold</div>
+                                <div class="title">Talos: Secure, immutable, and minimal Linux OS for running Kubernetes</div>
                                 <div class="date">13 Jul 2024</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Talos: Secure, immutable, and minimal Linux OS for running Kubernetes</div>
+                                <div class="title">The Illustrated AlphaFold</div>
                                 <div class="date">13 Jul 2024</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Threads Creator Paradox</div>
-                                <div class="date">14 Jul 2024</div>
+                                <div class="title">Show HN: Resurrecting a dead Dune RTS game</div>
+                                <div class="date">13 Jul 2024</div>
                             </div>
                         </div>
                     </section>
