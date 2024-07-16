@@ -38,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A rare Stratospheric Warming event has begun over the South Pole</div>
+                                <div class="title">BOA27: An open source, open hardware, leafleting, smart balloon</div>
+                                <div class="date">16 Jul 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Exo: Run your own AI cluster at home with everyday devices</div>
                                 <div class="date">16 Jul 2024</div>
                             </div>
                         </div>
@@ -56,15 +65,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How do jewellers capture every last particle of gold dust? (2017)</div>
-                                <div class="date">16 Jul 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">The Second Law of Thermodynamics</div>
                                 <div class="date">16 Jul 2024</div>
                             </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Amiga 2000 – Codename: Tesseract (2021)</div>
-                                <div class="date">15 Jul 2024</div>
+                                <div class="title">Show HN: Horizon – Private alternative to Imgur</div>
+                                <div class="date">16 Jul 2024</div>
                             </div>
                         </div>
                     </section>
