@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">JVM/Java: Null-Restricted and Nullable Types</div>
-                                <div class="date">2 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Hundred Rabbits is a small collective exploring the failability of modern tech</div>
                                 <div class="date">1 Aug 2024</div>
                             </div>
@@ -39,6 +30,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Peerfetch – Peer-to-Peer HTTP over WebRTC</div>
+                                <div class="date">2 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">JVM/Java: Null-Restricted and Nullable Types</div>
                                 <div class="date">2 Aug 2024</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Oscar, an open-source contributor agent architecture</div>
+                                <div class="title">Lizard Optimization for Product Growth and Retention</div>
                                 <div class="date">2 Aug 2024</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The reanimation of pseudoscience in machine learning</div>
-                                <div class="date">2 Aug 2024</div>
+                                <div class="title">Ask HN: Who is hiring? (August 2024)</div>
+                                <div class="date">1 Aug 2024</div>
                             </div>
                         </div>
                     </section>
