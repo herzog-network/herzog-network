@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How we found and fixed an eBPF Linux Kernel Vulnerability</div>
+                                <div class="title">Cosmic: A New Desktop Environment</div>
                                 <div class="date">8 Aug 2024</div>
                             </div>
                         </div>
@@ -38,17 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Review – Ford's First Engine</div>
+                                <div class="title">Qwen2-Math</div>
                                 <div class="date">8 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">A Better Light Source for Scanning Color Negative Film</div>
-                                <div class="date">6 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -57,6 +48,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Introducing the RP2350</div>
+                                <div class="date">8 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">How we found and fixed an eBPF Linux Kernel Vulnerability</div>
                                 <div class="date">8 Aug 2024</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI</div>
+                                <div class="title">Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now</div>
                                 <div class="date">8 Aug 2024</div>
                             </div>
                         </div>
