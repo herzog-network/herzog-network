@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability</div>
+                                <div class="title">Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131</div>
                                 <div class="date">8 Aug 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">RLHF is just barely RL</div>
+                                <div class="title">How we found and fixed an eBPF Linux Kernel Vulnerability</div>
+                                <div class="date">8 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Review – Ford's First Engine</div>
                                 <div class="date">8 Aug 2024</div>
                             </div>
                         </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mouse Pong: play a game from mouse's firmware with persistence of vision cursor</div>
+                                <div class="title">Introducing the RP2350</div>
                                 <div class="date">8 Aug 2024</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention</div>
-                                <div class="date">8 Aug 2024</div>
+                                <div class="title">Maximal Min() and Max()</div>
+                                <div class="date">7 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ICPP – Running C++ in anywhere like a script</div>
-                                <div class="date">4 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">After private equity takes over hospitals, they are less adept of providing care</div>
+                                <div class="title">Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI</div>
                                 <div class="date">8 Aug 2024</div>
                             </div>
                         </div>
