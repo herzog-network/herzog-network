@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google took three months to remove scam app that stole over $5M</div>
+                                <div class="title">Markov chains are funnier than LLMs</div>
                                 <div class="date">19 Aug 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem</div>
-                                <div class="date">18 Aug 2024</div>
+                                <div class="title">Google took three months to remove scam app that stole over $5M</div>
+                                <div class="date">19 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: Tired of software career. What now?</div>
-                                <div class="date">19 Aug 2024</div>
+                                <div class="title">Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem</div>
+                                <div class="date">18 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Renderings Created with Only a Pencil</div>
+                                <div class="date">16 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">Debugging operating systems with time-traveling virtual machines [pdf]</div>
                                 <div class="date">18 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Animate.css: Seamless CSS Animations Across All Browsers</div>
-                                <div class="date">14 Aug 2024</div>
                             </div>
                         </div>
                     </section>
