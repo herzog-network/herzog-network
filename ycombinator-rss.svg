@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We found North Korean engineers in our application pile. Here's what we did</div>
+                                <div class="title">Removing stuff is never obvious yet often better</div>
                                 <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why am I writing a Rust compiler in C?</div>
-                                <div class="date">25 Aug 2024</div>
+                                <div class="title">Server Setup Basics for Self Hosting</div>
+                                <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Database "sharding" came from Ultima Online?</div>
+                                <div class="title">Database "sharding" came from Ultima Online? (2009)</div>
                                 <div class="date">25 Aug 2024</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pavel Durov and the Blackberry Ratchet</div>
+                                <div class="title">We found North Korean engineers in our application pile</div>
                                 <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pi Pico 2 Extreme Teardown</div>
-                                <div class="date">25 Aug 2024</div>
+                                <div class="title">Senior Intel CPU architects splinter to develop RISC-V processors</div>
+                                <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
                     </section>
