@@ -29,15 +29,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Server Setup Basics for Self Hosting</div>
-                                <div class="date">26 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Database "sharding" came from Ultima Online? (2009)</div>
                                 <div class="date">25 Aug 2024</div>
                             </div>
@@ -56,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Uber loses New Zealand appeal, court rules drivers are employees not contractors</div>
+                                <div class="title">Senior Intel CPU architects splinter to develop RISC-V processors</div>
                                 <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Strandbeest</div>
+                                <div class="title">Why Does Elisp Suck</div>
                                 <div class="date">25 Aug 2024</div>
                             </div>
                         </div>
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Does EmacsLisp Suck?</div>
-                                <div class="date">25 Aug 2024</div>
+                                <div class="title">Degas: Detailed Expressions on Full-Body Gaussian Avatars</div>
+                                <div class="date">21 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Australian employees now have the right to ignore work emails, calls after hours</div>
+                                <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
                     </section>
