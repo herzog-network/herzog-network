@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Crows Are Even Smarter Than We Thought</div>
+                                <div class="title">Crows are even smarter than we thought</div>
                                 <div class="date">31 Aug 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dinosaur Footprints on Either Side of the Atlantic Are Matching Sets</div>
-                                <div class="date">26 Aug 2024</div>
+                                <div class="title">Cassette Tape Archive</div>
+                                <div class="date">31 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -39,6 +39,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">CIEL Is an Extended Lisp</div>
+                                <div class="date">30 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">AnandTech Farewell</div>
                                 <div class="date">30 Aug 2024</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AnandTech Farewell</div>
-                                <div class="date">30 Aug 2024</div>
+                                <div class="title">Expect – Linux tool for automating interactive programs</div>
+                                <div class="date">31 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">To Nerves from Elixir</div>
-                                <div class="date">30 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">500 Python Interpreters</div>
                                 <div class="date">30 Aug 2024</div>
                             </div>
                         </div>
