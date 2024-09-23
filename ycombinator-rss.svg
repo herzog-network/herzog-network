@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What's inside the QR code menu at this cafe?</div>
+                                <div class="title">Hinkley Point C: Building Britain's first nuclear reactor in 30 years</div>
                                 <div class="date">23 Sept 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR</div>
+                                <div class="title">What's inside the QR code menu at this cafe?</div>
                                 <div class="date">23 Sept 2024</div>
                             </div>
                         </div>
@@ -56,16 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Brainfuck Enterprise Solutions</div>
-                                <div class="date">22 Sept 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Hinkley Point C: Building Britain's first nuclear reactor in 30 years</div>
+                                <div class="title">Amazon says workers must be in the office. The UK government disagrees</div>
                                 <div class="date">23 Sept 2024</div>
                             </div>
                         </div>
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">It's Okay to Abandon Things</div>
-                                <div class="date">19 Sept 2024</div>
+                                <div class="title">Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR</div>
+                                <div class="date">23 Sept 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Brainfuck Enterprise Solutions</div>
+                                <div class="date">22 Sept 2024</div>
                             </div>
                         </div>
                     </section>
