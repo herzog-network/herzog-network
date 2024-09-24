@@ -29,15 +29,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I designed a Dieter Rams-inspired iPhone dock</div>
-                                <div class="date">23 Sept 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">iPhone 16 Pro Storage Expansion 128GB to 1TB [video]</div>
                                 <div class="date">24 Sept 2024</div>
                             </div>
@@ -65,6 +56,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Maker Pipe – Structural Pipe Fittings for DIY Builders</div>
+                                <div class="date">24 Sept 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">A brief look at the new Kamal Proxy</div>
                                 <div class="date">21 Sept 2024</div>
                             </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We fine-tuned Llama 405B on AMD GPUs</div>
-                                <div class="date">23 Sept 2024</div>
+                                <div class="title">America's oldest tombstone came from Belgium and belonged to an English knight</div>
+                                <div class="date">19 Sept 2024</div>
                             </div>
                         </div>
                     </section>
