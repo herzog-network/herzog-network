@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Too much efficiency makes everything worse</div>
+                                <div class="title">Too much efficiency makes everything worse (2022)</div>
                                 <div class="date">29 Sept 2024</div>
                             </div>
                         </div>
@@ -39,6 +39,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Cores That Don't Count [pdf]</div>
+                                <div class="date">29 Sept 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Notes on the Crystal Language</div>
                                 <div class="date">29 Sept 2024</div>
                             </div>
                         </div>
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane</div>
                                 <div class="date">28 Sept 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Notes on the Crystal Language</div>
-                                <div class="date">29 Sept 2024</div>
                             </div>
                         </div>
                     </section>
