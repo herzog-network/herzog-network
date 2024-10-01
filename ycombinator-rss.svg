@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Boris Vallejo and the Pixel Art of the Demoscene</div>
+                                <div class="title">Boris Vallejo and the pixel art of the demoscene</div>
                                 <div class="date">1 Oct 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)</div>
-                                <div class="date">1 Oct 2024</div>
+                                <div class="title">BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH</div>
+                                <div class="date">30 Sept 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH</div>
-                                <div class="date">30 Sept 2024</div>
+                                <div class="title">Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)</div>
+                                <div class="date">1 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MusicBrainz: An open music encyclopedia</div>
+                                <div class="title">Show HN: Facad – A colorful directory listing tool for the command line</div>
                                 <div class="date">30 Sept 2024</div>
                             </div>
                         </div>
