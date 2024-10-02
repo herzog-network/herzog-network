@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AMD Inference</div>
+                                <div class="title">Show HN: Kameo – a Rust library for building fault-tolerant, async actors</div>
                                 <div class="date">2 Oct 2024</div>
                             </div>
                         </div>
@@ -39,6 +39,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">An adult fruit fly brain has been mapped, human brains could follow</div>
+                                <div class="date">2 Oct 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">AMD Inference</div>
                                 <div class="date">2 Oct 2024</div>
                             </div>
                         </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The bunkbed conjecture is false</div>
-                                <div class="date">2 Oct 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">American WWII bomb explodes at Japanese airport, causing large crater in taxiway</div>
-                                <div class="date">2 Oct 2024</div>
+                                <div class="title">John Wheeler Saw the Tear in Reality</div>
+                                <div class="date">30 Sept 2024</div>
                             </div>
                         </div>
                     </section>
