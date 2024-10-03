@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Robert Dennard, DRAM Pioneer, has died</div>
+                                <div class="date">4 Oct 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Canvas is a new way to write and code with ChatGPT</div>
                                 <div class="date">3 Oct 2024</div>
                             </div>
@@ -30,15 +39,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Were RNNs all we needed?</div>
-                                <div class="date">3 Oct 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">You Can't Opt-Out of A.I. Online</div>
                                 <div class="date">3 Oct 2024</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Serving 70B-scale LLMs efficiently on low-resource edge devices [pdf]</div>
-                                <div class="date">3 Oct 2024</div>
+                                <div class="title">Tengine: Open-source web server, originated by Taobao, based on Nginx</div>
+                                <div class="date">30 Sept 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Image Editing with Gaussian Splatting</div>
+                                <div class="title">Serving 70B-scale LLMs efficiently on low-resource edge devices [pdf]</div>
                                 <div class="date">3 Oct 2024</div>
                             </div>
                         </div>
