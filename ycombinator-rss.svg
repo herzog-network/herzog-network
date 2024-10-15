@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The C23 edition of Modern C</div>
-                                <div class="date">15 Oct 2024</div>
+                                <div class="title">Show HN: Graphite, a Blender-inspired 2D procedural design Rust app</div>
+                                <div class="date">16 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">All possible plots by major authors (2020)</div>
+                                <div class="title">The C23 edition of Modern C</div>
                                 <div class="date">15 Oct 2024</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Asterinas: OS kernel written in Rust and providing Linux-compatible ABI</div>
+                                <div class="title">All possible plots by major authors (2020)</div>
                                 <div class="date">15 Oct 2024</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Web Browser Engineering (2021)</div>
+                                <div class="title">CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3</div>
                                 <div class="date">15 Oct 2024</div>
                             </div>
                         </div>
