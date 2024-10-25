@@ -29,17 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I made a Bluesky video downloader that can download videos from Bluesky</div>
+                                <div class="title">Law Enforcement Undermines Tor</div>
                                 <div class="date">25 Oct 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Quantized Llama models with increased speed and a reduced memory footprint</div>
-                                <div class="date">24 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Smarter Than 'Ctrl+F': Linking Directly to Web Page Content</div>
-                                <div class="date">25 Oct 2024</div>
+                                <div class="title">Quantized Llama models with increased speed and a reduced memory footprint</div>
+                                <div class="date">24 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -76,6 +67,15 @@
                             <div class="infos">
                                 <div class="title">Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations</div>
                                 <div class="date">24 Oct 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Yes, we did discover the Higgs</div>
+                                <div class="date">23 Oct 2024</div>
                             </div>
                         </div>
                     </section>
