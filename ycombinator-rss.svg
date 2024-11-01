@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Demystifying the regular expression that checks if a number is prime (2016)</div>
-                                <div class="date">31 Oct 2024</div>
+                                <div class="title">Org Mode Syntax Cheat Sheet</div>
+                                <div class="date">1 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hazel: A live functional programming environment featuring typed holes</div>
+                                <div class="title">Demystifying the regular expression that checks if a number is prime (2016)</div>
                                 <div class="date">31 Oct 2024</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A conserved fertilization complex bridges sperm and egg in vertebrates</div>
-                                <div class="date">1 Nov 2024</div>
+                                <div class="title">Hazel: A live functional programming environment featuring typed holes</div>
+                                <div class="date">31 Oct 2024</div>
                             </div>
                         </div>
                     </section>
