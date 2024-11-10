@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ReiserFS and the Art and Artist Problem</div>
+                                <div class="title">Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG</div>
                                 <div class="date">10 Nov 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ASCII Delimited Text – Not CSV or Tab Delimited Text</div>
+                                <div class="title">JVM Anatomy Quarks</div>
                                 <div class="date">10 Nov 2024</div>
                             </div>
                         </div>
@@ -38,16 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?</div>
-                                <div class="date">10 Nov 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Everything I've learned so far about running local LLMs</div>
+                                <div class="title">Typesetting Engines: A Programmer's Perspective</div>
                                 <div class="date">10 Nov 2024</div>
                             </div>
                         </div>
@@ -67,6 +58,15 @@
                             <div class="infos">
                                 <div class="title">The Principles of Mr. Harrison's Time-Keeper</div>
                                 <div class="date">10 Nov 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Mind-Bending Soviet Era Oil Rig City on the Caspian Sea</div>
+                                <div class="date">6 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
