@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley</div>
+                                <div class="title">Good Software Development Habits</div>
                                 <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Good Software Development Habits</div>
+                                <div class="title">Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley</div>
                                 <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bpftune uses BPF to auto-tune Linux systems</div>
+                                <div class="title">Hobby Project: A dynamic C (Hot reloading) module-based Web Framework</div>
                                 <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The bucket brigade device: An analog shift register</div>
-                                <div class="date">15 Nov 2024</div>
+                                <div class="title">Creating a QR Code step by step</div>
+                                <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
                     </section>
