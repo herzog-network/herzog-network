@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Premature Graying of Hair: Review with Updates</div>
-                                <div class="date">26 Nov 2024</div>
+                                <div class="title">A Short Introduction to Automotive Lidar Technology</div>
+                                <div class="date">25 Nov 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Revisiting the DOS Memory Models</div>
+                                <div class="date">23 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Amazon S3 Adds Put-If-Match (Compare-and-Swap)</div>
-                                <div class="date">25 Nov 2024</div>
+                                <div class="title">Fly.io outage (restoration complete)</div>
+                                <div class="date">26 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)</div>
-                                <div class="date">23 Nov 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Stroustroup: We need better performance testing [pdf]</div>
-                                <div class="date">22 Nov 2024</div>
+                                <div class="title">Amazon S3 Adds Put-If-Match (Compare-and-Swap)</div>
+                                <div class="date">25 Nov 2024</div>
                             </div>
                         </div>
                     </section>
