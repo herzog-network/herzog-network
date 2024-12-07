@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Postgres for everything (e/Postgres)</div>
-                                <div class="date">7 Dec 2024</div>
+                                <div class="title">Weak pointers in Go: why they matter now</div>
+                                <div class="date">29 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Weak pointers in Go: why they matter now</div>
-                                <div class="date">29 Nov 2024</div>
+                                <div class="title">Postgres for everything (e/Postgres)</div>
+                                <div class="date">7 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hiroshi Nagai: Japan's Sun-Drenched Americana</div>
-                                <div class="date">1 Dec 2024</div>
+                                <div class="title">SpiderBasic</div>
+                                <div class="date">3 Dec 2024</div>
                             </div>
                         </div>
                     </section>
