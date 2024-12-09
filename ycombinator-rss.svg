@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Black Hat Rust</div>
+                                <div class="title">CT Scans of New vs. Used SawStop</div>
                                 <div class="date">9 Dec 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">JSON5 – JSON for Humans</div>
-                                <div class="date">8 Dec 2024</div>
+                                <div class="title">The Smallest Thing in Go</div>
+                                <div class="date">3 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">1,600 days of a failed hobby data science project</div>
+                                <div class="title">JSON5 – JSON for Humans</div>
                                 <div class="date">8 Dec 2024</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Smallest Thing in Go</div>
-                                <div class="date">3 Dec 2024</div>
+                                <div class="title">Black Hat Rust</div>
+                                <div class="date">9 Dec 2024</div>
                             </div>
                         </div>
                     </section>
