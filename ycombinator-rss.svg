@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Elixir/Erlang Hot Swapping Code</div>
-                                <div class="date">13 Dec 2024</div>
+                                <div class="title">Gukesh becomes the youngest chess world champion in history</div>
+                                <div class="date">12 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gukesh becomes the youngest chess world champion in history</div>
-                                <div class="date">12 Dec 2024</div>
+                                <div class="title">Elixir/Erlang Hot Swapping Code</div>
+                                <div class="date">13 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,17 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scrabble star wins Spanish world title despite not speaking Spanish</div>
-                                <div class="date">10 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Trinity Desktop Environment (TDE)</div>
-                                <div class="date">13 Dec 2024</div>
+                                <div class="title">Refactoring in C++: Top Techniques and Best Practices – The CLion Blog</div>
+                                <div class="date">7 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -76,6 +67,15 @@
                             <div class="infos">
                                 <div class="title">Fermat's Last Theorem – how it's going</div>
                                 <div class="date">12 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Trinity Desktop Environment (TDE)</div>
+                                <div class="date">13 Dec 2024</div>
                             </div>
                         </div>
                     </section>
