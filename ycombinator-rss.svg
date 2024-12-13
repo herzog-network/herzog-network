@@ -29,15 +29,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: DataFuel.dev – Turn websites into LLM-ready data</div>
-                                <div class="date">13 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">A transformer supply crisis bottlenecks energy projects</div>
                                 <div class="date">13 Dec 2024</div>
                             </div>
@@ -47,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gukesh becomes the youngest chess world champion in history</div>
-                                <div class="date">12 Dec 2024</div>
+                                <div class="title">Fixing the Loading in Myst IV: Revelation</div>
+                                <div class="date">10 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Elixir/Erlang Hot Swapping Code</div>
+                                <div class="title">The Age of Average</div>
                                 <div class="date">13 Dec 2024</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mathematicians uncover a new way to count prime numbers</div>
+                                <div class="title">Show HN: DataFuel.dev – Turn websites into LLM-ready data</div>
                                 <div class="date">13 Dec 2024</div>
                             </div>
                         </div>
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software</div>
-                                <div class="date">12 Dec 2024</div>
+                                <div class="title">Elixir/Erlang Hot Swapping Code (2016)</div>
+                                <div class="date">13 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Clio: A system for privacy-preserving insights into real-world AI use</div>
+                                <div class="date">13 Dec 2024</div>
                             </div>
                         </div>
                     </section>
