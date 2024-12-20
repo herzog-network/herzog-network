@@ -47,6 +47,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Boardgame.io: an engine for creating turn-based games using JavaScript</div>
+                                <div class="date">18 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">A Gentle Introduction to Graph Neural Networks</div>
                                 <div class="date">20 Dec 2024</div>
                             </div>
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">Documented and annotated source code for Elite on the Commodore 64</div>
                                 <div class="date">17 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)</div>
-                                <div class="date">20 Dec 2024</div>
                             </div>
                         </div>
                     </section>
