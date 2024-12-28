@@ -29,6 +29,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Netflix tells writers to have characters "announce what they're doing"</div>
+                                <div class="date">28 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">That's not an abstraction, that's a layer of indirection</div>
                                 <div class="date">25 Dec 2024</div>
                             </div>
@@ -39,6 +48,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Ada's dependent types, and its types as a whole</div>
+                                <div class="date">28 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Nvidia Way – Review of Tae Kim's New Book</div>
                                 <div class="date">28 Dec 2024</div>
                             </div>
                         </div>
@@ -58,24 +76,6 @@
                             <div class="infos">
                                 <div class="title">Liberating Wi-Fi on the ESP32 [video]</div>
                                 <div class="date">28 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Plasticlist Report – Data on plastic chemicals in Bay Area foods</div>
-                                <div class="date">27 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">PixLens: A lens that turns the scenery you see into pixel art</div>
-                                <div class="date">25 Dec 2024</div>
                             </div>
                         </div>
                     </section>
