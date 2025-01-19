@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pharaoh's Tomb HD – A Remake Made in JavaScript with Kaplay</div>
+                                <div class="title">Unix Spell Ran in 64kB RAM</div>
+                                <div class="date">19 Jan 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">VS Code Pets</div>
                                 <div class="date">18 Jan 2025</div>
                             </div>
                         </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">VS Code Pets</div>
+                                <div class="title">Pharaoh's Tomb HD – A Remake Made in JavaScript with Kaplay</div>
                                 <div class="date">18 Jan 2025</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nation-scale Matrix deployments will fail using the community version of Synapse</div>
-                                <div class="date">19 Jan 2025</div>
+                                <div class="title">Beating cuBLAS in Single-Precision General Matrix Multiplication</div>
+                                <div class="date">15 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Skymont: Intel's E-Cores reach for the Sky</div>
-                                <div class="date">18 Jan 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Why do bees die when they sting you?</div>
-                                <div class="date">18 Jan 2025</div>
+                                <div class="title">Second-Hand Bookshops in Britain: 2024 Report</div>
+                                <div class="date">15 Jan 2025</div>
                             </div>
                         </div>
                     </section>
