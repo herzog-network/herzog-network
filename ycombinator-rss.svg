@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Using 2 Editors Because Xcode Is Dumb</div>
-                                <div class="date">23 Jan 2025</div>
+                                <div class="title">Show HN: I made an open-source laptop from scratch</div>
+                                <div class="date">22 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I made an open-source laptop from scratch</div>
-                                <div class="date">22 Jan 2025</div>
+                                <div class="title">Liberux: The Linux Phone You Have Been Waiting For</div>
+                                <div class="date">23 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to Inspect React Server Component Activity with Next.js and OpenTelemetry</div>
+                                <div class="title">Using 2 Editors Because Xcode Is Dumb</div>
                                 <div class="date">23 Jan 2025</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Taking a Look at Compression Algorithms</div>
-                                <div class="date">20 Jan 2025</div>
+                                <div class="title">Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel</div>
+                                <div class="date">23 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Minecraft with object impermanence</div>
-                                <div class="date">19 Jan 2025</div>
+                                <div class="title">How to Inspect React Server Component Activity with Next.js and OpenTelemetry</div>
+                                <div class="date">23 Jan 2025</div>
                             </div>
                         </div>
                     </section>
