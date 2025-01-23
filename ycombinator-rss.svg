@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Show HN: I Made an Open-Source Laptop from Scratch</div>
+                                <div class="date">22 Jan 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">How to improve your WFH lighting to reduce eye strain</div>
                                 <div class="date">22 Jan 2025</div>
                             </div>
@@ -29,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I Made an Open-Source Laptop from Scratch</div>
-                                <div class="date">22 Jan 2025</div>
+                                <div class="title">NIH hit with freezes on meetings, travel, communications, and hiring</div>
+                                <div class="date">23 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Master the Art of the Product Manager 'No'</div>
-                                <div class="date">20 Jan 2025</div>
+                                <div class="title">DIY Web Archiving Zine</div>
+                                <div class="date">23 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Therac-25 Simulator</div>
-                                <div class="date">22 Jan 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Tyranny of Structurelessness (1970)</div>
-                                <div class="date">22 Jan 2025</div>
+                                <div class="title">Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search</div>
+                                <div class="date">23 Jan 2025</div>
                             </div>
                         </div>
                     </section>
