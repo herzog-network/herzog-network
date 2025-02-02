@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ScatterBrain: Unmasking the Shadow of PoisonPlug's Obfuscator</div>
+                                <div class="title">ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator</div>
                                 <div class="date">2 Feb 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sniffnet – monitor your Internet traffic</div>
+                                <div class="title">Waydroid – Android in a Linux container</div>
                                 <div class="date">2 Feb 2025</div>
                             </div>
                         </div>
@@ -47,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Reinforcement Learning: An Overview (December 2024)</div>
-                                <div class="date">2 Feb 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Show HN: Lume – OS lightweight CLI for MacOS &amp; Linux VMs on Apple Silicon.</div>
-                                <div class="date">2 Feb 2025</div>
+                                <div class="title">Why do War Thunder players leak classified information? [video]</div>
+                                <div class="date">31 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Groundhog AI Spring API</div>
+                                <div class="title">The dumb reason why flag emojis aren't working on your site in Chrome on Windows</div>
+                                <div class="date">30 Jan 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon</div>
                                 <div class="date">2 Feb 2025</div>
                             </div>
                         </div>
