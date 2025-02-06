@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenLDK: A Java JIT compiler and runtime in Common Lisp</div>
-                                <div class="date">5 Feb 2025</div>
+                                <div class="title">R1 Computer Use</div>
+                                <div class="date">6 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">R1 Computer Use</div>
-                                <div class="date">6 Feb 2025</div>
+                                <div class="title">OpenLDK: A Java JIT compiler and runtime in Common Lisp</div>
+                                <div class="date">5 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Verse (YC W22) Is Hiring</div>
+                                <div class="title">Self-hosted, simple web browser service – send URL, get screenshots</div>
                                 <div class="date">6 Feb 2025</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Self-hosted, simple web browser service – send URL, get screenshots</div>
+                                <div class="title">Paper Apps</div>
                                 <div class="date">6 Feb 2025</div>
                             </div>
                         </div>
