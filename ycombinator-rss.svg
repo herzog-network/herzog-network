@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How Copyover MUD Servers Worked</div>
+                                <div class="title">We replaced our React front end with Go and WebAssembly</div>
                                 <div class="date">11 Feb 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We replaced our React front end with Go and WebAssembly</div>
+                                <div class="title">How Copyover MUD Servers Worked</div>
                                 <div class="date">11 Feb 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Floppotron 3.0 (2022)</div>
+                                <div class="title">SolarWinds to Be Acquired by Turn/River Capital</div>
                                 <div class="date">11 Feb 2025</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: HTML visualization of a PDF file's internal structure</div>
-                                <div class="date">10 Feb 2025</div>
+                                <div class="title">Make Your Own Website: A beginner's guide</div>
+                                <div class="date">11 Feb 2025</div>
                             </div>
                         </div>
                     </section>
