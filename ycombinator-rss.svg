@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A decade later, a decade lost (2024)</div>
+                                <div class="title">If you believe in "Artificial Intelligence", take five minutes to ask it</div>
                                 <div class="date">15 Feb 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sunsetting Create React App</div>
-                                <div class="date">14 Feb 2025</div>
+                                <div class="title">A decade later, a decade lost (2024)</div>
+                                <div class="date">15 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information</div>
+                                <div class="title">Nping – ping, but with a graph or table view</div>
                                 <div class="date">12 Feb 2025</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Complex dynamics require complex solutions</div>
-                                <div class="date">14 Feb 2025</div>
+                                <div class="title">Did Semgrep Just Get a Lot More Interesting?</div>
+                                <div class="date">15 Feb 2025</div>
                             </div>
                         </div>
                     </section>
