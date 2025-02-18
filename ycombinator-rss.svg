@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">By the end of today, NASA's workforce will be about 10 percent smaller</div>
+                                <div class="title">Svelte 5 is not JavaScript</div>
                                 <div class="date">18 Feb 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tariffs result in 10% laptop price hike in U.S. says Acer CEO</div>
-                                <div class="date">18 Feb 2025</div>
+                                <div class="title">Why I'm writing a Scheme implementation in 2025: Async Rust</div>
+                                <div class="date">17 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why I'm writing a Scheme implementation in 2025: Async Rust</div>
-                                <div class="date">17 Feb 2025</div>
+                                <div class="title">Saying Goodbye to FFmpegKit</div>
+                                <div class="date">14 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
