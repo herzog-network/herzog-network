@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Relaxed Radix Balanced Trees</div>
+                                <div class="date">19 Feb 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode</div>
                                 <div class="date">19 Feb 2025</div>
                             </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple Debuts iPhone 16e</div>
+                                <div class="title">Accelerating scientific breakthroughs with an AI co-scientist</div>
                                 <div class="date">19 Feb 2025</div>
                             </div>
                         </div>
@@ -56,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Relaxed Radix Balanced Trees</div>
+                                <div class="title">Unsloth AI (YC S24) is hiring ML engineers</div>
                                 <div class="date">19 Feb 2025</div>
                             </div>
                         </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">1977 Jazz-Funk Musical Adaptation of Dune by David Matthews</div>
-                                <div class="date">19 Feb 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Troubled electric truck maker Nikola files for bankruptcy</div>
-                                <div class="date">19 Feb 2025</div>
+                                <div class="title">The Secret Poker Game You Can Play on the Subway</div>
+                                <div class="date">18 Feb 2025</div>
                             </div>
                         </div>
                     </section>
