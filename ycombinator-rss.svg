@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Magma: A foundation model for multimodal AI agents</div>
+                                <div class="title">RT64: N64 graphics renderer in emulators and native ports</div>
                                 <div class="date">20 Feb 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">When Your Last Name Is Null, Nothing Works</div>
+                                <div class="title">Helix: A Vision-Language-Action Model for Generalist Humanoid Control</div>
                                 <div class="date">20 Feb 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Amazon Appstore for Android devices will be discontinued on August 20, 2025</div>
+                                <div class="title">FAQ on Microsoft's topological qubit thing</div>
                                 <div class="date">20 Feb 2025</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What's in a ring buffer? And using them in Rust</div>
-                                <div class="date">17 Feb 2025</div>
+                                <div class="title">The Amazon Appstore for Android devices will be discontinued on August 20, 2025</div>
+                                <div class="date">20 Feb 2025</div>
                             </div>
                         </div>
                     </section>
