@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bitwarden Authenticator</div>
+                                <div class="title">Making any integer with four 2s</div>
                                 <div class="date">23 Feb 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making any integer with four 2s</div>
-                                <div class="date">23 Feb 2025</div>
+                                <div class="title">Why Clojure?</div>
+                                <div class="date">22 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Clojure?</div>
-                                <div class="date">22 Feb 2025</div>
+                                <div class="title">Bitwarden Authenticator</div>
+                                <div class="date">23 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ultima VII: Revisited</div>
-                                <div class="date">23 Feb 2025</div>
+                                <div class="title">Show HN: Benchmarking VLMs vs. Traditional OCR</div>
+                                <div class="date">20 Feb 2025</div>
                             </div>
                         </div>
                     </section>
