@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git without a forge</div>
+                                <div class="title">Apple M3 Ultra</div>
                                 <div class="date">5 Mar 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple M3 Ultra</div>
+                                <div class="title">Git without a forge</div>
                                 <div class="date">5 Mar 2025</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zentool – AMD Zen Microcode Manipulation Utility</div>
-                                <div class="date">5 Mar 2025</div>
+                                <div class="title">Nebu: A Spreadsheet Editor for Varvara</div>
+                                <div class="date">2 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Solving First Order Differential Equations with Julia</div>
-                                <div class="date">3 Mar 2025</div>
+                                <div class="title">Zentool – AMD Zen Microcode Manipulation Utility</div>
+                                <div class="date">5 Mar 2025</div>
                             </div>
                         </div>
                     </section>
