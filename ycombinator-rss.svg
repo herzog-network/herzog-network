@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I built an app to get daily wisdom from Mr. Worldwide</div>
-                                <div class="date">9 Mar 2025</div>
+                                <div class="title">Presenterm: Markdown Slideshows in the Terminal</div>
+                                <div class="date">8 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Presenterm: Markdown Slideshows in the Terminal</div>
-                                <div class="date">8 Mar 2025</div>
+                                <div class="title">Show HN: I built an app to get daily wisdom from Mr. Worldwide</div>
+                                <div class="date">9 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Maybe coders should learn to love analog? (2024)</div>
-                                <div class="date">8 Mar 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Zig's dot star syntax (value.*)</div>
-                                <div class="date">7 Mar 2025</div>
+                                <div class="title">Toward a Passwordless Future</div>
+                                <div class="date">9 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -67,6 +58,15 @@
                             <div class="infos">
                                 <div class="title">"Big 3" science fiction magazines including Asimov's and Analog acquired</div>
                                 <div class="date">5 Mar 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Discovering errors in Donald Knuth's TAOCP</div>
+                                <div class="date">8 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
