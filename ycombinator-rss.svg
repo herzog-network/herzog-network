@@ -38,15 +38,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly</div>
-                                <div class="date">17 Mar 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Deep Learning Is Not So Mysterious or Different</div>
                                 <div class="date">17 Mar 2025</div>
                             </div>
@@ -56,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hidden Messages in Emojis and Hacking the US Treasury</div>
-                                <div class="date">14 Mar 2025</div>
+                                <div class="title">PrintedLabs – 3D printable optical experiment equipment</div>
+                                <div class="date">16 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -66,6 +57,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">The High Heel Problem</div>
+                                <div class="date">17 Mar 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Quantum Speedup Found for Class of Hard Problems</div>
                                 <div class="date">17 Mar 2025</div>
                             </div>
                         </div>
