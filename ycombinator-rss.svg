@@ -29,6 +29,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Archival Storage</div>
+                                <div class="date">17 Mar 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Show HN: Localscope–Limit scope of Python functions for reproducible execution</div>
                                 <div class="date">17 Mar 2025</div>
                             </div>
@@ -47,17 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Darker Than a Dark Pool? Welcome to Wall Street's 'Private Rooms'</div>
-                                <div class="date">17 Mar 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Alphabet spins out Taara – Internet over lasers</div>
-                                <div class="date">17 Mar 2025</div>
+                                <div class="title">Extracting content from an LCP "protected" ePub</div>
+                                <div class="date">16 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Extracting content from an LCP "protected" ePub</div>
-                                <div class="date">16 Mar 2025</div>
+                                <div class="title">Chaos in the Cloudflare Lisbon Office</div>
+                                <div class="date">17 Mar 2025</div>
                             </div>
                         </div>
                     </section>
