@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Crabtime: Zig's Comptime in Rust</div>
-                                <div class="date">19 Mar 2025</div>
+                                <div class="title">Scallop – A Language for Neurosymbolic Programming</div>
+                                <div class="date">22 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scallop – A Language for Neurosymbolic Programming</div>
-                                <div class="date">22 Mar 2025</div>
+                                <div class="title">Crabtime: Zig's Comptime in Rust</div>
+                                <div class="date">19 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Don't Be Afraid of Types</div>
-                                <div class="date">18 Mar 2025</div>
+                                <div class="title">The Humans Building AI Scientists</div>
+                                <div class="date">20 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The CRPG Renaissance, Part 5: Fallout 2 and Baldur's Gate</div>
-                                <div class="date">22 Mar 2025</div>
+                                <div class="title">IronRDP: a Rust implementation of Microsoft's RDP protocol</div>
+                                <div class="date">21 Mar 2025</div>
                             </div>
                         </div>
                     </section>
