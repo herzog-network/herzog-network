@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Steam Deck Is Software-Freedom Friendly</div>
-                                <div class="date">3 Apr 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">I maintain a 17 year old ThinkPad</div>
+                                <div class="title">Show HN: OpenNutrition – A free, public nutrition database</div>
                                 <div class="date">3 Apr 2025</div>
                             </div>
                         </div>
@@ -47,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A University President Makes a Case Against Cowardice</div>
+                                <div class="title">I maintain a 17 year old ThinkPad</div>
                                 <div class="date">3 Apr 2025</div>
                             </div>
                         </div>
@@ -56,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AbletonMCP – Ableton Live Model Context Protocol Integration</div>
+                                <div class="title">An AlphaStation's SROM</div>
                                 <div class="date">31 Mar 2025</div>
                             </div>
                         </div>
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tell HN: Announcing tomhow as a public moderator</div>
-                                <div class="date">2 Apr 2025</div>
+                                <div class="title">InitWare, a portable systemd fork running on BSDs and Linux</div>
+                                <div class="date">3 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rust on the Ferris Sweep</div>
-                                <div class="date">31 Mar 2025</div>
+                                <div class="title">Show HN: Zxc – Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative</div>
+                                <div class="date">3 Apr 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline</div>
+                                <div class="date">3 Apr 2025</div>
                             </div>
                         </div>
                     </section>
