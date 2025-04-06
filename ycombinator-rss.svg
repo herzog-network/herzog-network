@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators</div>
+                                <div class="title">The "S" in MCP Stands for Security</div>
                                 <div class="date">6 Apr 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The "S" in MCP Stands for Security</div>
+                                <div class="title">SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators</div>
                                 <div class="date">6 Apr 2025</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My Browser WASM't Prepared for This. Using DuckDB, Apache Arrow and Web Workers</div>
-                                <div class="date">6 Apr 2025</div>
+                                <div class="title">QVQ-Max: Think with Evidence</div>
+                                <div class="date">3 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lessons from open source in the Mexican government</div>
-                                <div class="date">4 Apr 2025</div>
+                                <div class="title">My Browser WASM't Prepared for This. Using DuckDB, Apache Arrow and Web Workers</div>
+                                <div class="date">6 Apr 2025</div>
                             </div>
                         </div>
                     </section>
