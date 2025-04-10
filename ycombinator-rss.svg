@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Tap a Wheel of Cheese?</div>
+                                <div class="title">Garfield Minus Garfield</div>
                                 <div class="date">10 Apr 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The 2025 AI Index Report</div>
+                                <div class="title">Big Book of R</div>
+                                <div class="date">10 Apr 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Controlling Language and Diffusion Models by Transporting Activations</div>
                                 <div class="date">10 Apr 2025</div>
                             </div>
                         </div>
@@ -57,15 +66,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Hacker News Hug of Deaf</div>
-                                <div class="date">10 Apr 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI</div>
                                 <div class="date">10 Apr 2025</div>
                             </div>
                         </div>
