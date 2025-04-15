@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to Win an Argument with a Toddler</div>
+                                <div class="title">What the Hell Is a Target Triple?</div>
                                 <div class="date">15 Apr 2025</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The case of the UI thread that hung in a kernel call</div>
+                                <div class="title">Hacking the Postgres Wire Protocol</div>
                                 <div class="date">15 Apr 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hacking the Postgres Wire Protocol</div>
+                                <div class="title">The case of the UI thread that hung in a kernel call</div>
                                 <div class="date">15 Apr 2025</div>
                             </div>
                         </div>
