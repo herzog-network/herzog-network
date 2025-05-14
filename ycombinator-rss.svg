@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Flattening Rust's learning curve</div>
-                                <div class="date">14 May 2025</div>
+                                <div class="title">I’ve built an IoT device to let my family know when I’m in a meeting</div>
+                                <div class="date">11 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I’ve built an IoT device to let my family know when I’m in a meeting</div>
-                                <div class="date">11 May 2025</div>
+                                <div class="title">Flattening Rust’s learning curve</div>
+                                <div class="date">14 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,17 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DeepSeek’s founder is threatening US dominance in AI race</div>
-                                <div class="date">14 May 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">I failed a take-home assignment from Kagi Search</div>
-                                <div class="date">14 May 2025</div>
+                                <div class="title">How “The Great Gatsby” took over high school</div>
+                                <div class="date">13 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -76,6 +67,15 @@
                             <div class="infos">
                                 <div class="title">Google is building its own DeX: First look at Android's Desktop Mode</div>
                                 <div class="date">13 May 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Mipmap selection in too much detail</div>
+                                <div class="date">11 May 2025</div>
                             </div>
                         </div>
                     </section>
