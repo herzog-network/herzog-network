@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Wow@Home – Network of Amateur Radio Telescopes</div>
-                                <div class="date">17 May 2025</div>
+                                <div class="title">Getting AI to write good SQL</div>
+                                <div class="date">16 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Getting AI to write good SQL</div>
-                                <div class="date">16 May 2025</div>
+                                <div class="title">Wow@Home – Network of Amateur Radio Telescopes</div>
+                                <div class="date">17 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Linux kernel developer plays with Home Assistant: general impressions</div>
+                                <div class="title">A kernel developer plays with Home Assistant</div>
                                 <div class="date">17 May 2025</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Thoughts on thinking</div>
-                                <div class="date">16 May 2025</div>
+                                <div class="title">Catalog of Novel Operating Systems</div>
+                                <div class="date">17 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Catalog of Novel Operating Systems</div>
+                                <div class="title">Implementing a RISC-V Hypervisor</div>
                                 <div class="date">17 May 2025</div>
                             </div>
                         </div>
