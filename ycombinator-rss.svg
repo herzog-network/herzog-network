@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning</div>
+                                <div class="title">Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning</div>
                                 <div class="date">28 May 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Square Theory</div>
-                                <div class="date">27 May 2025</div>
+                                <div class="title">The Ingredients of a Productive Monorepo</div>
+                                <div class="date">25 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Look ma, no bubbles designing a low-latency megakernel for Llama-1B</div>
-                                <div class="date">28 May 2025</div>
+                                <div class="title">Square Theory</div>
+                                <div class="date">27 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)</div>
+                                <div class="title">Look ma, no bubbles designing a low-latency megakernel for Llama-1B</div>
                                 <div class="date">28 May 2025</div>
                             </div>
                         </div>
