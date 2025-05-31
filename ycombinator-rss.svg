@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI Responses May Include Mistakes</div>
+                                <div class="title">Beware of Fast-Math</div>
                                 <div class="date">31 May 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What's Working for YC Companies Since the AI Boom</div>
+                                <div class="title">What's working for YC companies since the AI boom</div>
                                 <div class="date">30 May 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS</div>
+                                <div class="title">AI Responses May Include Mistakes</div>
                                 <div class="date">31 May 2025</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Surprisingly fast AI-generated kernels we didn't mean to publish yet</div>
-                                <div class="date">30 May 2025</div>
+                                <div class="title">Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)</div>
+                                <div class="date">31 May 2025</div>
                             </div>
                         </div>
                     </section>
