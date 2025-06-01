@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Patio – Rent tools, learn DIY, reduce waste</div>
+                                <div class="title">RenderFormer: Neural Rendering of Triangle Meshes with Global Illumination</div>
                                 <div class="date">1 Jun 2025</div>
                             </div>
                         </div>
@@ -47,6 +47,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Progressive JSON</div>
+                                <div class="date">1 Jun 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">YOLO-World: Real-Time Open-Vocabulary Object Detection</div>
                                 <div class="date">31 May 2025</div>
                             </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Enhancing MySQL: MySQL improvement project</div>
-                                <div class="date">1 Jun 2025</div>
+                                <div class="title">Ovld – Efficient and featureful multiple dispatch for Python</div>
+                                <div class="date">29 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Oniux: Kernel-level Tor isolation for any Linux app</div>
-                                <div class="date">31 May 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">CCD co-inventor George E. Smith dies at 95</div>
                                 <div class="date">31 May 2025</div>
                             </div>
                         </div>
