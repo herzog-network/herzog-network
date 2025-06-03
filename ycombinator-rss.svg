@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Covert Web-to-App Tracking via Localhost on Android</div>
+                                <div class="title">Quarkdown: A modern Markdown-based typesetting system</div>
                                 <div class="date">3 Jun 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Quarkdown: A modern Markdown-based typesetting system</div>
+                                <div class="title">Radio for DuckDB – DuckDB Now Talks to WebSockets and Redis Pub/Sub</div>
+                                <div class="date">3 Jun 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: Controlling 3D models with voice and hand gestures</div>
                                 <div class="date">3 Jun 2025</div>
                             </div>
                         </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Meta and Yandex are de-anonymizing Android users' web browsing identifiers</div>
+                                <div class="title">PlayDiffusion – Next-Generation AI Voice Inpainting Technology</div>
                                 <div class="date">3 Jun 2025</div>
                             </div>
                         </div>
@@ -56,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests</div>
+                                <div class="title">Covert Web-to-App Tracking via Localhost on Android</div>
                                 <div class="date">3 Jun 2025</div>
                             </div>
                         </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI makes the humanities more important, but also weirder</div>
+                                <div class="title">Making Magic with MCP: From Data Retrieval to Real Analysis and Insights</div>
                                 <div class="date">3 Jun 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">My AI skeptic friends are all nuts</div>
-                                <div class="date">2 Jun 2025</div>
                             </div>
                         </div>
                     </section>
