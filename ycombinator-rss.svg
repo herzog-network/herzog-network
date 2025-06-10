@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tell HN: Help restore the tax deduction for software dev in the US (Section 174)</div>
-                                <div class="date">9 Jun 2025</div>
+                                <div class="title">Show HN: High End Color Quantizer</div>
+                                <div class="date">10 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: High End Color Quantizer</div>
-                                <div class="date">10 Jun 2025</div>
+                                <div class="title">Tell HN: Help restore the tax deduction for software dev in the US (Section 174)</div>
+                                <div class="date">9 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,15 +56,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">'Proof' Review: Finding Truth in Numbers</div>
-                                <div class="date">6 Jun 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">NASA Mars Orbiter Captures Volcano Peeking Above Morning Cloud Tops</div>
                                 <div class="date">7 Jun 2025</div>
                             </div>
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Onlook (YC W25) Is Hiring a a Founding Engineer in SF</div>
-                                <div class="date">10 Jun 2025</div>
+                                <div class="title">'Proof' Review: Finding Truth in Numbers</div>
+                                <div class="date">6 Jun 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Animate a mesh across a sphere's surface</div>
+                                <div class="date">6 Jun 2025</div>
                             </div>
                         </div>
                     </section>
