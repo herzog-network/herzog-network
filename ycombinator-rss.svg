@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I wrote a new BitTorrent tracker in Elixir</div>
+                                <div class="title">Show HN: Ts-SSH – SSH over Tailscale without running the daemon</div>
                                 <div class="date">20 Jun 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Makefile Style Guide</div>
+                                <div class="title">Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor</div>
+                                <div class="date">20 Jun 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: I wrote a new BitTorrent tracker in Elixir</div>
                                 <div class="date">20 Jun 2025</div>
                             </div>
                         </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Compiling LLMs into a MegaKernel: A path to low-latency inference</div>
-                                <div class="date">19 Jun 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">ELIZA Reanimated: Restoring the Mother of All Chatbots</div>
-                                <div class="date">17 Jun 2025</div>
+                                <div class="title">Show HN: SnapQL – Desktop app to query Postgres with AI</div>
+                                <div class="date">20 Jun 2025</div>
                             </div>
                         </div>
                     </section>
