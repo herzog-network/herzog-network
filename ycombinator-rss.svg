@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Don’t use “click here” as link text (2001)</div>
+                                <div class="title">I'm dialing back my LLM usage</div>
                                 <div class="date">2 Jul 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why I'm Dialing Back My LLM Usage</div>
+                                <div class="title">Gene therapy restored hearing in deaf patients</div>
+                                <div class="date">2 Jul 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Don’t use “click here” as link text (2001)</div>
                                 <div class="date">2 Jul 2025</div>
                             </div>
                         </div>
@@ -56,15 +65,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What I learned gathering nootropic ratings</div>
-                                <div class="date">2 Jul 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Huawei releases an open weight model trained on Huawei Ascend GPUs</div>
                                 <div class="date">2 Jul 2025</div>
                             </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands</div>
+                                <div class="title">Azure API vulnerability and roles misconfiguration compromise corporate networks</div>
                                 <div class="date">2 Jul 2025</div>
                             </div>
                         </div>
