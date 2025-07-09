@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Astro is a return to the fundamentals of the web</div>
+                                <div class="title">Is the doc bot docs, or not?</div>
                                 <div class="date">9 Jul 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Is the doc bot docs, or not?</div>
-                                <div class="date">9 Jul 2025</div>
+                                <div class="title">Ruby 3.4 Frozen String Literals: What Rails Developers Need to Know</div>
+                                <div class="date">6 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">RapidRAW: A non-destructive and GPU-accelerated RAW image editor</div>
-                                <div class="date">9 Jul 2025</div>
+                                <div class="title">7-Zip for Windows can now use more than 64 CPU threads for compression</div>
+                                <div class="date">7 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">7-Zip for Windows can now use more than 64 CPU threads for compression</div>
-                                <div class="date">7 Jul 2025</div>
+                                <div class="title">RapidRAW: A non-destructive and GPU-accelerated RAW image editor</div>
+                                <div class="date">9 Jul 2025</div>
                             </div>
                         </div>
                     </section>
