@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I Deleted My Steam Account After 20 Years</div>
+                                <div class="title">Is the doc bot docs, or not?</div>
                                 <div class="date">9 Jul 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Is the doc bot docs, or not?</div>
+                                <div class="title">Most RESTful APIs Aren't RESTful</div>
+                                <div class="date">9 Jul 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">AI, Power and Sociolinguistics [pdf]</div>
                                 <div class="date">9 Jul 2025</div>
                             </div>
                         </div>
@@ -58,15 +67,6 @@
                             <div class="infos">
                                 <div class="title">7-Zip for Windows can now use more than 64 CPU threads for compression</div>
                                 <div class="date">7 Jul 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">AI, Power and Sociolinguistics [pdf]</div>
-                                <div class="date">9 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
