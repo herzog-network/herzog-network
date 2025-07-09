@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Supabase MCP can leak your entire SQL database</div>
-                                <div class="date">8 Jul 2025</div>
+                                <div class="title">RapidRAW: A non-destructive and GPU-accelerated RAW image editor</div>
+                                <div class="date">9 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rules of good writing (2007)</div>
-                                <div class="date">7 Jul 2025</div>
+                                <div class="title">Frame of preference A history of Mac settings, 1984–2004</div>
+                                <div class="date">9 Jul 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Supabase MCP can leak your entire SQL database</div>
+                                <div class="date">8 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -58,15 +67,6 @@
                             <div class="infos">
                                 <div class="title">Smollm3: Smol, multilingual, long-context reasoner LLM</div>
                                 <div class="date">8 Jul 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Frame of preference A history of Mac settings, 1984–2004</div>
-                                <div class="date">9 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
