@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops</div>
-                                <div class="date">27 Jul 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Return of wolves to Yellowstone has led to a surge in aspen trees</div>
                                 <div class="date">23 Jul 2025</div>
                             </div>
@@ -38,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">When we get Komooted</div>
-                                <div class="date">27 Jul 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Chemical process produces critical battery metals with no waste</div>
+                                <div class="title">Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops</div>
                                 <div class="date">27 Jul 2025</div>
                             </div>
                         </div>
@@ -65,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Three high-performance RISC-V processors to watch in H2 2025</div>
-                                <div class="date">23 Jul 2025</div>
+                                <div class="title">Chemical process produces critical battery metals with no waste</div>
+                                <div class="date">27 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -75,6 +57,24 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Hierarchical Reasoning Model</div>
+                                <div class="date">27 Jul 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Constrained languages are easier to optimize</div>
+                                <div class="date">27 Jul 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Fast and cheap bulk storage: using LVM to cache HDDs on SSDs</div>
                                 <div class="date">27 Jul 2025</div>
                             </div>
                         </div>
