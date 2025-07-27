@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops</div>
+                                <div class="title">When We Get Komooted</div>
                                 <div class="date">27 Jul 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">When We Get Komooted</div>
+                                <div class="title">Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops</div>
                                 <div class="date">27 Jul 2025</div>
                             </div>
                         </div>
@@ -56,6 +56,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Smallest particulate matter air quality sensor for ultra-compact IoT devices</div>
+                                <div class="date">27 Jul 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Fast and cheap bulk storage: using LVM to cache HDDs on SSDs</div>
                                 <div class="date">27 Jul 2025</div>
                             </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Smallest particulate matter sensor revolutionizes air quality measurement</div>
-                                <div class="date">27 Jul 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The future is not self-hosted, but self-sovereign</div>
-                                <div class="date">27 Jul 2025</div>
+                                <div class="title">A low power 1U Raspberry Pi cluster server for inexpensive colocation</div>
+                                <div class="date">23 Jul 2025</div>
                             </div>
                         </div>
                     </section>
