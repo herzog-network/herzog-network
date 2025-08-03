@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">If You're Remote, Ramble</div>
+                                <div class="title">If you're remote, ramble</div>
                                 <div class="date">3 Aug 2025</div>
                             </div>
                         </div>
@@ -30,6 +30,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Twenty Eighth International Obfuscated C Code Contest</div>
+                                <div class="date">3 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Tokens are getting more expensive</div>
                                 <div class="date">3 Aug 2025</div>
                             </div>
                         </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Telo MT1</div>
-                                <div class="date">2 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Micron rolls out 276-layer SSD trio for speed, scale, and stability</div>
-                                <div class="date">30 Jul 2025</div>
+                                <div class="title">Imaging reveals intricate tattoos of 2,500-year-old Siberian ice mummy</div>
+                                <div class="date">31 Jul 2025</div>
                             </div>
                         </div>
                     </section>
