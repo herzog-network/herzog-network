@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I Asked Four Former Friends Why We Stopped Speaking-Here's What I Learned (2023)</div>
+                                <div class="title">Offline.kids – Screen-free activities for kids</div>
                                 <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Part 1: A Deep Dive into Rust and C Memory Interoperability</div>
+                                <div class="title">A deep dive into Rust and C memory interoperability</div>
                                 <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Facts will not Save You - AI, History and Soviet Sci-Fi</div>
+                                <div class="title">Circadian justice</div>
+                                <div class="date">4 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">OpenIPC: Open IP Camera Firmware</div>
                                 <div class="date">1 Aug 2025</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Open IP Camera Firmware</div>
-                                <div class="date">1 Aug 2025</div>
+                                <div class="title">Europe is breaking its reliance on American science</div>
+                                <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gigabyte removes PCIe 5.0 support from B650 motherboards in latest BIOS update</div>
-                                <div class="date">2 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Perplexity is using stealth, undeclared crawlers to evade no-crawl directives</div>
+                                <div class="title">Job-seekers are dodging AI interviewers</div>
                                 <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
