@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Circadian justice</div>
+                                <div class="title">NASA's Curiosity picks up new skills</div>
                                 <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A deep dive into Rust and C memory interoperability</div>
+                                <div class="title">Circadian justice (2022)</div>
                                 <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NASA's Curiosity picks up new skills</div>
+                                <div class="title">How we made JSON.stringify more than twice as fast</div>
                                 <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
