@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Is It FOSS?</div>
-                                <div class="date">4 Aug 2025</div>
+                                <div class="title">EconTeen – Financial Literacy Lessons and Tools for Teens</div>
+                                <div class="date">5 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: I've been building an ERP for manufacturing for the last 3 years</div>
+                                <div class="date">5 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Qwen-Image: Crafting with native text rendering</div>
-                                <div class="date">4 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">NASA's Curiosity picks up new skills</div>
                                 <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AWS European Sovereign Cloud to be operated by EU citizens</div>
-                                <div class="date">4 Aug 2025</div>
+                                <div class="title">Thingino: Open-Source Firmware for IP Cameras</div>
+                                <div class="date">5 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Indian Sign Painting: A typeface designer's take on the craft</div>
-                                <div class="date">2 Aug 2025</div>
+                                <div class="title">NASA's Curiosity picks up new skills</div>
+                                <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
                     </section>
