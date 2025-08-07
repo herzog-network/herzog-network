@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it."</div>
-                                <div class="date">7 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">AI ethics is being narrowed on purpose – just like privacy was</div>
+                                <div class="title">Infinite Pixels</div>
                                 <div class="date">7 Aug 2025</div>
                             </div>
                         </div>
@@ -47,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Schools are using AI surveillance to protect students. Sometimes arresting them</div>
+                                <div class="title">Leonardo Chiariglione: “I closed MPEG on 2 June 2020”</div>
                                 <div class="date">7 Aug 2025</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust</div>
+                                <div class="title">An LLM does not need to understand MCP</div>
                                 <div class="date">7 Aug 2025</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers</div>
+                                <div class="title">How AI Conquered the US Economy: A Visual FAQ</div>
+                                <div class="date">7 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust</div>
                                 <div class="date">7 Aug 2025</div>
                             </div>
                         </div>
