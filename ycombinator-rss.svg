@@ -20,25 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mexico to US Livestock Trade halted due to Screwworm spread</div>
-                                <div class="date">9 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Show HN: The current sky at your approximate location, as a CSS gradient</div>
-                                <div class="date">9 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">OpenFreeMap survived 100k requests per second</div>
                                 <div class="date">9 Aug 2025</div>
                             </div>
                         </div>
@@ -56,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Quickshell – building blocks for your desktop</div>
-                                <div class="date">5 Aug 2025</div>
+                                <div class="title">Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union</div>
+                                <div class="date">9 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ChatGPT Agent – EU Launch</div>
+                                <div class="title">OpenFreeMap survived 100k requests per second</div>
                                 <div class="date">9 Aug 2025</div>
                             </div>
                         </div>
@@ -75,6 +57,24 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup</div>
+                                <div class="date">9 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Quickshell – building blocks for your desktop</div>
+                                <div class="date">5 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">A CT scanner reveals surprises inside the 386 processor's ceramic package</div>
                                 <div class="date">9 Aug 2025</div>
                             </div>
                         </div>
