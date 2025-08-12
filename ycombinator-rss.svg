@@ -47,7 +47,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics</div>
+                                <div class="title">Let's get real about the one-person billion dollar company</div>
+                                <div class="date">12 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The "high-level CPU" challenge</div>
                                 <div class="date">12 Aug 2025</div>
                             </div>
                         </div>
@@ -58,15 +67,6 @@
                             <div class="infos">
                                 <div class="title">Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²</div>
                                 <div class="date">9 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Evaluating LLMs Playing Text Adventures</div>
-                                <div class="date">12 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
