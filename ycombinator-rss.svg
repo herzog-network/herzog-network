@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Website Is for Humans</div>
+                                <div class="date">13 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">FFmpeg 8.0 adds Whisper support</div>
                                 <div class="date">13 Aug 2025</div>
                             </div>
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation</div>
+                                <div class="title">OpenIndiana: Community-Driven Illumos Distribution</div>
                                 <div class="date">13 Aug 2025</div>
                             </div>
                         </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We caught companies making it harder to delete your personal data online</div>
+                                <div class="title">The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation</div>
                                 <div class="date">13 Aug 2025</div>
                             </div>
                         </div>
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Evaluating GPT5's reasoning ability using the Only Connect game show</div>
-                                <div class="date">12 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">AI is already replacing thousands of jobs per month, report finds</div>
+                                <div class="title">We caught companies making it harder to delete your personal data online</div>
                                 <div class="date">13 Aug 2025</div>
                             </div>
                         </div>
