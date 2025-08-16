@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Payment Processor Fun 2025 – Making Your Own Merchant Service Provider</div>
+                                <div class="title">Do things that don't scale, and then don't scale</div>
                                 <div class="date">16 Aug 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Good system design</div>
+                                <div class="title">Pfeilstorch</div>
                                 <div class="date">16 Aug 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pfeilstorch</div>
+                                <div class="title">Good system design</div>
                                 <div class="date">16 Aug 2025</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2</div>
-                                <div class="date">13 Aug 2025</div>
+                                <div class="title">Payment Processor Fun 2025 – Making Your Own Merchant Service Provider</div>
+                                <div class="date">16 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Traps to Developers</div>
-                                <div class="date">16 Aug 2025</div>
+                                <div class="title">Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2</div>
+                                <div class="date">13 Aug 2025</div>
                             </div>
                         </div>
                     </section>
