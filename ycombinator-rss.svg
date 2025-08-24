@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Looking back at my transition from Windows to Linux in an anti-customer age</div>
+                                <div class="date">24 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Show HN: My first game made with my homemade engine</div>
                                 <div class="date">22 Aug 2025</div>
                             </div>
@@ -29,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making games in Go: 3 months without LLMs vs. 3 days with LLMs</div>
-                                <div class="date">24 Aug 2025</div>
+                                <div class="title">The two versions of Parquet</div>
+                                <div class="date">21 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Clearcam – Add AI object detection to your IP CCTV cameras</div>
+                                <div class="title">Making games in Go: 3 months without LLMs vs. 3 days with LLMs</div>
                                 <div class="date">24 Aug 2025</div>
                             </div>
                         </div>
@@ -56,15 +65,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Comet AI browser can get prompt injected from any site, drain your bank account</div>
-                                <div class="date">24 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">NASA's Juno mission leaves legacy of science at Jupiter</div>
                                 <div class="date">22 Aug 2025</div>
                             </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cloudflare incident on August 21, 2025</div>
-                                <div class="date">22 Aug 2025</div>
+                                <div class="title">Comet AI browser can get prompt injected from any site, drain your bank account</div>
+                                <div class="date">24 Aug 2025</div>
                             </div>
                         </div>
                     </section>
