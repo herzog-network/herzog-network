@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Étoilé – desktop built on GNUStep</div>
+                                <div class="title">Liquid Glass? That's what your M4 CPU is for</div>
                                 <div class="date">4 Sept 2025</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Melvyn Bragg steps down from presenting In Our Time</div>
+                                <div class="title">Étoilé – desktop built on GNUStep</div>
                                 <div class="date">4 Sept 2025</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Neovim Pack</div>
-                                <div class="date">4 Sept 2025</div>
+                                <div class="title">Claude Code: Now in Beta in Zed</div>
+                                <div class="date">3 Sept 2025</div>
                             </div>
                         </div>
                     </section>
