@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making a font of my handwriting</div>
-                                <div class="date">5 Sept 2025</div>
+                                <div class="title">Developing a Space Flight Simulator in Clojure</div>
+                                <div class="date">6 Sept 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Purposeful animations</div>
+                                <div class="title">Making a font of my handwriting</div>
                                 <div class="date">5 Sept 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Should we revisit Extreme Programming in the age of AI?</div>
+                                <div class="title">Purposeful animations</div>
                                 <div class="date">5 Sept 2025</div>
                             </div>
                         </div>
