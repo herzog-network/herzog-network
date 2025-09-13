@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Emacs: A Paradigm Shift</div>
+                                <div class="title">QGIS is a free, open-source, cross platform geographical information system</div>
                                 <div class="date">12 Sept 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">QGIS is a free, open-source, cross platform geographical information system</div>
+                                <div class="title">I used standard Emacs extension-points to extend org-mode</div>
                                 <div class="date">12 Sept 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EU court rules nuclear energy is clean energy</div>
+                                <div class="title">Corporations are trying to hide job openings from US citizens</div>
                                 <div class="date">12 Sept 2025</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Corporations are trying to hide job openings from US citizens</div>
-                                <div class="date">12 Sept 2025</div>
+                                <div class="title">Tips for installing Windows 98 in QEMU/UTM</div>
+                                <div class="date">13 Sept 2025</div>
                             </div>
                         </div>
                     </section>
