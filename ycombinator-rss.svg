@@ -20,8 +20,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Heart attacks may be triggered by bacteria</div>
+                                <div class="title">Myocardial infarction may be an infectious disease</div>
                                 <div class="date">13 Sept 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Pass: Unix Password Manager</div>
+                                <div class="date">14 Sept 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,16 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Case Against Social Media Is Stronger Than You Think</div>
-                                <div class="date">13 Sept 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">AI Will Not Make You Rich</div>
+                                <div class="title">RFC9460: SVCB and HTTPS DNS Records</div>
                                 <div class="date">14 Sept 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">486Tang – 486 on a credit-card-sized FPGA board</div>
+                                <div class="title">Recreating the US/* time zone situation</div>
                                 <div class="date">13 Sept 2025</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">‘Someone must know this guy’: four-year wedding crasher mystery solved</div>
+                                <div class="title">AMD's RDNA4 GPU Architecture at Hot Chips 2025</div>
                                 <div class="date">13 Sept 2025</div>
                             </div>
                         </div>
