@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="288" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="290" class="">
     <defs>
         <style/>
     </defs>
@@ -38,15 +38,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails</div>
-                                <div class="date">27 Sept 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">A WebGL game where you deliver messages on a tiny planet</div>
                                 <div class="date">27 Sept 2025</div>
                             </div>
@@ -56,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI model trapped in a Raspberry Pi</div>
+                                <div class="title">First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails</div>
                                 <div class="date">27 Sept 2025</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Great Question (YC W21) Is Hiring Director of Product</div>
+                                <div class="title">Unprecedented role of Amazon fires in the record atmospheric CO₂ growth in 2024</div>
                                 <div class="date">27 Sept 2025</div>
                             </div>
                         </div>
@@ -75,6 +66,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Typst: A Possible LaTeX Replacement</div>
+                                <div class="date">27 Sept 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Norway to Monitor Airborne Radioactivity in Svalbard</div>
                                 <div class="date">27 Sept 2025</div>
                             </div>
                         </div>
