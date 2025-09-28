@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="290" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="288" class="">
     <defs>
         <style/>
     </defs>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Today's Python Developers Are Embracing Type Hints</div>
-                                <div class="date">24 Sept 2025</div>
+                                <div class="title">'Amazing feat': US man still alive six months after pig kidney transplant</div>
+                                <div class="date">25 Sept 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The death of east London's most radical bookshop</div>
+                                <div class="title">We reverse-engineered Flash Attention 4</div>
                                 <div class="date">27 Sept 2025</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I made a public living room and the internet keeps putting weirder stuff in it</div>
+                                <div class="title">A Postmark backdoor that’s downloading emails</div>
                                 <div class="date">27 Sept 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Role of Amazon fires in the record atmospheric CO₂ growth in 2024</div>
+                                <div class="title">Handy – Free open-source speech-to-text app written in Rust</div>
                                 <div class="date">27 Sept 2025</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Postmark backdoor that’s downloading emails</div>
+                                <div class="title">The death of east London's most radical bookshop</div>
                                 <div class="date">27 Sept 2025</div>
                             </div>
                         </div>
