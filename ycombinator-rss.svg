@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The React Foundation</div>
+                                <div class="title">Show HN: I built a web framework in C</div>
                                 <div class="date">9 Oct 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vec&lt;T&gt;</div>
-                                <div class="date">6 Oct 2025</div>
+                                <div class="title">Dark Patterns: Buying a Bahncard at Deutsche Bahn</div>
+                                <div class="date">9 Oct 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Introducing Figure 03</div>
+                                <div class="date">9 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">McKinsey wonders how to sell AI apps with no measurable benefits</div>
-                                <div class="date">9 Oct 2025</div>
+                                <div class="title">Vec&lt;T&gt;</div>
+                                <div class="date">6 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I built a web framework in C</div>
-                                <div class="date">9 Oct 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Unknotting Number Is Not Additive</div>
+                                <div class="title">Two things LLM coding agents are still bad at</div>
                                 <div class="date">9 Oct 2025</div>
                             </div>
                         </div>
