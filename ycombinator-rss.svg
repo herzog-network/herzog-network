@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I built physical album cards with NFC tags to teach my son music discovery</div>
+                                <div class="title">They Don't Have the Money: OpenAI Edition</div>
+                                <div class="date">11 Oct 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">How to save the world with ZFS and 12 USB sticks: 4th anniversary video (2011)</div>
                                 <div class="date">10 Oct 2025</div>
                             </div>
                         </div>
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to save the world with ZFS and 12 USB sticks: 4th anniversary video (2011)</div>
+                                <div class="title">I built physical album cards with NFC tags to teach my son music discovery</div>
                                 <div class="date">10 Oct 2025</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lánczos Interpolation Explained (2022)</div>
-                                <div class="date">5 Oct 2025</div>
+                                <div class="title">Tangled, a Git collaboration platform, built on atproto</div>
+                                <div class="date">10 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: A Digital Twin of my coffee roaster that runs in the browser</div>
-                                <div class="date">6 Oct 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles</div>
+                                <div class="title">Climate goals go up in smoke as US datacenters turn to coal</div>
                                 <div class="date">11 Oct 2025</div>
                             </div>
                         </div>
