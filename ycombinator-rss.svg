@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nvidia DGX Spark: great hardware, early days for the ecosystem</div>
-                                <div class="date">15 Oct 2025</div>
+                                <div class="title">A modern approach to preventing CSRF in Go</div>
+                                <div class="date">14 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A modern approach to preventing CSRF in Go</div>
-                                <div class="date">14 Oct 2025</div>
+                                <div class="title">Interviewing Intel's Chief Architect of x86 Cores</div>
+                                <div class="date">9 Oct 2025</div>
                             </div>
                         </div>
                     </section>
