@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">JMAP for Calendars, Contacts and Files Now in Stalwart</div>
+                                <div class="title">Accessing Max Verstappen's passport and PII through FIA bugs</div>
                                 <div class="date">22 Oct 2025</div>
                             </div>
                         </div>
@@ -56,17 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII</div>
-                                <div class="date">22 Oct 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Why SSA Compilers?</div>
-                                <div class="date">22 Oct 2025</div>
+                                <div class="title">Play abstract strategy board games online with friends or against bots</div>
+                                <div class="date">16 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -75,6 +66,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Scripts I wrote that I use all the time</div>
+                                <div class="date">22 Oct 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">JMAP for Calendars, Contacts and Files Now in Stalwart</div>
                                 <div class="date">22 Oct 2025</div>
                             </div>
                         </div>
