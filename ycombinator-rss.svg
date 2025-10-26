@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nvidia DGX Spark: When Benchmark Numbers Meet Production Reality</div>
+                                <div class="title">NORAD’s Cheyenne Mountain Combat Center, c.1966</div>
+                                <div class="date">21 Oct 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)</div>
                                 <div class="date">26 Oct 2025</div>
                             </div>
                         </div>
@@ -29,16 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Downloadable movie posters from the 40s, 50s, 60s, and 70s</div>
-                                <div class="date">18 Oct 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Wren: A classy little scripting language</div>
+                                <div class="title">System.LongBool</div>
                                 <div class="date">22 Oct 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The bug that taught me more about PyTorch than years of using it</div>
+                                <div class="title">A bug that taught me more about PyTorch than years of using it</div>
                                 <div class="date">23 Oct 2025</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NORAD's Cheyenne Mountain Combat Center, C.1966</div>
-                                <div class="date">21 Oct 2025</div>
+                                <div class="title">Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells</div>
+                                <div class="date">26 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells</div>
-                                <div class="date">26 Oct 2025</div>
+                                <div class="title">Wren: A classy little scripting language</div>
+                                <div class="date">22 Oct 2025</div>
                             </div>
                         </div>
                     </section>
