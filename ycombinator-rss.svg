@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Attention lapses due to sleep deprivation due to flushing fluid from brain</div>
+                                <div class="title">Warp Terminal changes pricing model</div>
                                 <div class="date">31 Oct 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process</div>
+                                <div class="title">Nix Derivation Madness</div>
+                                <div class="date">31 Oct 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Attention lapses due to sleep deprivation due to flushing fluid from brain</div>
                                 <div class="date">31 Oct 2025</div>
                             </div>
                         </div>
@@ -47,16 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Affinity Studio now free</div>
-                                <div class="date">30 Oct 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">John Carmack on mutable variables</div>
+                                <div class="title">Can we talk about the rude installers not asking for installation locations?</div>
                                 <div class="date">31 Oct 2025</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Result is all I need</div>
-                                <div class="date">25 Oct 2025</div>
+                                <div class="title">Rotating Workforce Scheduling in MiniZinc</div>
+                                <div class="date">31 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bertie the Brain</div>
-                                <div class="date">24 Oct 2025</div>
+                                <div class="title">Sustainable memristors from shiitake mycelium for high-frequency bioelectronics</div>
+                                <div class="date">31 Oct 2025</div>
                             </div>
                         </div>
                     </section>
