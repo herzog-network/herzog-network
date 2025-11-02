@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Policy, privacy and post-quantum: anonymous credentials for everyone</div>
-                                <div class="date">2 Nov 2025</div>
+                                <div class="title">Updated practice for review articles and position papers in ArXiv CS category</div>
+                                <div class="date">1 Nov 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Updated practice for review articles and position papers in ArXiv CS category</div>
+                                <div class="title">Claude Code can debug low-level cryptography</div>
                                 <div class="date">1 Nov 2025</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude Code Can Debug Low-Level Cryptography</div>
-                                <div class="date">1 Nov 2025</div>
+                                <div class="title">Anonymous credentials: rate-limit bots and agents without compromising privacy</div>
+                                <div class="date">2 Nov 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
