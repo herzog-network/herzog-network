@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Largest Cargo Sailboat Completes Historic First Atlantic Crossing</div>
+                                <div class="title">Largest cargo sailboat completes first Atlantic crossing</div>
                                 <div class="date">8 Nov 2025</div>
                             </div>
                         </div>
@@ -56,6 +56,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs</div>
+                                <div class="date">8 Nov 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">WriterdeckOS</div>
                                 <div class="date">8 Nov 2025</div>
                             </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Characterizing the American Upper Paleolithic</div>
-                                <div class="date">9 Nov 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs</div>
-                                <div class="date">8 Nov 2025</div>
+                                <div class="title">Control structures in programming languages: from goto to algebraic effects</div>
+                                <div class="date">3 Nov 2025</div>
                             </div>
                         </div>
                     </section>
