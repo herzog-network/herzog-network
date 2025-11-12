@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">.NET MAUI is coming to Linux and the browser, powered by Avalonia</div>
-                                <div class="date">11 Nov 2025</div>
+                                <div class="title">Perkeep – Personal storage system for life</div>
+                                <div class="date">12 Nov 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours</div>
+                                <div class="title">.NET MAUI is coming to Linux and the browser, powered by Avalonia</div>
                                 <div class="date">11 Nov 2025</div>
                             </div>
                         </div>
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Perkeep lets you permanently keep your stuff, for life</div>
-                                <div class="date">12 Nov 2025</div>
+                                <div class="title">I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours</div>
+                                <div class="date">11 Nov 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A modern 35mm film scanner for home</div>
+                                <div class="title">Pikaday: A friendly guide to front-end date pickers</div>
                                 <div class="date">11 Nov 2025</div>
                             </div>
                         </div>
