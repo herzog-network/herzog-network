@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Fei-Fei Li and Yann LeCun Are Both Betting on "World Models"</div>
+                                <div class="title">Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science</div>
                                 <div class="date">14 Nov 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why do voice transcription apps charge monthly when Whisper runs locally?</div>
-                                <div class="date">14 Nov 2025</div>
+                                <div class="title">Why I'm Learning Sumerian</div>
+                                <div class="date">6 Nov 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Copyright winter is coming (to Wikipedia?)</div>
+                                <div class="title">'The Dream Factory' Review: A Building and Its Bard</div>
+                                <div class="date">10 Nov 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">What Happened with the CIA and The Paris Review?</div>
                                 <div class="date">14 Nov 2025</div>
                             </div>
                         </div>
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark</div>
-                                <div class="date">13 Nov 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web</div>
                                 <div class="date">13 Nov 2025</div>
                             </div>
                         </div>
