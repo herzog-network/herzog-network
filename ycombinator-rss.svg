@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">"One Student One Chip" Course Homepage</div>
+                                <div class="title">“One Student One Chip” Course Homepage</div>
                                 <div class="date">12 Nov 2025</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis</div>
+                                <div class="title">Run ancient Unix on modern hardware</div>
                                 <div class="date">17 Nov 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WeatherNext 2: Our most advanced weather forecasting model</div>
+                                <div class="title">Project Gemini</div>
                                 <div class="date">17 Nov 2025</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FreeMDU: Open-source Miele appliance diagnostic tools</div>
+                                <div class="title">Ion: Modern System Shell in Rust</div>
                                 <div class="date">17 Nov 2025</div>
                             </div>
                         </div>
