@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">It's Hard to Build an Oscillator</div>
+                                <div class="title">It's hard to build an oscillator</div>
                                 <div class="date">21 Nov 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I converted a rotary phone into a meeting handset</div>
-                                <div class="date">12 Nov 2025</div>
+                                <div class="title">Open Source and Local Code Mode MCP in Deno Sandboxes</div>
+                                <div class="date">13 Nov 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Brexit Hit to UK Economy Double Official Estimate, Study Finds</div>
+                                <div class="date">21 Nov 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Android and iPhone users can now share files, starting with the Pixel 10</div>
-                                <div class="date">20 Nov 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)</div>
-                                <div class="date">21 Nov 2025</div>
+                                <div class="title">I converted a rotary phone into a meeting handset</div>
+                                <div class="date">12 Nov 2025</div>
                             </div>
                         </div>
                     </section>
