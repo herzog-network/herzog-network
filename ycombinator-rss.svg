@@ -29,17 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fast, Memory-Efficient Hash Table in Java: Borrowing the Best Ideas</div>
+                                <div class="title">Dick Van Dyke turns 100</div>
                                 <div class="date">13 Dec 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">What is the nicest thing a stranger has ever done for you?</div>
-                                <div class="date">11 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,6 +47,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Show HN: Trello Clone with Source Code</div>
+                                <div class="date">6 Dec 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Cryptids</div>
                                 <div class="date">6 Dec 2025</div>
                             </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SSE sucks for transporting LLM tokens</div>
-                                <div class="date">9 Dec 2025</div>
+                                <div class="title">Useful patterns for building HTML tools</div>
+                                <div class="date">10 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Java FFM zero-copy transport using io_uring</div>
-                                <div class="date">7 Dec 2025</div>
+                                <div class="title">Ask HN: How do you handle release notes for multiple audiences?</div>
+                                <div class="date">13 Dec 2025</div>
                             </div>
                         </div>
                     </section>
