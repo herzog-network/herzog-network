@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hashcards: A Plain-Text Spaced Repetition System</div>
+                                <div class="title">Hashcards: A plain-text spaced repetition system</div>
                                 <div class="date">14 Dec 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI and the ironies of automation – Part 2</div>
+                                <div class="title">Ask HN: What Are You Working On? (December 2025)</div>
                                 <div class="date">14 Dec 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,25 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: What Are You Working On? (December 2025)</div>
+                                <div class="title">Do dyslexia fonts work? (2022)</div>
+                                <div class="date">14 Dec 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">JSDoc *Is* TypeScript</div>
+                                <div class="date">14 Dec 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">2002: Last.fm and Audioscrobbler Herald the Social Web</div>
                                 <div class="date">14 Dec 2025</div>
                             </div>
                         </div>
@@ -58,24 +76,6 @@
                             <div class="infos">
                                 <div class="title">Developing a food-safe finish for my wooden spoons</div>
                                 <div class="date">10 Dec 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Stop crawling my HTML you dickheads – use the API</div>
-                                <div class="date">14 Dec 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Do Dyslexia Fonts Actually Work? (2022)</div>
-                                <div class="date">14 Dec 2025</div>
                             </div>
                         </div>
                     </section>
