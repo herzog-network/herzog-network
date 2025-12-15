@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rio de Janeiro's talipot palm trees bloom for the first and only time</div>
-                                <div class="date">7 Dec 2025</div>
+                                <div class="title">Why proteins fold and how GPUs help us fold</div>
+                                <div class="date">15 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why proteins fold and how GPUs help us fold</div>
-                                <div class="date">15 Dec 2025</div>
+                                <div class="title">Running on Empty: Copper</div>
+                                <div class="date">8 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Running on Empty: Copper</div>
-                                <div class="date">8 Dec 2025</div>
+                                <div class="title">How well do you know C++ auto type deduction?</div>
+                                <div class="date">9 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Whole App is a Blob</div>
+                                <div class="title">Unscii</div>
                                 <div class="date">15 Dec 2025</div>
                             </div>
                         </div>
