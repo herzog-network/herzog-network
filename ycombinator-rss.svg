@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A better zip bomb (2019)</div>
-                                <div class="date">19 Dec 2025</div>
+                                <div class="title">Fuzix on a Raspberry Pi Pico</div>
+                                <div class="date">15 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: The internet is getting worse every day. How do we fix this?</div>
-                                <div class="date">20 Dec 2025</div>
+                                <div class="title">Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions</div>
+                                <div class="date">16 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
