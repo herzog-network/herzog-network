@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Log level 'error' should mean that something needs to be fixed</div>
-                                <div class="date">17 Dec 2025</div>
+                                <div class="title">OpenSCAD Is Kinda Neat</div>
+                                <div class="date">20 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Go ahead, self-host Postgres</div>
-                                <div class="date">20 Dec 2025</div>
+                                <div class="title">Log level 'error' should mean that something needs to be fixed</div>
+                                <div class="date">17 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Immersa: Open-source Web-based 3D Presentation Tool</div>
+                                <div class="title">I spent a WEEK without IPv4</div>
                                 <div class="date">20 Dec 2025</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)</div>
+                                <div class="title">Go ahead, self-host Postgres</div>
                                 <div class="date">20 Dec 2025</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NTP at NIST Boulder Has Lost Power</div>
+                                <div class="title">Big GPUs don't need big PCs</div>
                                 <div class="date">20 Dec 2025</div>
                             </div>
                         </div>
