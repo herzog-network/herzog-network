@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How Lewis Carroll computed determinants</div>
+                                <div class="title">How Lewis Carroll computed determinants (2023)</div>
                                 <div class="date">26 Dec 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gaussian Splatting 3 Ways</div>
-                                <div class="date">26 Dec 2025</div>
+                                <div class="title">The Best Things and Stuff of 2025</div>
+                                <div class="date">23 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Package managers keep using Git as a database, it never works out</div>
+                                <div class="title">Drawing with zero-width characters</div>
                                 <div class="date">26 Dec 2025</div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MongoBleed</div>
+                                <div class="title">Package managers keep using Git as a database, it never works out</div>
                                 <div class="date">26 Dec 2025</div>
                             </div>
                         </div>
