@@ -20,17 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I canceled my book deal</div>
-                                <div class="date">31 Dec 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">All-optical synthesis chip for large-scale intelligent semantic vision</div>
-                                <div class="date">31 Dec 2025</div>
+                                <div class="title">The Delete Act</div>
+                                <div class="date">1 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Privacy and control. My tech setup</div>
+                                <div class="title">Scientists unlock brain's natural clean-up system for new treatments for stroke</div>
                                 <div class="date">31 Dec 2025</div>
                             </div>
                         </div>
@@ -56,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Demystifying DVDs</div>
-                                <div class="date">29 Dec 2025</div>
+                                <div class="title">2025: The Year in LLMs</div>
+                                <div class="date">1 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My role as a founder-CTO: year 8</div>
-                                <div class="date">26 Dec 2025</div>
+                                <div class="title">Resistance training load does not determine hypertrophy</div>
+                                <div class="date">31 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris</div>
+                                <div class="title">GoGoGrandparent (YC S16) Is Hiring Tech Leads</div>
+                                <div class="date">1 Jan 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">I canceled my book deal</div>
                                 <div class="date">31 Dec 2025</div>
                             </div>
                         </div>
