@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Standard Ebooks: Public Domain Day 2026 in Literature</div>
+                                <div class="date">2 Jan 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Happy Public Domain Day 2026</div>
                                 <div class="date">2 Jan 2026</div>
                             </div>
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Standard Ebooks: Public Domain Day 2026 in Literature</div>
+                                <div class="title">Going immutable on macOS, using Nix-Darwin</div>
                                 <div class="date">2 Jan 2026</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Going immutable on macOS, using Nix-Darwin</div>
-                                <div class="date">2 Jan 2026</div>
+                                <div class="title">Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.</div>
+                                <div class="date">26 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">A website to destroy all websites</div>
                                 <div class="date">1 Jan 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)</div>
-                                <div class="date">2 Jan 2026</div>
                             </div>
                         </div>
                     </section>
