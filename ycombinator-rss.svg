@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">X-Clacks-Overhead</div>
+                                <div class="title">Show HN: Offline tiles and routing and geocoding in one Docker Compose stack</div>
                                 <div class="date">3 Jan 2026</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">IPv6 just turned 30 and still hasn't taken over the world</div>
-                                <div class="date">2 Jan 2026</div>
+                                <div class="title">X-Clacks-Overhead</div>
+                                <div class="date">3 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Beginner's Two-Component Crystal-Style Wi-Fi Detector</div>
-                                <div class="date">31 Dec 2025</div>
+                                <div class="title">IPv6 just turned 30 and still hasn't taken over the world</div>
+                                <div class="date">2 Jan 2026</div>
                             </div>
                         </div>
                     </section>
