@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Decorative Cryptography</div>
+                                <div class="title">It's hard to justify Tahoe icons</div>
                                 <div class="date">5 Jan 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A spider web unlike any seen before</div>
+                                <div class="title">Decorative Cryptography</div>
                                 <div class="date">5 Jan 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Revisiting the original Roomba and its simple architecture</div>
-                                <div class="date">3 Jan 2026</div>
+                                <div class="title">A spider web unlike any seen before</div>
+                                <div class="date">5 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lessons from 14 years at Google</div>
-                                <div class="date">4 Jan 2026</div>
+                                <div class="title">Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind</div>
+                                <div class="date">31 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The unbearable joy of sitting alone in a café</div>
-                                <div class="date">4 Jan 2026</div>
+                                <div class="title">Revisiting the original Roomba and its simple architecture</div>
+                                <div class="date">3 Jan 2026</div>
                             </div>
                         </div>
                     </section>
