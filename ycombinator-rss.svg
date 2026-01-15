@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude Cowork Exfiltrates Files</div>
+                                <div class="title">Claude Cowork exfiltrates files</div>
                                 <div class="date">14 Jan 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: What is the best way to provide continuous context to models?</div>
-                                <div class="date">15 Jan 2026</div>
+                                <div class="title">Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR</div>
+                                <div class="date">14 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">You need a kitchen slide rule</div>
-                                <div class="date">13 Jan 2026</div>
+                                <div class="title">Ask HN: Share your personal website</div>
+                                <div class="date">14 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: Share your personal website</div>
+                                <div class="title">Ask HN: What did you find out or explore today?</div>
                                 <div class="date">14 Jan 2026</div>
                             </div>
                         </div>
