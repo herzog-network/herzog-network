@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A few random notes from Claude coding quite a bit last few weeks</div>
-                                <div class="date">26 Jan 2026</div>
+                                <div class="title">Rust's Standard Library on the GPU</div>
+                                <div class="date">24 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Try text scaling support in Chrome Canary</div>
-                                <div class="date">27 Jan 2026</div>
+                                <div class="title">A few random notes from Claude coding quite a bit last few weeks</div>
+                                <div class="date">26 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I wrapped the Zorks with an LLM</div>
+                                <div class="title">Try text scaling support in Chrome Canary</div>
                                 <div class="date">27 Jan 2026</div>
                             </div>
                         </div>
