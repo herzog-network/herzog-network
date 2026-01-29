@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We can't send mail farther than 500 miles (2002)</div>
+                                <div class="title">Europe's next-generation weather satellite sends back first images</div>
                                 <div class="date">29 Jan 2026</div>
                             </div>
                         </div>
@@ -38,6 +38,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">We can't send mail farther than 500 miles (2002)</div>
+                                <div class="date">29 Jan 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105</div>
                                 <div class="date">29 Jan 2026</div>
                             </div>
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Xmake: A cross-platform build utility based on Lua</div>
-                                <div class="date">25 Jan 2026</div>
+                                <div class="title">Apple to soon take up to 30% cut from all Patreon creators in iOS app</div>
+                                <div class="date">28 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Airfoil (2024)</div>
-                                <div class="date">28 Jan 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">An Illustrated Guide to Hippo Castration (2014)</div>
-                                <div class="date">24 Jan 2026</div>
+                                <div class="title">Xmake: A cross-platform build utility based on Lua</div>
+                                <div class="date">25 Jan 2026</div>
                             </div>
                         </div>
                     </section>
