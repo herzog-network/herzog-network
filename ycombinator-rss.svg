@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">If you've got Nothing to Hide</div>
+                                <div class="title">The Missing Layer</div>
                                 <div class="date">5 Feb 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Modernizing Linux swapping: introducing the swap table</div>
+                                <div class="title">Nanobot: Ultra-Lightweight Alternative to OpenClaw</div>
                                 <div class="date">5 Feb 2026</div>
                             </div>
                         </div>
@@ -56,7 +56,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Adobe Animate will be discontinued effective March 1, 2026</div>
+                                <div class="title">Show HN: Micropolis/SimCity Clone in Emacs Lisp</div>
+                                <div class="date">5 Feb 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Making Ferrite Core Inductors at Home</div>
                                 <div class="date">2 Feb 2026</div>
                             </div>
                         </div>
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">Wirth's Revenge</div>
                                 <div class="date">5 Feb 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite</div>
-                                <div class="date">1 Feb 2026</div>
                             </div>
                         </div>
                     </section>
