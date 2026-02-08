@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI fatigue Is real and nobody talks about it</div>
+                                <div class="title">I am happier writing code by hand</div>
                                 <div class="date">8 Feb 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I am happier writing code by hand</div>
+                                <div class="title">AI fatigue Is real and nobody talks about it</div>
                                 <div class="date">8 Feb 2026</div>
                             </div>
                         </div>
@@ -56,15 +56,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Curating a Show on My Ineffable Mother, Ursula K. Le Guin</div>
-                                <div class="date">8 Feb 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing</div>
                                 <div class="date">8 Feb 2026</div>
                             </div>
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Matchlock – Secures AI agent workloads with a Linux-based sandbox</div>
-                                <div class="date">8 Feb 2026</div>
+                                <div class="title">Show HN: It took 4 years to sell my startup. I wrote a book about it</div>
+                                <div class="date">4 Feb 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Contagious Taste of Cancer</div>
+                                <div class="date">7 Feb 2026</div>
                             </div>
                         </div>
                     </section>
