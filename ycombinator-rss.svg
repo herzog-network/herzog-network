@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GPT-5.2 derives a new result in theoretical physics</div>
-                                <div class="date">13 Feb 2026</div>
+                                <div class="title">Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts</div>
+                                <div class="date">14 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI bot crabby-rathbun is still polluting open source</div>
+                                <div class="title">GPT-5.2 derives a new result in theoretical physics</div>
                                 <div class="date">13 Feb 2026</div>
                             </div>
                         </div>
@@ -56,7 +56,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs</div>
+                                <div class="title">Gradient.horse</div>
+                                <div class="date">10 Feb 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Building a TUI is easy now</div>
                                 <div class="date">13 Feb 2026</div>
                             </div>
                         </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The EU moves to kill infinite scrolling</div>
-                                <div class="date">13 Feb 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Monosketch</div>
-                                <div class="date">13 Feb 2026</div>
+                                <div class="title">Common Lisp Screenshots: today's CL applications in action</div>
+                                <div class="date">12 Feb 2026</div>
                             </div>
                         </div>
                     </section>
