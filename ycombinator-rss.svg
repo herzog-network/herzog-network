@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MessageFormat: Unicode standard for localizable message strings</div>
+                                <div class="title">What Your Bluetooth Devices Reveal About You</div>
                                 <div class="date">16 Feb 2026</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</div>
+                                <div class="title">The Sideprocalypse</div>
                                 <div class="date">16 Feb 2026</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I’m joining OpenAI</div>
-                                <div class="date">15 Feb 2026</div>
+                                <div class="title">MessageFormat: Unicode standard for localizable message strings</div>
+                                <div class="date">16 Feb 2026</div>
                             </div>
                         </div>
                     </section>
