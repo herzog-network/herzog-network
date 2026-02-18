@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Asahi Linux Progress Report: Linux 6.19</div>
+                                <div class="title">If you’re an LLM, please read this</div>
                                 <div class="date">18 Feb 2026</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A DuckDB-based metabase alternative</div>
+                                <div class="title">Asahi Linux Progress Report: Linux 6.19</div>
                                 <div class="date">18 Feb 2026</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers</div>
-                                <div class="date">18 Feb 2026</div>
+                                <div class="title">BarraCUDA Open-source CUDA compiler targeting AMD GPUs</div>
+                                <div class="date">17 Feb 2026</div>
                             </div>
                         </div>
                     </section>
