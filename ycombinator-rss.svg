@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive</div>
+                                <div class="date">22 Feb 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">How I use Claude Code: Separation of planning and execution</div>
                                 <div class="date">22 Feb 2026</div>
                             </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Are compilers deterministic?</div>
+                                <div class="title">Japanese Woodblock Print Search</div>
                                 <div class="date">22 Feb 2026</div>
                             </div>
                         </div>
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Evidence of the bouba-kiki effect in naïve baby chicks</div>
-                                <div class="date">21 Feb 2026</div>
+                                <div class="title">A Botnet Accidentally Destroyed I2P</div>
+                                <div class="date">22 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Parse, Don't Validate and Type-Driven Design in Rust</div>
+                                <div class="title">Evidence of the bouba-kiki effect in naïve baby chicks</div>
                                 <div class="date">21 Feb 2026</div>
                             </div>
                         </div>
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">How far back in time can you understand English?</div>
                                 <div class="date">18 Feb 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">zclaw: personal AI assistant in under 888 KB, running on an ESP32</div>
-                                <div class="date">21 Feb 2026</div>
                             </div>
                         </div>
                     </section>
