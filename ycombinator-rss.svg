@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">When Code is Free, Why is Claude is an Electron app?</div>
-                                <div class="date">21 Feb 2026</div>
+                                <div class="title">How I use Claude Code: Separation of planning and execution</div>
+                                <div class="date">22 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EDuke32 – Duke Nukem 3D (Open-Source)</div>
-                                <div class="date">21 Feb 2026</div>
+                                <div class="title">Are compilers deterministic?</div>
+                                <div class="date">22 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,16 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Parse, Don't Validate and Type-Driven Design in Rust</div>
-                                <div class="date">21 Feb 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Password managers less secure than promised</div>
+                                <div class="title">Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU</div>
                                 <div class="date">21 Feb 2026</div>
                             </div>
                         </div>
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I verified my LinkedIn identity. Here's what I handed over</div>
+                                <div class="title">Parse, Don't Validate and Type-Driven Design in Rust</div>
                                 <div class="date">21 Feb 2026</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Toyota Mirai hydrogen car depreciation: 65% value loss in a year</div>
+                                <div class="title">How far back in time can you understand English?</div>
+                                <div class="date">18 Feb 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">zclaw: personal AI assistant in under 888 KB, running on an ESP32</div>
                                 <div class="date">21 Feb 2026</div>
                             </div>
                         </div>
