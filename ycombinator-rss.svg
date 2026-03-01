@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We do not think Anthropic should be designated as a supply chain risk</div>
-                                <div class="date">28 Feb 2026</div>
+                                <div class="title">Why is the first C++ (m)allocation always 72 KB?</div>
+                                <div class="date">1 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Switch to Claude without starting over</div>
-                                <div class="date">1 Mar 2026</div>
+                                <div class="title">We do not think Anthropic should be designated as a supply chain risk</div>
+                                <div class="date">28 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An ode to houseplant programming (2025)</div>
+                                <div class="title">Robust and efficient quantum-safe HTTPS</div>
                                 <div class="date">27 Feb 2026</div>
                             </div>
                         </div>
