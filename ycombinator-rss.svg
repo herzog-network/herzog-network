@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Don't post generated/AI-edited comments. HN is for conversation between humans.</div>
+                                <div class="title">Many SWE-bench-Passing PRs would not be merged</div>
                                 <div class="date">11 Mar 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Many SWE-bench-Passing PRs would not be merged</div>
+                                <div class="title">Don't post generated/AI-edited comments. HN is for conversation between humans.</div>
                                 <div class="date">11 Mar 2026</div>
                             </div>
                         </div>
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Personal Computer by Perplexity</div>
-                                <div class="date">11 Mar 2026</div>
+                                <div class="title">Show HN: Autoresearch@home</div>
+                                <div class="date">12 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I built a tool that watches webpages and exposes changes as RSS</div>
-                                <div class="date">11 Mar 2026</div>
+                                <div class="title">Show HN: A context-aware permission guard for Claude Code</div>
+                                <div class="date">12 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NemoClaw – Nvidia's upcoming open-source AI agent platform</div>
-                                <div class="date">11 Mar 2026</div>
+                                <div class="title">CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)</div>
+                                <div class="date">8 Mar 2026</div>
                             </div>
                         </div>
                     </section>
