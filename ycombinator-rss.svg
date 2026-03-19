@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">UK's Ofcom has today fined 4chan £450k for not having age checks in place</div>
+                                <div class="title">Noq: n0's new QUIC implementation in Rust</div>
                                 <div class="date">19 Mar 2026</div>
                             </div>
                         </div>
@@ -56,8 +56,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to Not Pay Your Taxes</div>
+                                <div class="title">NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute</div>
                                 <div class="date">19 Mar 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game</div>
+                                <div class="date">16 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -66,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">OpenBSD: PF queues break the 4 Gbps barrier</div>
-                                <div class="date">19 Mar 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Juggalo Makeup Blocks Facial Recognition Technology (2019)</div>
                                 <div class="date">19 Mar 2026</div>
                             </div>
                         </div>
