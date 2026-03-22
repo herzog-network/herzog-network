@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hormuz Minesweeper – Are you tired of winning?</div>
+                                <div class="title">Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM</div>
                                 <div class="date">22 Mar 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM</div>
+                                <div class="title">Bored of eating your own dogfood? Try smelling your own farts</div>
+                                <div class="date">22 Mar 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Hormuz Minesweeper – Are you tired of winning?</div>
                                 <div class="date">22 Mar 2026</div>
                             </div>
                         </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The three pillars of JavaScript bloat</div>
+                                <div class="title">More common mistakes to avoid when creating system architecture diagrams</div>
                                 <div class="date">22 Mar 2026</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How We Synchronized Editing for Rec Room's Multiplayer Scripting System</div>
-                                <div class="date">22 Mar 2026</div>
+                                <div class="title">Node.js worker threads are problematic, but they work great for us</div>
+                                <div class="date">18 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">My first patch to the Linux kernel</div>
                                 <div class="date">19 Mar 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Tinybox – A powerful computer for deep learning</div>
-                                <div class="date">21 Mar 2026</div>
                             </div>
                         </div>
                     </section>
