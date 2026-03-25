@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple Business</div>
+                                <div class="title">Goodbye to Sora</div>
                                 <div class="date">24 Mar 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Flighty Airports</div>
+                                <div class="date">25 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised</div>
+                                <div class="title">Apple Business</div>
                                 <div class="date">24 Mar 2026</div>
                             </div>
                         </div>
@@ -56,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Disney Exits OpenAI Deal After AI Giant Shutters Sora</div>
-                                <div class="date">24 Mar 2026</div>
+                                <div class="title">In Edison’s Revenge, Data Centers Are Transitioning From AC to DC</div>
+                                <div class="date">25 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,16 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains</div>
-                                <div class="date">24 Mar 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon</div>
+                                <div class="title">Arm AGI CPU</div>
                                 <div class="date">24 Mar 2026</div>
                             </div>
                         </div>
