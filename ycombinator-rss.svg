@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Don't YOLO your file system</div>
+                                <div class="title">Go hard on agents, not on your filesystem</div>
                                 <div class="date">28 Mar 2026</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Twitch Roulette – Find live streamers who need views the most</div>
-                                <div class="date">27 Mar 2026</div>
+                                <div class="title">Nashville library launches Memory Lab for digitizing home movies</div>
+                                <div class="date">24 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Improving Composer through real-time RL</div>
-                                <div class="date">26 Mar 2026</div>
+                                <div class="title">Show HN: Twitch Roulette – Find live streamers who need views the most</div>
+                                <div class="date">27 Mar 2026</div>
                             </div>
                         </div>
                     </section>
