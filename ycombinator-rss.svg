@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How many products does Microsoft have named 'Copilot'?</div>
-                                <div class="date">4 Apr 2026</div>
+                                <div class="title">OpenScreen is an open-source alternative to Screen Studio</div>
+                                <div class="date">1 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,17 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Embarrassingly simple self-distillation improves code generation</div>
-                                <div class="date">4 Apr 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Ruckus: Racket for iOS</div>
-                                <div class="date">2 Apr 2026</div>
+                                <div class="title">Shooting down ideas is not a skill</div>
+                                <div class="date">5 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I made open source, zero power PCB hackathon badges</div>
+                                <div class="title">How many products does Microsoft have named 'Copilot'?</div>
                                 <div class="date">4 Apr 2026</div>
                             </div>
                         </div>
@@ -74,7 +65,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: TurboQuant-WASM – Google's vector quantization in the browser</div>
+                                <div class="title">AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy</div>
+                                <div class="date">5 Apr 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Embarrassingly simple self-distillation improves code generation</div>
                                 <div class="date">4 Apr 2026</div>
                             </div>
                         </div>
