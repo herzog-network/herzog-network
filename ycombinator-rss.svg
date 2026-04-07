@@ -29,15 +29,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Freestyle – Sandboxes for Coding Agents</div>
-                                <div class="date">6 Apr 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Solod – A Subset of Go That Translates to C</div>
                                 <div class="date">7 Apr 2026</div>
                             </div>
@@ -47,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Netflix Void Model: Video Object and Interaction Deletion</div>
-                                <div class="date">3 Apr 2026</div>
+                                <div class="title">Launch HN: Freestyle – Sandboxes for Coding Agents</div>
+                                <div class="date">6 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,7 +56,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Anthropic expands partnership with Google and Broadcom for next-gen compute</div>
+                                <div class="title">VOID: Video Object and Interaction Deletion</div>
+                                <div class="date">3 Apr 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">German police name alleged leaders of GandCrab and REvil ransomware groups</div>
                                 <div class="date">6 Apr 2026</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Porting Go's strings package to C</div>
-                                <div class="date">3 Apr 2026</div>
+                                <div class="title">Issue: Claude Code is unusable for complex engineering tasks with Feb updates</div>
+                                <div class="date">6 Apr 2026</div>
                             </div>
                         </div>
                     </section>
