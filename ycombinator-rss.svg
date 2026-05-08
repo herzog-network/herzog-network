@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pinocchio is weirder than you remembered</div>
-                                <div class="date">6 May 2026</div>
+                                <div class="title">ClojureScript Gets Async/Await</div>
+                                <div class="date">8 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE</div>
-                                <div class="date">8 May 2026</div>
+                                <div class="title">Rumors of my death are slightly exaggerated</div>
+                                <div class="date">6 May 2026</div>
                             </div>
                         </div>
                     </section>
