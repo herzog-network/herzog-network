@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?</div>
+                                <div class="title">Red Hot Chili Peppers sell music catalogue for $300M</div>
                                 <div class="date">11 May 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ratty – A terminal emulator with inline 3D graphics</div>
+                                <div class="title">Library for fast mapping of Java records to native memory</div>
                                 <div class="date">11 May 2026</div>
                             </div>
                         </div>
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s</div>
-                                <div class="date">10 May 2026</div>
+                                <div class="title">Ratty – A terminal emulator with inline 3D graphics</div>
+                                <div class="date">11 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AMÁLIA and the future of European Portuguese LLMs</div>
-                                <div class="date">8 May 2026</div>
+                                <div class="title">Counting Fast in Erlang with:counters and:atomics</div>
+                                <div class="date">9 May 2026</div>
                             </div>
                         </div>
                     </section>
