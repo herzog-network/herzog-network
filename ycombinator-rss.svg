@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Deterministic Fully-Static Whole-Binary Translation Without Heuristics</div>
+                                <div class="title">Why I'm leaving GitHub for Forgejo</div>
                                 <div class="date">13 May 2026</div>
                             </div>
                         </div>
@@ -38,17 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New stainless steel can survive conditions for hydrogen production in seawater</div>
-                                <div class="date">11 May 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Restore full BambuNetwork support for Bambu Lab printers</div>
-                                <div class="date">12 May 2026</div>
+                                <div class="title">The US Is Winning the AI Race</div>
+                                <div class="date">13 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Googlebook</div>
-                                <div class="date">12 May 2026</div>
+                                <div class="title">An idiot's guide to lead optimisation for proteins</div>
+                                <div class="date">11 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</div>
-                                <div class="date">12 May 2026</div>
+                                <div class="title">Dutch suicide prevention website shares data with tech companies without consent</div>
+                                <div class="date">13 May 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">New stainless steel can survive conditions for hydrogen production in seawater</div>
+                                <div class="date">11 May 2026</div>
                             </div>
                         </div>
                     </section>
