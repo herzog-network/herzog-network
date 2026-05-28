@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Can we have the day off?</div>
+                                <div class="title">YouTube to automatically label AI-generated videos</div>
+                                <div class="date">27 May 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Hallucinate – Massively Multiplayer Online Rave</div>
                                 <div class="date">28 May 2026</div>
                             </div>
                         </div>
@@ -29,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">YouTube to automatically label AI-generated videos</div>
-                                <div class="date">27 May 2026</div>
+                                <div class="title">I analysed 20 years of my chats</div>
+                                <div class="date">28 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What Apple and Google are doing to push notifications</div>
-                                <div class="date">27 May 2026</div>
+                                <div class="title">Qwen3.7-Max Ran for 35 Hours on Unknown Hardware and Achieved a 10× Speedup</div>
+                                <div class="date">25 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">RamAIn (YC W26) Is Hiring</div>
-                                <div class="date">28 May 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">A New Typst Template for Pandoc</div>
-                                <div class="date">26 May 2026</div>
+                                <div class="title">What Apple and Google are doing to push notifications</div>
+                                <div class="date">27 May 2026</div>
                             </div>
                         </div>
                     </section>
