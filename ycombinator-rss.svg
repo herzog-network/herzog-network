@@ -20,8 +20,26 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How's Linear so fast? A technical breakdown</div>
-                                <div class="date">7 Jun 2026</div>
+                                <div class="title">APC–2 – A professional record cutter for producing original playback discs</div>
+                                <div class="date">8 Jun 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">1k Data Breaches Later, the Disclosure Lag Is Worse</div>
+                                <div class="date">8 Jun 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Smallest Brain You Can Build: A Perceptron in Python</div>
+                                <div class="date">8 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I Derived a Pancake</div>
-                                <div class="date">5 Jun 2026</div>
+                                <div class="title">Dopamine Fracking</div>
+                                <div class="date">8 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making peace with your unlived dreams (2023)</div>
-                                <div class="date">7 Jun 2026</div>
+                                <div class="title">DeepSeek V4 Pro beats GPT-5.5 Pro on precision</div>
+                                <div class="date">8 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,26 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What is the purpose of the lost+found folder in Linux and Unix? (2014)</div>
-                                <div class="date">5 Jun 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Do we fear the serializable isolation level more than we fear subtle bugs?</div>
-                                <div class="date">3 Jun 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Powering up a module from the IBM 604: an electronic calculator from 1948</div>
-                                <div class="date">7 Jun 2026</div>
+                                <div class="title">New drug 'functionally cures' many hepatitis B virus infections</div>
+                                <div class="date">8 Jun 2026</div>
                             </div>
                         </div>
                     </section>
