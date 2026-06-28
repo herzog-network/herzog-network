@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The cost YAGNI was never about</div>
+                                <div class="title">Librepods: AirPods liberated from Apple's ecosystem</div>
                                 <div class="date">28 Jun 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">5k Restaurant Menus, Years 1880-1920</div>
+                                <div class="title">5k menus from the New York Public Library’s Buttolph Collection (1880-1920)</div>
                                 <div class="date">28 Jun 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,25 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Working around dragons with the Lemote Yeeloong laptop and OpenBSD</div>
+                                <div class="title">Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks</div>
+                                <div class="date">28 Jun 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Historical memory prices 1960-2026</div>
+                                <div class="date">28 Jun 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">TOP500 at ISC'26: We Have a New Number 1 – By George Cozma</div>
                                 <div class="date">28 Jun 2026</div>
                             </div>
                         </div>
@@ -57,24 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Tokenmaxxing is dead, long live tokenmaxxing</div>
-                                <div class="date">28 Jun 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Daisugi, the Japanese technique of growing trees out of other trees (2020)</div>
-                                <div class="date">28 Jun 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Show HN: Zanagrams</div>
                                 <div class="date">28 Jun 2026</div>
                             </div>
                         </div>
