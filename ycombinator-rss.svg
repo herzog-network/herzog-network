@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Agnes Callard’s theory of the uni-context</div>
+                                <div class="title">Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK</div>
                                 <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Demis Hassabis has a plan to harness AI safely</div>
+                                <div class="title">Are we offloading too much of our thinking to AI?</div>
                                 <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Beautiful Type Erasure with C++26 Reflection</div>
+                                <div class="title">Show HN: Opening lines of famous literary works</div>
                                 <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Coding agents think ahead of time</div>
+                                <div class="title">Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations</div>
                                 <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE</div>
-                                <div class="date">12 Jul 2026</div>
+                                <div class="title">Kontigo (YC S24) Is Hiring (Head of Security)</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Proof of Care in the Age of A.I</div>
+                                <div class="title">How to stop Claude from saying load-bearing</div>
                                 <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
