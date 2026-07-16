@@ -47,8 +47,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SQLite should have (Rust-style) editions</div>
-                                <div class="date">16 Jul 2026</div>
+                                <div class="title">What's the story behind the names of Cloudflare's name servers? (2013)</div>
+                                <div class="date">12 Jul 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't</div>
+                                <div class="date">12 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">Grok Build is open source</div>
                                 <div class="date">15 Jul 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Bluesky Trademarks ATProto</div>
-                                <div class="date">16 Jul 2026</div>
                             </div>
                         </div>
                     </section>
