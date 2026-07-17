@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LM Studio Bionic: the AI agent for open models</div>
-                                <div class="date">16 Jul 2026</div>
+                                <div class="title">Google Kills Custom Search API on Jan 1, 2027</div>
+                                <div class="date">17 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Little Book of Reinforcement Learning</div>
-                                <div class="date">17 Jul 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">My car's OTA update broke Android Auto, and it's a indictment of modern software</div>
-                                <div class="date">17 Jul 2026</div>
+                                <div class="title">LM Studio Bionic: the AI agent for open models</div>
+                                <div class="date">16 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mathematics of Data Science</div>
-                                <div class="date">16 Jul 2026</div>
+                                <div class="title">M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida</div>
+                                <div class="date">17 Jul 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Little Book of Reinforcement Learning</div>
+                                <div class="date">17 Jul 2026</div>
                             </div>
                         </div>
                     </section>
