@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DConf 2026 in London</div>
+                                <div class="title">Using an open model feels surprisingly good</div>
+                                <div class="date">28 Jul 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">A $500 RL fine-tune of a 9B open model beat frontier models on catalog review</div>
                                 <div class="date">28 Jul 2026</div>
                             </div>
                         </div>
@@ -47,16 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Watching Go's new garbage collector move through the heap</div>
-                                <div class="date">25 Jul 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">America has become an entrepreneur's paradise</div>
+                                <div class="title">Astronauts describe persistent 'observer' sensation after 6 month missions</div>
                                 <div class="date">28 Jul 2026</div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">C/C++ projects packaged for Zig</div>
+                                <div class="title">Residential Proxies Are a National Security Threat</div>
                                 <div class="date">28 Jul 2026</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals</div>
-                                <div class="date">27 Jul 2026</div>
+                                <div class="title">RTX 2080 Ti Memory Upgrade to 22 GB</div>
+                                <div class="date">24 Jul 2026</div>
                             </div>
                         </div>
                     </section>
