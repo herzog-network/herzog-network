@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">U.S. Department of Energy Launches the Genesis Open Models Initiative</div>
+                                <div class="title">Hardware backdoors in some x86 CPUs</div>
                                 <div class="date">8 Aug 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hardware backdoors in some x86 CPUs</div>
+                                <div class="title">U.S. Department of Energy Launches the Genesis Open Models Initiative</div>
                                 <div class="date">8 Aug 2026</div>
                             </div>
                         </div>
@@ -74,8 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NASA figured out how to keep its Voyager 2 probe running for another year</div>
-                                <div class="date">8 Aug 2026</div>
+                                <div class="title">ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)</div>
+                                <div class="date">2 Aug 2026</div>
                             </div>
                         </div>
                     </section>
