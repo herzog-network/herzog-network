@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gloomberb</div>
+                                <div class="title">Gemini 3.7 Flash</div>
                                 <div class="date">13 Aug 2026</div>
                             </div>
                         </div>
@@ -30,6 +30,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Spaghettifying DRAM</div>
+                                <div class="date">13 Aug 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Mistral OCR 4.1</div>
                                 <div class="date">13 Aug 2026</div>
                             </div>
                         </div>
@@ -56,16 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Kubernetes on Oxide: How customer needs shaped our integrations</div>
-                                <div class="date">13 Aug 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">We eliminated 1,400 CVEs in NanoClaw's container images</div>
+                                <div class="title">Gloomberb</div>
                                 <div class="date">13 Aug 2026</div>
                             </div>
                         </div>
