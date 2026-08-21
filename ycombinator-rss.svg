@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Lost Treasure of Sid Meier's Pirates</div>
+                                <div class="title">AI companies destroy physical books – let's scan rare books before it's too late</div>
+                                <div class="date">21 Aug 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">TigerBeetle Core System Architecture: Deconstructing Performance Engineering</div>
                                 <div class="date">21 Aug 2026</div>
                             </div>
                         </div>
@@ -47,6 +56,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">The Lost Treasure of Sid Meier's Pirates</div>
+                                <div class="date">21 Aug 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">We Rebuilt the Linux MicroVM Stack on Apple Silicon</div>
                                 <div class="date">21 Aug 2026</div>
                             </div>
@@ -56,26 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The August 17 outage</div>
-                                <div class="date">20 Aug 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">I like 'em thick: an apology to my English teachers</div>
-                                <div class="date">18 Aug 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The case against a C alternative (2022)</div>
-                                <div class="date">16 Aug 2026</div>
+                                <div class="title">Kino: A high-performance Ractor web server for Ruby 4.0</div>
+                                <div class="date">21 Aug 2026</div>
                             </div>
                         </div>
                     </section>
