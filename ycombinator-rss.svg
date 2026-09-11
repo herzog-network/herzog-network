@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The part of Navier-Stokes no one is talking about</div>
-                                <div class="date">10 Sept 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra</div>
+                                <div class="title">Shopify is moving from React Native back to Swift and Kotlin</div>
                                 <div class="date">10 Sept 2026</div>
                             </div>
                         </div>
@@ -47,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth</div>
+                                <div class="title">The Deathray: A simple way for an untrusted site to freeze a Mac</div>
                                 <div class="date">10 Sept 2026</div>
                             </div>
                         </div>
@@ -65,6 +56,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra</div>
+                                <div class="date">10 Sept 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Don't let anyone take away your big box of cables</div>
                                 <div class="date">10 Sept 2026</div>
                             </div>
@@ -74,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Music Theory for the 21st-Century Classroom</div>
+                                <div class="title">Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)</div>
                                 <div class="date">10 Sept 2026</div>
                             </div>
                         </div>
