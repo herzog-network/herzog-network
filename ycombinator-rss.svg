@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">KetchUp – Open-source SketchUp alternative built with Rust and WebGPU</div>
-                                <div class="date">8 Nov 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Unlocking any car from X brand in most of the world</div>
+                                <div class="title">Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system</div>
                                 <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I'm not convinced the AI bubble exists</div>
+                                <div class="title">Fold Epic Paper Airplanes</div>
                                 <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
@@ -47,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chimera Vocal Synth</div>
-                                <div class="date">8 Nov 2026</div>
+                                <div class="title">Magenta solar panels may be agrivoltaics' cleverest trick yet</div>
+                                <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Declarative Dragging</div>
-                                <div class="date">4 Nov 2026</div>
+                                <div class="title">Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI</div>
+                                <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dux: Free, open-source Wayland desktop shell with file manager and theming</div>
-                                <div class="date">8 Nov 2026</div>
+                                <div class="title">Zebkit – Chromium as an embeddable library</div>
+                                <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Outlook.com is rejecting email from domains without DMARC</div>
-                                <div class="date">8 Nov 2026</div>
+                                <div class="title">When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385</div>
+                                <div class="date">9 Nov 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">What is malloc doing, anyway?</div>
+                                <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
                     </section>
